@@ -1,0 +1,22 @@
+our work is closely related to the field of human group analysis @ cite @ cite .
+ in this section , we focus on the problem of recognizing human group activities in terms of motion trajectories and high-level relations between actions .
+ in @ cite , the discriminative characteristics of the top-level dialogue manager were used to predict the varying number of participants .
+ @ cite propose a layered model for learning a dialogue agent to describe the variability of entities in the scene .
+ in their work , they use a top-level top-level layer to predict primitive actions and ensure that the high-level semantic graph is able to predict a low-level dialogue policy .
+ in contrast , our work focuses on the activity of the actions , which is the focus of our work .
+ in the context of group activity recognition.
+ , we use uniform statistical appearance information to model the relations between different granularities of countable group activity categories .
+ we show that our approach can be seen as an extension of the work of @ cite and @ cite who propose a hierarchical reinforcement learning approach to encode the variability in a probabilistic dialogue manager .
+ there has been a growing body of work on group detection for group activity recognition @ cite @ cite .
+ for example , in @ cite , the authors propose a hierarchical dynamical model to predict activities of activities for automated recognition.
+ Experiments .
+ @ cite propose a fuzzy Q-learning approach to recognize related activities within a scene and recognizes related activities into the motion and context features.
+ .
+ in this work , we focus on the temporal patterns of human objects and high-level relations between actions and activities at different frames .
+ our work is complementary to the work of @ cite and @ cite in the context of group activities in continuous action space .
+ in the work , @ cite proposed a structural model to represent activities in space and utilize the identified patterns in space of motion segmentation .
+ the ordinal pattern of a group of subregions.
+ is modelled as a fuzzy rule-based system.
+ model , and the temporal continuity of the ball is modeled as a markov chain of the state space of the depth map, .
+ this approach is similar to our work , but in the following , we do not consider the problem of predicting the complexity of activities in the testing process .
+

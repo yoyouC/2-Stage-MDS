@@ -1,0 +1,23 @@
+Differential privacy @cite has been widely used in machine learning .
+ Differential privacy has been used in many machine learning applications, e .
+g .
+, @math , @math and @math  .
+ Differentially private methods have been proposed for learning in the data-rich regime .
+ Differentially Private methods have also been used for training in the privacy-rich setting .
+ For instance, in @math -learning, the authors present a differentially private algorithm for training a classifier using decision trees .
+ In @math-learning, @math is the number of parameters in the classifier .
+ In this paper, we focus on learning a model that is sensitive to membership inference and memorization .
+ Differentially private approaches have been proposed for differentially private machine learning .
+ For example, @cite proposed a differentially-private ADMM algorithm for multi-view deep neural networks .
+ In this work, the authors proposed an algorithm to reduce the number of iterations of the ADMM by inserting Gaussian noise with linearly decaying variance .
+ In addition, they also proposed a method to improve the utility of the model .
+ However, these methods are not suitable for cloud-based machine learning services due to the high computational cost .
+ In contrast, LATENT can be used for DL models with high accuracy .
+ Differential privacy @cite is a privacy-preserving approach for learning deep neural networks .
+ Differential privacy has been successfully applied in many different domains, such as machine learning, natural language processing, and machine translation .
+ Differentially private approaches have been proposed for differentially private machine learning tasks, e .
+g .
+, machine translation, image classification, and so on .
+ In this paper, we focus on the DL problem, which is different from the other DL problems in this paper .
+ In particular, we propose a local differential privacy (LDP) algorithm for learning DL models in a way that a data owner can add a randomization layer before data leave data owners' devices and reach to a potentially untrusted machine learning service .
+ This

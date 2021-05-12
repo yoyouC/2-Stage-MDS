@@ -1,0 +1,17 @@
+Dynamic voltage and frequency scaling (DVFS) has been widely used for energy management in the context of distributed computing @cite  .
+ DVFS has also been used to control the performance and energy consumptiities of distributed systems in @math and @math  .
+ In @math , DVFS has been used as an energy management technique to reduce the energy consumption of a processor .
+ The authors in this paper focus on the application of DVFS to distributed systems .
+ In this paper, we focus on applications where DVFS is used to optimize the performance of a computer system .
+ In particular, DVFS can be used to minimize the energy dissipation for a given performance constraint at runtime .
+ In @cite , the authors study the impact of CPU pinning on performance interference and energy consumptiities in high-performance computing (HPC) .
+ They show that the effect of pinning depends on workload type and system architecture .
+ They also show that pinning has no correlation to performance performance .
+ In @math , the author studies the impact on the power efficiency of a single processor under different workloads and device leakage characteristics .
+ The authors in @math study the effect on the performance of a multi-core processor under a power bound, under several different power bounds, under different hardware characteristics .
+ They demonstrate that, in the absence of an energy bound, this variation in efficiency translates into variation in performance as high as 61 In @cite , the authors proposed a message-passing protocol that allows cores to communicate through shared memory .
+ However, the authors did not address the issue of power consumption .
+ In this paper, we focus on the design of a chip that integrates 48 Pentium™ class IA-32 cores on a 6×4 2D-mesh network of tiled core clusters with high-speed I Os on the periphery .
+ The chip contains 1 .
+3B transistors and has a private 256KB L2 cache (12MB total on-die shared memory) and an 8-byte bidirectional system interface (SIF) for increased performance .
+

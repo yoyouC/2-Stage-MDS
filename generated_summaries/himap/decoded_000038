@@ -1,0 +1,16 @@
+In this paper, we focus on the problem of semantic segmentation in the presence of a single image image with a given image input. 
+ In @cite , the authors propose to use a CNN to predict the missing content of the image in the image. 
+ In this work, we show that the proposed method can be able to achieve state-of-the-art performance on the latent resolution. 
+ However, it is not clear how to model the missing image structure in the latent space instead of the whole image. 
+ In our work, we propose a novel method for semantic segmentation that can be used to generate semantic image segmentation. 
+ We also use the adversarial losses as the feature extractor for semantic image segmentation as a feature extractor and achieve better performance in the semantic segmentation task compared to the proposed method. 
+ Furthermore, we show that <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> In this paper, we propose to use a generative adversarial network (GAN) to learn a discriminative representation of a 3D face from a single image to a single face image. 
+ The network is trained using a generative model @cite @cite @cite . 
+ In @cite , the authors propose a generative network model for face detection by using a recurrent neural network that is trained to predict the spatial relations between labels in a single image. 
+ The proposed method is able to model the underlying spatial information of the labels in the face image. 
+ In contrast, our approach is designed for face detection. 
+ In our work, we propose a novel generative model that can be used to train a CNN model for facial image segmentation. 
+ We also use the generative model for the task of face detection in the context of image deblurring @cite @cite , but they do not consider the semantic relations between the candidate face and the facial landmarks. 
+ In addition, our method is based on the assumption that the labels are visible and the candidate regions are valid for the face patterns. 
+ In contrast, we show that it is possible to achieve state-of-the-art performance on the face detection task. 
+

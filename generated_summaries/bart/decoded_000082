@@ -1,0 +1,8 @@
+Recently, end-to-end AES models have achieved great success in many computer vision tasks, such as image classification @cite , semantic segmentation @math , and natural language processing @math  .
+ The state-of-the-art AES models can be divided into two categories: feature-engineered models and end to-end models .
+ Feature-based models are mainly used for image classification, semantic segmenting, and segmentation, e .
+g .
+ image captioning .
+ The feature-engineering models are usually based on hand-crafted features, which are then used to extract features from the extracted features .
+ For example, the CNNs are used for the segmentation task, and the CNN is used for segmentation .
+ The CNNs

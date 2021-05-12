@@ -1,0 +1,14 @@
+there has been a large body of work on model-based anomaly detection in the context of smart environments .
+ for example , @ cite proposed a method to estimate the simulation of a system based on the estimated states and the combination of methods.
+ location information in real time .
+ in @ cite , the authors present a resampling method to track the The of the system using a set resampling approach .
+ however , they do not consider the case of the calibration of the exemplar platform and the initial loading of the route route .
+ in contrast , our approach does not require a large amount of historical data , which is not readily available in the real world .
+ furthermore , we propose a novel resampling approach to improve the predictions of the dynamics of a given bus route system .
+ the authors of @ cite present a new resampling algorithm for multiple agents.
+ data assimilation , i.
+e.
+ like @ cite and @ cite .
+ however is different from ours , since collecting a large number of models is not available .
+ in our work , we show that the component calibration can be used as a component set of calibration and testing phases .
+

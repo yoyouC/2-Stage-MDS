@@ -1,0 +1,29 @@
+the semantic scene reconstruction problem has been extensively studied in the context of image recognition @ cite @ cite , image classification @ cite and object detection @ cite .
+ in this work , we focus on the fusion of the object and the scene information in the given image and the image class .
+ we use the unique traits of the image , which is based on the assumption that the category of the images of the scene is retrieved from the 2D image .
+ in contrast , our approach is different from ours , since it is not clear how to reconstruct the scene of interest in the image recognition problem .
+ our work is also closely related to the work of [UNK] al @ cite which uses a manifold regularized deep architecture to predict the object of a given scene .
+ the authors of @ cite use a similar approach to learn the internal features of consecutive video frames .
+ in @ cite the authors propose a Conditional Random formulation for learning a mapping between object-centric layer and hidden layer.
+ features .
+ @ cite proposed a novel deep learning approach to improve the performance of learning from large datasets .
+ the problem of estimating the illumination and space of a real scene has a long history @ cite @ cite .
+ in this section , we briefly review the most relevant work .
+ we refer readers to @ cite for a comprehensive overview of recent developments in computer vision and computer vision .
+ for example , @ cite and @ cite discuss the use of deep convolutional neural networks ( cnns ) .
+ in @ cite , the authors show that the learned features are able to predict the location of the scene class .
+ @ cite proposed a convolutional neural network ( cnn ) for rgbd and depth features .
+ the authors of @ cite use a deep convolutional network to classify the images of the image and the scene information .
+ in contrast to our work , we focus on the fusion of features for scene text , which is the focus of our work .
+ in the context of image-text recognition , our method is based on the overall illumination and the reflectance properties of the surface , and the coherence loss can be inferred from the lowest layer of the deep scene .
+ the difference is that the traits of the object and the shape are inferred from a given image .
+ in this section , we briefly review previous work on indoor scene recognition .
+ we refer readers to @ cite @ cite for a comprehensive survey of the most relevant research topics in computer vision and computer vision .
+ in @ cite , the authors present an overview of neural networks in the context of scene categorization .
+ @ cite used deep features extracted from three discriminative views, categories of deep learning and unsupervised spatial feature learning, .
+ the knowledge of the information of the scene is categorized and split into two categories : [UNK] and [UNK] @ cite .
+ the authors of @ cite provide a unified representation for scene recognition and scene information .
+ in contrast to our work , we focus on the problem of scene recognition in the given image and the scene information represented by the object and the angle between the sensitive regions and the sensitive labels .
+ the difference between our work and the previous work @ cite and @ cite is based on the use of hand-engineered features to guide the scene to improve the accuracy of the categorization accuracy .
+ our work is also related to the work of zhou al @ cite who show that the deep features learned from multiple discriminative features can be used to merge ambiguous classes .
+

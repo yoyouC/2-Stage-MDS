@@ -1,0 +1,17 @@
+In @cite , the authors study the invariance properties and the distinctiveness of color descriptors in the context of image category recognition .
+ The authors show that, for light intensity changes and light color changes, the usefulness of invariance is category-specific .
+ The results further reveal that, when choosing a single descriptor and no prior knowledge about the data set and object and scene categories is available, it is useful to choose a combined set of descriptors and to recommend the ones that outperform intensity-based SIFT and improve category recognition by 8 percent on the PASCAL VOC 2007 .
+ Local binary descriptors (LBDs) @cite have been shown to be good at matching image parts, but they require a large amount of training data .
+ In order to reduce the training and execution time, they introduce a new loss function that exploits the relations within the triplets .
+ In this way, the extraction time of a 128 dimensional feature is comparable to the fastest available binary descriptor such as BRIEF and ORB .
+ However, their extraction time is not comparable to that of FREAK descriptor because of the intensity comparison between pairs of sample points and comparing after creating a binary string .
+ In @cite , a cascade of binary strings is computed by efficiently comparing image intensities over a retinal sampling pattern .
+ The cascade is then used to compute a binary string .
+ The results show that the matched keypoints are in general faster to compute with lower memory load and also more robust than SIFT, SURF or BRISK .
+ They also show that FREAKs are more robust to scale, rotation and noise .
+ However, their experiments show that compared keypoints require less computation time than FREAK descriptor and requires fewer memory resources compared to other descriptors like SIFT and SURF .
+ @cite proposed Local Binary Similarity Patterns (LBSP) which is based on the idea of comparing the color of pixels in the current image with colors in a background model .
+ They proposed a small binary descriptor that is named local binary similarity patterns ( LBSP) .
+ LBSP uses a feature at each pixel position to account for change affecting groups of pixels, and at the same time adds robustness to local perturbations .
+ They showed that LBSP outperforms the state-of-the-art background subtraction descriptors in terms of the number of samples compared to the original image .
+

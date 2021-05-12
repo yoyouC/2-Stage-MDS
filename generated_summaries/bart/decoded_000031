@@ -1,0 +1,14 @@
+Text matching has been extensively studied in computer vision and natural language processing @cite  .
+ The state-of-the-art methods for text matching can be roughly divided into two categories .
+ The first category consists of neural network based methods that extract features from the input text .
+ The second category includes deep neural networks that learn features from both input text and output text .
+ For example, the CNN-based methods are used to extract features for text segmentation and text matching .
+ The two-stream CNN models are used for text and image segmentation .
+ In the third category, the deep neural network models are proposed to learn features for the text matching task .
+ The deep neural models have been shown to be effective in many computer vision tasks, such as image Our work is closely related to the work of @cite , which proposed a two-stage approach for text matching .
+ In the first stage, they use a set of pre-trained features to predict the fixations of human eye with certain fixations .
+ The second stage is to learn features for both sketches and views .
+ In this way, the matching is performed in both the original and the reconstructed features .
+ In contrast, our approach does not use any pre-computed features, but only the original features and the contextual features of the previous layers .
+ Our work is also related to recent works on image captioning and paraphrase identification .
+

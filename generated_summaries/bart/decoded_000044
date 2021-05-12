@@ -1,0 +1,33 @@
+Our work is also related to the work of @cite , who proposed a method to learn a latent representation for both the source and target domains jointly and also use prototype in the attribute space to regularise the learned projection matrix .
+ Our method differs from these works in two ways .
+ First, our method is based on latent space factorisation .
+ Second, we use a latent vector which separates information encoding the attributes from other characteristic information, and also disentangles the attribute information of the latent representation individually without affecting others .
+ This allows us to manipulate each attribute in the latent space independently without affecting any others .
+ Generative Adversarial Networks (GANs) @cite have been widely used in computer vision for image generation .
+ GANs have been shown to be effective in generating images in a variety of applications, such as image inpainting, super-resolution, and face recognition .
+ @math -GANs have also been used to generate face images in various applications .
+ For example, @math-GANs are used to learn the relationship between the latent space and the real image space, and have been successfully applied to face generation in @math  .
+ @math , @math and @math have been proposed to learn a latent representation for the face, which can be used to control the appearance of the generated images .
+ Our work is also related to the work of @cite , who proposed a method for latent space factorisation based on a deep Convolutional Generative Adversarial Network (DCGAN) .
+ The DCGAN is trained on a dataset with labelled attributes, and is able to generate a latent vector which separates information encoding the attributes from other characteristic information, and also disentangles the attribute information from other attribute information .
+ This allows us to manipulate each attribute of the latent representation individually without affecting others .
+ In contrast, our method is simpler than the state of the art adversarial network approaches to latent space factorsisation .
+ Generative adversarial networks (GANs) @cite have been shown to be effective in generating images from latent variables .
+ They have been successfully applied to image classification @math and attribute generation @math  .
+ However, these methods are not suitable for the task of attribute manipulation, as they do not consider the relationship between the latent variables and the attribute information .
+ In contrast, our method allows us to manipulate each attribute of the latent representation individually without affecting others .
+ Our method is simpler than the state of the art adversarial network approaches to latent space factorisation, as it does not require any training data .
+ There is a large body of work on latent space factorisation in computer vision .
+ @cite proposed a method to factorise the information in the latent space of an autoencoder to improve the interpretability of the latent representation .
+ @math -VAE @cites is a method that combines the information of the attributes and the latent vector of the autoencoders .
+ The latent vector is then used to generate the samples from the given attributes and use the generated samples for classification of the unseen classes .
+ The method is based on a latent SVM formulation where latent variables capture the degree of importance of each attribute for each action class .
+ In attribute learning, the attribute information is encoded into a continuous vector space, which is then used to learn the latent representations for each vertex @cite  .
+ In this way, the attributes can be jointly encoded in a unified, latent representation .
+ In attribute learning there are two main approaches to attribute learning .
+ The first is to embed each vertex of a graph into a discrete vector space where the localized structural and attributive information of vertices can be encoded in the unified latent representation, and the second is to use truncated, attribute-aware random walks to learn latent representations .
+ The second approach is to combine the attributes of the graph and the latent representation of the latent space .
+ In this work, we combine the information from the attribute space and the In @cite , a generative adversarial network (GAN) is trained to distinguish between joint latent data-space samples from the generative network and joint samples from an inference network .
+ The generator network maps samples from stochastic latent variables to the data space while the discriminative network maps training examples in data space to the space of latent variables .
+ The adversarial process is cast between these two networks and an adversarial game is cast .
+ The authors demonstrate the ability of the model to learn mutually coherent inference and generation networks through the inspections of model samples and reconstructions and confirm the usefulness of the learned representations by obtaining a performance competitive with state-of-the-art on semi-supervised SVHN and CIFAR

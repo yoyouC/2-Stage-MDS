@@ -1,0 +1,12 @@
+anomaly learning has been extensively investigated in the literature @ cite @ cite .
+ in this work , we focus on the intrusion detection problem , which can be organized into two categories .
+ first , we are interested in identifying the abnormal accounts of the network and derives a Poisson-Gamma joint probabilistic generative model for network intrusion detection .
+ the proposed framework is based on deep belief network ( [UNK] ) @ cite , which has been shown to be effective in a variety of machine learning tasks , such as anomaly detection @ cite and semi-supervised learning @ cite have been used to improve the detection of malicious attacks .
+ in @ cite the authors propose to use spectral clustering to generate synthesised abnormal attacks using random forest and deep learning based data augmentation.
+ .
+ @ cite proposed an intrusion detection system using deep neural networks ( ann classifier.
+ ) .
+ the algorithm is used to estimate the labeled samples from the original training data and then learns a better classifier to predict the intrusion separately .
+ the authors of @ cite explore the use of deep adversarial learning for intrusion detection and pattern recognition .
+ they proposed a novel network based learning approach to supervised learning .
+

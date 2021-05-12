@@ -1,0 +1,24 @@
+Motif discovery is a well-studied problem in machine learning and computer vision .
+ Motif discovery has been studied in the context of machine learning for a long time @cite  .
+ The main goal of this work is to discover patterns that are previously unknown and appear with a given frequency in time series .
+ The main drawback of this approach is that it is not suitable for the task of word segmentation because of the large number of time series in the dataset .
+ Therefore, we propose the Variable Input Length Map (VILMAP) for Motif Discovery and Word Segmentation .
+ VILMAP is based on the Self-Organizing Maps and can identify Motifs with different lengths in the time series and can avoid catastrophic forgetting when trained Time Series Motif Discovery (TSMD) is closely related to the problem of multidimensional time series motif discovery (MSTAMP) @cite  .
+ MSTAMP is a probabilistic algorithm that is able to find motifs with very high probability even in the presence of noise or "don't care" symbols .
+ It is an anytime algorithm, producing likely candidate motifs almost immediately, and gradually improving the quality of results over time .
+ However, it is not a anytime algorithm because it requires a large number of parameters and is not suitable for streaming data .
+ In addition, it does not support streaming data, which makes it unsuitable for TSMD .
+ Motif discovery in time series has received much attention in the data mining community since its inception @cite  .
+ Motif discovery is defined as searching for patterns that are previously unknown and appear with a given frequency in a given time series .
+ In this paper, we propose the Variable Input Length Map (VILMAP) for Motif Discovery and Word Segmentation .
+ VILMAP is based on the Self-Organizing Maps and can identify Motifs with different lengths in a time series, which is similar or superior to other methods in the literature developed for the task of word segmentation .
+ In @cite , the authors propose a novel algorithm that requires no window length parameter .
+ This algorithm automatically returns suitable motif lengths from all possible sliding window lengths; in other words, it efficiently reduces a large set of possibilities of the sliding window length down to a few truly-interesting variable-length motifs .
+ The algorithm is based on the Self-Organizing Maps and can identify Motifs with different lengths in time series .
+ However, it is sensitive in that a small difference in the value can lead to huge difference of motif results .
+ The proposed algorithm is not able to reduce the number of possible motifs that must be known a priori .
+ In @cite , the authors propose a tractable exact algorithm to find time series motifs .
+ They show that their algorithm is up to three orders of magnitude faster than brute-force search in large datasets .
+ They further show that our algorithm is fast enough to be used as a subroutine in higher level data mining algorithms for anytime classification, near-duplicate detection and summarization, and they consider detailed case studies in the literature as diverse as electroencephalograph interpretation and entomological telemetry data mining .
+ In addition, they show that VILMAP achieves results similar or superior to other methods developed for the task of word segmentation .
+

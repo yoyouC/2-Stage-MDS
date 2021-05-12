@@ -1,0 +1,17 @@
+transfer learning has been widely researched in the field of computer vision .
+ for example , @ cite proposed a probabilistic topic model that integrates user-defined and latent attributes into multiple balanced data learning .
+ @ cite use the source domain to train a classification model for imbalanced data learning , where the goal is to minimize the distribution divergence between the target domain and the data .
+ in @ cite , the authors proposed a novel transfer learning method to learn multimodal attribute analysis , and @ cite propose a novel sampling strategy to jointly optimize the learning performance .
+ however by @ cite @ cite the authors in this paper , we focus on the problem of Human attribute imbalance in transfer learning , rather than relying on the density of the conditional distribution of the target domains , which are not available in the domain of the class imbalance problem .
+ in contrast to our work , we aim to changes the semantic gap between domain and metric learning , which is the main focus of our work .
+ however in the context of imbalanced data , we show that a principled treatment of curriculum learning can be used to improve the performance of the imbalanced data .
+ in the field of computer vision , deep learning has been widely used in the domain of object categorization @ cite @ cite .
+ in the context of imbalanced data learning , @ cite proposed a curriculum learning method to regularize the learning process .
+ @ cite used a neural network to predict the ROC of the minority attribute classes .
+ the authors of @ cite show that learning a deep neural network for each cluster has a significant increase in the accuracy of the data distribution .
+ in @ cite , the authors proposed a deep classification model for single-view attribute recognition .
+ however to the best of our knowledge , no previous work has been done on the task of metric learning in a supervised manner .
+ in contrast to our work , we focus on the problem of Human attribute analysis in a learning framework , which can be seen as a special case of online learning .
+ however is different from ours in the sense that the overall learning rates are learned from the training data , which is not readily available in our experiments .
+ our work differs from the previous work in this area .
+

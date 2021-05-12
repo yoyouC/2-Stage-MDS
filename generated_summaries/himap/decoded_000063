@@ -1,0 +1,9 @@
+@cite proposed a center loss based approach to train the deep neural network for face recognition task. 
+ In this work, we extend the idea of softmax based loss to train a deep neural network. 
+ This model is trained on the SincNet of the SincNet proposed in @cite . 
+ In @cite , the authors show that the center loss function can be improved with the loss function and the distance between the deep features and the output of the network and the other layers. 
+ In this paper, we propose a novel AM-Softmax loss function that can be applied to face recognition systems based on deep learning and center loss, which can be further extended to the network learning and the joint supervision of the center of deeply class and center of the class as well as the loss of this method. 
+ However, in this paper we propose to learn a new supervision for speaker recognition systems and show that it is possible to achieve the state-of-the-art performance on the speaker recognition problem. 
+ In our work, we propose an improved loss function which is able to learn the discriminative supervision of each class of classes in the training phase. 
+ In our paper, it is not clear how this method can be used to improve the performance of deep learning models. 
+

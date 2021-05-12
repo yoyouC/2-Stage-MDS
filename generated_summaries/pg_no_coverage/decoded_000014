@@ -1,0 +1,26 @@
+there has been a growing body of work on transfer learning @ cite @ cite .
+ in this work , we focus on the problem of learning with label proportions(TL-LLP) in uncertain data .
+ in @ cite , the authors propose a transfer learning-based approach to transfer knowledge between source and target domains .
+ the goal is to select the best label from the target task , and then the latent proportions of the tasks is minimized .
+ for example , @ cite and @ cite have proposed a message-passing algorithm for knowledge transfer between source task and target task labels .
+ however to the best of our knowledge , this work is the first to consider the uncertain data and deals with transfer knowledge merely .
+ our approach is similar to the work of @ cite where the authors show that the kl divergence can be viewed as a monte-carlo learning problem , and in the latter setting , the label proportions is estimated from the bag-level potentials from the structure of the source and the source of the target task.
+ .
+ the authors of this paper are complementary to our work , but in this paper , we do not consider the weak accuracies of this work .
+ there has been a lot of work on category transfer learning @ cite @ cite .
+ in this work , we focus on the knowledge transfer between source and target task class labels' and domain adaptation to transfer knowledge from the source domain to the target label space .
+ in @ cite , a shared label space is used to learn a subspace of the target domain class from the semantic space to reduce the distribution discrepancy .
+ @ cite propose a sparse coding framework for partial transfer learning , which is based on the assumption that the target domain, is vulnerable to the partial transfer of the data .
+ in contrast , our approach is similar to ours in the sense that the label proportions is maximized to match the discrepancy between the target and target tasks .
+ the objective of this method is to find the optimal classifier for the uncertain domain adaptation problem , which can be seen as a new domain adaptation task .
+ the problem of transfer learning has been studied in different domains , such as SEP @ cite and [UNK] @ cite for transfer learning .
+ however , these methods do not consider the uncertain transfer of knowledge transfer .
+ the knowledge transfer between source and target domains has been investigated in @ cite @ cite .
+ in this work , we focus on the problem of learning with label proportions(TL-LLP) based on the assumption that the source or target task can be generated from a source of target tasks .
+ the goal is to infer the target samples from the source of source tasks .
+ @ cite , @ cite and @ cite have proposed to learn the domain classifier to learn a distinctive group of the latent attributes of the domain .
+ in contrast , our approach does not assume that the latent proportions of the data is given by the support vector machine learning model , which can be interpreted as a transfer of discriminators .
+ in the context of image-text methods , we use a similar approach to transfer knowledge from source task and target task classifier .
+ in particular , we are interested in identifying the features of the target and the source in the target domain , which is the most relevant to our work .
+ however which has not been studied in this paper , we do not attempt to provide a novel iterative framework for the uncertain data .
+

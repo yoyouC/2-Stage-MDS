@@ -1,0 +1,22 @@
+Online action localization @cite aims to predict actions and their locations as they happen in a video .
+ The goal is to estimate pose and oversegment the current frame into superpixels using the pose bounding boxes .
+ However, the action localization is performed in an offline manner where all the frames in the video are processed together and action labels are not predicted for the future .
+ The action confidence is predicted using dynamic programming on SVM scores obtained on short segments of the video, thereby capturing sequential information of the actions .
+ In this paper, we propose a simple yet effective star-shape information bridge for RNN to transfer features across time-steps .
+ Recently, deep learning has been applied to video prediction .
+ @cite proposed a CNN-LSTM-deCNN architecture to predict future frames in natural video sequences .
+ They proposed an encoder-decoder Convolutional Neural Network (CNN) to learn the spatial layout of an image and the corresponding temporal dynamics .
+ They also proposed a convolutional LSTM to learn a representation of the latent structure of the underlying three-dimensional objects themselves, which simplifies the task of object classification and generalizes well to new tasks, such as classification of static images .
+ However, these methods suffer from uncertainty of the future, which is highly influenced by temperature, atmospheric, and humidity .
+ @cite propose a method for video-to-video translation using pose as an intermediate representation .
+ They extract poses from the source video and apply the learned pose-to--appearance mapping to generate the target subject .
+ However, their method requires a large amount of training data, which is not suitable for weather forecasting applications .
+ To address this issue, we propose a star-bridge neural network (StarBriNet) to transfer features across time-steps .
+ We first construct a simple yet effective star-shape information bridge for RNN, and then utilize group normalization to refine the predictive performance of our network .
+ In @cite , the authors propose a convolutional LSTM (ConvLSTM) network to predict the future rainfall intensity in a local region over a relatively short period of time .
+ However, their model does not take into account the uncertainty of the future .
+ In contrast, our model takes into account uncertainty of future precipitation intensity .
+ In addition, we utilize group normalization to refine the predictive performance of our model .
+ Moreover, we use group normalizing to refine our predictive performance, which is similar to the work presented in this paper .
+ Furthermore, our network is designed to transfer features across time-steps .
+

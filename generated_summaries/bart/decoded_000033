@@ -1,0 +1,11 @@
+3D shape captioning is a challenging application in 3D shape understanding due to the lack of detailed part-level description in the 3D shapes .
+ To address this issue, some works have proposed to learn 3D features from multiple views .
+ @cite proposed a hierarchical view-group-shape architecture, i .
+e .
+, from the view level, the group level and the shape level, which are organized using a grouping strategy to estimate the content discrimination of each view, based on which all views can be splitted into different groups according to their discriminative level .
+ In this work, we propose a novel part class specific aggregation to represent a shape .
+ 3D shape recognition is a challenging application in computer vision due to the lack of accurate representation of 3D shapes .
+ In recent years, deep learning based methods have achieved remarkable results in 3D shape understanding .
+ @cite proposed a deep CNN architecture trained to recognize the shapes' rendered views independently of each other, and showed that a 3D CNN can be recognized even from a single view at an accuracy far higher than using state-of-the-art 3D Shape descriptors .
+ In addition, a CNN architecture that aggregates information from multiple views into a single and compact shape descriptor offering even better recognition performance .
+

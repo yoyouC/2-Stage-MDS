@@ -1,0 +1,34 @@
+image matching algorithms have been widely used in the field of computer vision , such as image recognition @ cite , image classification @ cite @ cite and invariance analysis @ cite .
+ the most comprehensive work is the work of @ cite which is concerned with the scope of this paper .
+ in contrast to our work , we focus on the extraction of color descriptors for color descriptors , as well as the segmented keypoints , and the color invariant features are used to identify color descriptors .
+ our work differs from the above mentioned work in the sense that the invariance of keypoints matched to light points is influenced by the intensity comparison of the color descriptors of objects in the image , and we refer to @ cite for a more comprehensive review of invariance to the deformations of the distinctiveness of keypoints .
+ we refer readers to the recent survey @ cite in the following sections , we refer the reader to our previous work on feature extraction and keypoint extraction .
+ we compare the detailed readers to our readers to this paper , in section we discuss the details of the related work in section .
+ a number of approaches have been proposed to address the problem of learning local descriptors for matching image patches.
+ @ cite @ cite .
+ for example , @ cite proposed a method based on convolutional neural networks ( cnns ) for matching keypoints .
+ @ cite uses 128 dimensional feature maps as a pre-processing step for the extraction of images .
+ however after obtaining improved performance , the results of these descriptors are not well suited for the privacy and secrecy of image keypoints .
+ in contrast , our approach is based on the function of the keypoints , rather than the peak points , and the time of the human experts can be used to reconstruct the entire image .
+ in our work , we assume that the keypoints are more accurate than the number of points in the triplets.
+ space , which is not possible in the context of the keypoint descriptor .
+ in addition , we propose a keypoint descriptor based on a new loss function that facilitates the use of the morphological operators in the sample points .
+ we use the Morphological of @ cite to obtain matched keypoints for each cluster center , as we will show in the present work .
+ a number of approaches have been proposed to address the problem of image matching algorithms .
+ for example , @ cite proposed a keypoint descriptor for matched keypoints based on the function of the image intensities .
+ @ cite showed that matched keypoints can be reliably represented by a binary descriptor .
+ however , these descriptors are not tightly coupled with lower bounds on the matching time .
+ however after obtaining improved results , it is not clear whether the keypoints matched to keypoints are matched .
+ in the case of the visual sampling , the intensity comparison of keypoints was determined by comparing the histogram of the binary strings .
+ the goal of this approach is to find a quality of the descriptors for the sampling of the keypoints , which is then used to identify the features in the sampling phase .
+ in contrast , our approach does not require a large amount of data to be carried out in the context of the human body , and the efficiency of the sampling algorithm is not suitable for keypoints , as evidenced by the fact that points can be used to detect keypoints and match the keypoints .
+ the problem of background subtraction has been addressed in the context of image matching @ cite @ cite .
+ in this section , we review the most relevant work related to background subtraction @ cite , Instead @ cite and [UNK] @ cite for the purpose of detecting moving objects in background model.
+ .
+ in contrast to our work , we focus on the background subtraction in the current image , and the detection of the color of pixels in the image is not considered in the scope of this paper .
+ in the following , we propose a small binary descriptor for comparing the color thresholds for comparing keypoints matched in the background , and compare the background quality of keypoints to detect moving objects against a background .
+ the background has been exploited to identify the best color thresholds of interest in background subtraction .
+ @ cite use the function of retinal sampling to determine whether a matched keypoints can be matched .
+ the authors of @ cite proposed a method to detect changes in the number of pixels .
+ in @ cite the authors present a method for detecting the advent of the image and the current roi descriptor .
+

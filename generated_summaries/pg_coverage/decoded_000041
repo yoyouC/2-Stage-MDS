@@ -1,0 +1,18 @@
+there are two main approaches for opinion extraction and opinion extraction .
+ the most common approach is to use a rule-based model to detect topical aspects of subjective content @ cite @ cite .
+ in the context of text summarization , @ cite proposed a unified generative model for LARA, summarization , which is based on the use of ternary classifiers, to expand the initial opinion lexicon .
+ @ cite uses a dependency parser to identify the latent topical ratings for each term in the manufacturer of the aspect information .
+ in @ cite , the authors present a unified framework for assessing both opinion mining and semi-supervised and opinion word ranking method .
+ in this work , we focus on the user-generated content and link opinion extraction in the domain of the opinion extraction task .
+ we refer readers to @ cite for a comprehensive review of the previous work on opinion extraction ( nli ) .
+ we review the most relevant work related to our work in terms of the scope of the present work in the area of opinion mining .
+ in particular , we present a brief review on the topic of the glosses associated with the glosses .
+ there has been extensive research on sentiment analysis and opinion mining @ cite @ cite .
+ in the context of sentiment analysis , summarization has been researched for decades , e.
+g of opinion mining , such as sentiment analysis ( lda ) @ cite , [UNK] @ cite and pre-election @ cite for sentiment analysis .
+ @ cite proposed a probabilistic model based on a new topic model called [UNK] statistical analysis to identify online deceptive opinion spam .
+ the authors of @ cite used a statistical model to classify the review sentiment polarities of the movie review , and @ cite focused on identifying the sentiment polarity of the tweets .
+ the work in @ cite focuses on aspect-based leanings and found that users can not detect whether truthful language has been used for opinion extraction .
+ in this paper , we focus on the user-generated content and extract topics from reviews , and analyze the sentiment polarities associated with the current status of the reviews .
+ in our work , we aim to capture the general difference between aspect ratings and review articles , and compare the results of the proposed approach to sentiment analysis in text and summarization .
+

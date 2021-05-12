@@ -1,0 +1,27 @@
+there is a large body of work on multi-view stereo matching , such as @ cite @ cite , @ cite and @ cite .
+ @ cite present a light-weight architecture for aligning point clouds with point clouds in the context of noisy point clouds .
+ in @ cite the authors present a comprehensive review of multi-view stereo systems .
+ the authors of @ cite propose a method to predict the persistence of an object in a road cloud .
+ in this work , we use a deep feature extraction technique for the point cloud reconstruction based on the geometry of the features extracted from the input point cloud .
+ our work differs from theirs in two aspects : 1 ) we are able to learn the entire point cloud for a given set of point clouds , which is a generalization of the pyramidal network in the reconstruction process .
+ our approach is similar to our work in the sense that the alignment between the point clouds and a skeleton can be inferred from a given point of view images .
+ in contrast to our approach , this approach can be viewed as a special case of our reconstruction method .
+ in this section , we review the most relevant work related to our work .
+ we refer readers to @ cite for a detailed review of the literature on point cloud reconstruction .
+ the most related work to ours is the work of @ cite and @ cite , where the authors present a fully convolutional neural network ( cnn ) to solve the problem of point clouds .
+ @ cite employ a generic cnn architecture to encode a group of points in a point cloud .
+ however to the best of our knowledge , this approach is not suitable for supervised learning , structure-from-motion , and semantic segmentation , and the point cloud is not available for generating high-resolution images .
+ in our work , we use a deep cnn to predict point clouds for a given point cloud , which is the same as one of the most well-known ones .
+ in contrast to our approach , the pyramidal network has been applied to a wide range of applications , such as image classification @ cite @ cite or point clouds @ cite .
+ in particular , we show that the pyramidal point-cloud of the point clouds allows us to be able to capture the resolution of the entire point .
+ a number of approaches have been proposed to address the problem of vehicle generation from lidar point clouds @ cite @ cite .
+ for example , @ cite proposed a method to detect 17 facial landmarks based on the properties of the tagged point cloud .
+ the authors of @ cite present a method for inferring the depth map from a plenoptic image and a single image .
+ however creating a coarse representation of the entire point cloud is not limited to the light field .
+ in @ cite , the authors proposed the use of a light field to predict the position of the face in the object .
+ @ cite used a set of unbalanced octrees propagated lidar to a point cloud to obtain a view of the desired point cloud reconstruction .
+ the proposed approach is able to specifying the resolution of the point cloud , which is the same as the object.
+ of the pyramidal network .
+ in contrast , our approach operates on the spectrogram of the object , as well as the basis for generating the space of point clouds .
+ in our work , we use a deep neural network to predict point clouds for point clouds in the single coordinate space .
+

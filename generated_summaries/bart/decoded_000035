@@ -1,0 +1,6 @@
+In @cite , a social force model is proposed to model the collective motion of a group of pedestrians under the vehicle influence .
+ The social force is defined as the force that a pedestrian keeps a certain distance from other pedestrians and borders .
+ The resulting equations of motion of nonlinearly coupled Langevin equations are capable of describing the self-organization of several observed collective effects of pedestrian behavior very realistically .
+ The proposed model can be used to investigate pedestrian behaviors through multiple applications, including walking path prediction, destination prediction, personality classification, abnormal event detection, etc .
+ In addition, the proposed model is able to describe the collective effect of pedestrian behaviors under the influence of vehicle influence on pedestrians .
+

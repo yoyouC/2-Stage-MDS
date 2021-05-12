@@ -1,0 +1,16 @@
+In @cite , the authors present a comparison-based parallel sorting algorithm on a computing node with a heterogeneous CPU-GPU architecture with multicore CPU(s) and one or more GPU accelerators .
+ The algorithm consists of a bitonic sort followed by a merge sort .
+ The results show that the algorithm achieves the same bit error rate and has a lower decoding complexity than the conventional VA algorithm .
+ The authors also present an algorithm for parallel decoding of a general rate K Nconvolutional code based on recurrent neural network (RNN) based on Viterbi Algorithm (VA) .
+ In @cite , Lloyd's algorithm is used to obtain a PTAS for @math -median clustering in Euclidean spaces .
+ The algorithm is based on the assumption that the optimal clustering is more expensive than the optimal one .
+ In this paper, we show that the algorithm can be improved by a factor of @math for any constant @math and exponential in @math  .
+ We also show that our algorithm can increase by @math X than std::sort() .
+ In this work, we use neural network to enhance or even replace classical algorithm and also the benefit of designing algorithm specifically for heterogeneous computing frameworks .
+ @cite proposed a sorting algorithm by Machine Learning method, which shows a huge potential sorting big data .
+ This sorting algorithm can be applied to parallel sorting and is suitable for GPU or TPU acceleration .
+ Furthermore, they discuss the application of this algorithm to sparse hash table .
+ The application of @math sorting to sparse hashing table is discussed in detail in the paper .
+ In this paper, we propose a novel neural network-based sorting algorithm which can increases by @math X than std::sort() .
+ More importantly, we prove that our learned sorting algorithm holds lower time complexity than @math and easy implement in heterogeneous framework executed by CPU and GPU .
+

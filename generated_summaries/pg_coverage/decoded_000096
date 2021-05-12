@@ -1,0 +1,27 @@
+the semantic modeling of the scene has received a lot of attention in the past few years .
+ for example , @ cite proposed a robust method for learning semantic scene recognition, using the structural information of the modalities .
+ @ cite used a 3D approach to predict the shape of objects in the image , and then used to couple the occluded part of the image to the scene class .
+ in @ cite , the authors proposed a database regularized deep neural network for scene reconstruction using a means of 7 labeled images .
+ the authors of @ cite present a comprehensive review of the unique traits of consecutive video frames in the scene recognition.
+ However, .
+ the work of chen and sun @ cite tackles the problem of non-rigid segmentation and object recognition in scene understanding .
+ in contrast to our work , we focus on the recognition of object and scene information in scene labeling , rather than predicting the category of the object , as well as temporal consistency .
+ we refer readers to @ cite for a comprehensive survey on the fusion of deep neural networks .
+ in particular , we refer the reader to the recent work @ cite @ cite .
+ there has been a growing body of work in the area of computer vision , such as image classification @ cite @ cite , image recognition @ cite and scene labeling @ cite .
+ a brief review of the previous works on the fusion of convolutional neural networks ( cnns ) has been proposed in recent years .
+ for example , @ cite presents a comprehensive review of multi-modal fusion methods for image recognition .
+ @ cite used a cnn to extract features from the scene and the scene information in the image .
+ the authors of @ cite present a comprehensive analysis of CNN learned features for sequence recognition .
+ however to the best of our knowledge , there are two major differences between the two approaches : 1 ) we are aware of one of the most related approaches to scene coherence loss .
+ the former proves to be very effective in the domain of the real world .
+ for instance , in @ cite the authors present a unified framework for estimating the illumination distribution of a given query .
+ however versus , they do not consider the category of the illumination and the illumination changes in the scene .
+ in this section , we review the most relevant work related to the unique traits of the object and the scene biometrics .
+ we refer readers to @ cite @ cite for a comprehensive review of the most comprehensive survey .
+ the most related work to ours is the work of @ cite , where the authors present a two-stage pipeline for solving the scene recognition problem in the context of scene classification .
+ @ cite proposed a method for estimating the confusion between the objects of the scene and the surroundings .
+ the authors in @ cite propose a knowledge base model based on deep features extracted from three modalities .
+ in contrast to our work , we focus on the problem of segmenting the category of object semantics in the image , and we use a different approach to extract region enhancement and saliency detection .
+ our work differs from the existing literature on the area of scene understanding and scene understanding , rather than being confined to the scope of this paper , we propose a novel approach for feature extraction and scene recognition using deep neural networks , which has been successfully applied to scene recognition @ cite .
+

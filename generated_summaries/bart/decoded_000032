@@ -1,0 +1,12 @@
+In @cite , the authors proposed a multi-objective genetic algorithm (GA) to compute the Pareto optimal deployment of defense mechanisms for the IoT .
+ The GA is based on a graphical security model .
+ In this work, the GA is applied to the deployment of the defense mechanisms to maximize the security and minimize the deployment cost of the IoT devices .
+ In addition, the authors presented a case study to compare the GA with the ESA in terms of the runtime complexity and performance accuracy in optimality .
+ The authors also presented a simulation to evaluate the effectiveness and efficiency of the proposed GA .
+ The security provisioning for the IoT has been extensively studied in the literature .
+ @cite proposed a honeypot model for mitigating DoS attacks launched on IoT devices .
+ @math proposed an adaptive deception technology and the patch management solution for IoT scenarios characterized by a high degree of mobility .
+ In @math , the authors proposed a multi-objective genetic algorithm (GA) to compute the optimal deployment of defense mechanisms in the IoT .
+ The GA is based on a graphical security model and the evaluation metrics are used to evaluate the effectiveness and efficiency of the proposed defense mechanisms .
+ In this work, we use the GA to generate the optimal deployments of defenses .
+

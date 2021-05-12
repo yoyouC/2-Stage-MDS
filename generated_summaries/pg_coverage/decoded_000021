@@ -1,0 +1,14 @@
+there has been a growing body of work on the investigation of the topic of community structure in networks , see e.
+g because the number of networks @ cite @ cite .
+ in this section , we briefly review the most relevant work related to the present work in this paper .
+ we refer readers to @ cite for a comprehensive review of the literature on cascade model .
+ the most related work to ours is the work of @ cite , where the authors consider the problem of finding the maximum similarity of a node in the distribution of the community , and @ cite confirms the use of a set of infections in the cascade model , which is fundamentally different from our work .
+ in contrast to our work , we focus on understanding the accuracy of the network , rather than being able to characterize the structure of networks , while our work is concerned with the causal characteristics of the underlying network structure , as described in @ cite in the context of network structure processes , which are statistically relevant to our study .
+ our work differs from the above mentioned work in the area between indices and uncertainty in networks .
+ there is a large body of work on dynamic network models , such as generative modeling @ cite @ cite , and machine learning @ cite .
+ in particular , the authors of @ cite used a cascade diffusion approach to infer the missing part of the network .
+ @ cite proposed a differentially private network model---based for releasing uncertainty estimates on the input dataset , and @ cite use a mixture of coupled hierarchical Dirichlet processes---based to approximate the evolving community structure of networks .
+ in @ cite the authors present a probabilistic model for inferring the missing network topology , which is similar to our approach , as well as the use of the infection model to predict the cascade of a dynamic network .
+ however to the best of our knowledge , none of these works have focused on the problem of predictive uncertainty estimates in the distribution of networks , rather than being able to recover the accuracy of the structure .
+ however , these approaches do not consider the missing nature of the networks , and we believe that these models are fundamentally different from ours , since we assume that the dynamics of the synthetic networks is not available .
+

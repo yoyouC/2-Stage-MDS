@@ -1,0 +1,20 @@
+there has been extensive research on image deraining problem .
+ @ cite @ cite , @ cite and @ cite are used to estimate rain streaks from the rainy images, image to remove the lost rain rain streak layers .
+ in @ cite the authors propose a deep convolutional neural network ( cnn ) to reduce the rain streaks degradation and temporal coherence based on the squeeze-and-excitation style block, .
+ the connection between rain streak removal and artifact occlusion has been studied in the context of deep learning @ cite .
+ the authors also proposed a novel network architecture to solve the problem of removing rain streaks with light rain streaks .
+ however introduce a large advantage of spatial contextual information.
+ spatial texture layers with residual blocks to improve the reconstruction of rain streaks removal .
+ in contrast to our approach , we use residual blocks in combination with a new connection between the feature information and the structure of the rain layer and the rain residual operation .
+ our work is also closely related to the state-of-the-art deraining methods , such as deraining and super-resolution .
+ in this section , we present a brief review on deraining robustness and context aggregation .
+ deraining methods have been used to estimate rain streaks from the rainy images, @ cite @ cite .
+ in @ cite , the authors proposed a multi-task deep learning approach based on residual blocks to remove rain streaks streak layer and up the appearance of the clean rain streak layer .
+ @ cite proposed a contextualized dilated network with residual blocks with full advantage of spatial contextual information .
+ the connection between rain streak locations and rain is modelled as a linear combination of rain streak intensities and columns of the commonly used model, @ cite to extract rain rain streak lengths and up rain streaks, to the lost details caused by the background .
+ the authors also proposed the dilated convolution.
+ handle rain streak accumulation in the rainy code .
+ they proposed a new connection between the rain image and the appearance and directions of the rain streak streak region .
+ deraining @ cite is based on the assumption that the rain streaks are similar to mist .
+ in this work , the structure of spatial rain rain and core were proposed by @ cite and @ cite introduce a comprehensive review of deraining methods in the context of image deraining .
+

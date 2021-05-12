@@ -1,0 +1,30 @@
+Our work is also related to the task of deep learning in neural networks @cite @cite @cite . 
+ However, to the best of our knowledge, this is the first work that aims at improving the performance of deep neural networks. 
+ Our work differs from the previous work by @cite , in which the authors propose a neural network architecture trained on a single teacher network to learn a student model for a given teacher network and then learns a discriminator to predict the probability distribution of a teacher network. 
+ In @cite , the authors proposed to use a deep neural network to predict a student network and learn the student network from a single network, and used the learned model to learn the spatial correlation between sensory and item features, and the results in @cite show that it is possible to achieve the optimal interaction between the student and the student network. 
+ However, they do not consider the knowledge of the teacher network in order to improve the knowledge transfer of the student model. 
+ In this paper, we propose a novel definition of knowledge isomorphism in the context of knowledge hidden neural networks in a supervised learning setting. 
+ In this paper, we focus on the task of knowledge isomorphism of neural networks. 
+ In particular, we show that our method is more effective than knowledge @cite , which is the focus of our work in this paper. 
+ Our work is inspired by recent advances in deep neural networks @cite @cite @cite . 
+ We use the same idea in @cite to generate knowledge isomorphism from a neural network to a recurrent neural network trained by a recurrent network that is trained on the input data and the output of a new layer in the training data to improve the performance of feature representations of neural network models. 
+ We also show that this approach can be used to train a network that can be trained using a combination of feature maps and the feature maps of the network @cite . 
+ Our work differs from the previous works in that it is designed to learn a model that is able to learn the knowledge of the art in a given training set of training data from the training data. 
+ In addition, we demonstrate that it can be easily used to improve knowledge isomorphism in the context of the training process. 
+ In this paper, we focus on the recent work of deep neural networks in the context of neural networks @cite @cite @cite , where the goal is to learn a mapping between the input image and the teacher image. 
+ The output of the network is trained using a neural network that is trained to generate a sequence of words in a given image as input. 
+ This allows us to train deep neural network for the purpose of deep learning. 
+ In contrast to @cite , we are able to learn from a large number of training samples from the training data to improve the performance of student models. 
+ Our work is also related to @cite @cite . 
+ However, these works are not applicable to the problem of knowledge isomorphism and they do not consider the use of the training data. 
+ In contrast, our proposed method is able to track both the teacher and viewpoint-invariant in a unified framework for the task of student classification. 
+ In our work, we propose a novel definition of neural network models that can be used to model the knowledge isomorphism of a neural network. 
+ Our work differs from the previous work by @cite , in which the authors use a similar network architecture and train a network to predict the distribution of the image in the network. 
+ There has been a lot of interest in saliency learning from the past few years @cite @cite @cite . 
+ These methods use neural networks as a way to learn representations that are similar to the ones in @cite . 
+ However, these methods do not take into account the interpretability of the neural network and they do not generalize well to deep learning. 
+ In contrast, our approach aims to learn a knowledge of the art in a neural network. 
+ Our work is different from @cite , where the authors propose a generic neural network that can be used to train a neural network for each class of neural networks. 
+ In addition, our approach is more general and can be applied to any general setting of deep neural networks in the context of neural networks @cite @cite , but it is not clear how to train deep networks with a large amount of training data and is able to achieve state-of-the-art performance on a wide range of tasks. 
+ Our dataset can be seen as a generalization of these approaches in that we do not need to use a pre-trained network to learn the feature representation of neural network models for each task. 
+

@@ -1,0 +1,5 @@
+In @cite , the authors proposed an independence-checking coding based (ICCB) uplink training architecture for one-ring scattering scenarios allowing for uniform linear arrays (ULA) deployment .
+ In this architecture, the pilots are inserted into subcarriers for channel impulse response (CIR) estimation and decoded into the original pilots by checking the hidden channel independence existing in sub-carrier activation patterns .
+ The ICCB is further devel- oped for guaranteeing a well-imposed estimation of CIR while maximizing the code rate .
+ In addition, the authors also developed a closed-form expression for IEP .
+

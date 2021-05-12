@@ -1,0 +1,6 @@
+@cite propose a method to learn a representation of the data such that the label distribution conditioned on this representation is domain invariant .
+ They use the Hidden Covariate Shift assumption @cite to train a classifier which performs well on a target domain with a different distribution .
+ However, they do not consider the problem of domain adaption, which is the goal of our approach .
+ In this paper, we propose an optimization procedure which learns to match an estimated joint distribution on the target domain and a re-weighted joint distribution of the source and target domains .
+ The optimization procedure is learned in the representation space and is learned during the optimization procedure .
+

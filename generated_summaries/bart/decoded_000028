@@ -1,0 +1,12 @@
+In order to increase the number of colors employed in colorizing two-dimensional (2-D) barcodes, a number of parallel algorithms have been proposed, such as the multilevel graph partitioning and sparse matrix ordering @cite  .
+ The parallel algorithms can be divided into two main categories: the sequential and the sequential methods .
+ The sequential methods can be classified into two categories: sequential and sequential .
+ In sequential methods, the sequential algorithms are classified into three categories: (1) sequential, (2) sequential and (3) sequential .
+ For sequential algorithms, a sequential algorithm is proposed to reduce the computational cost of the sequential algorithm .
+ In the sequential method, the parallel algorithms are divided into three groups: sequential, sequential, and sequential In @cite , a stochastic gradient method for optimizing the sum of a finite set of smooth functions was proposed .
+ The method incorporates a memory of previous gradient values in order to achieve a linear convergence rate .
+ In this method, the gradient values of the previous gradient value are stored in a memory and used to accelerate the training process .
+ However, the memory is not used in this method .
+ In addition, the method does not consider the parallel forward and backward substitutions, which are not considered in this paper .
+ Moreover, the proposed method is not applicable in the parallel ICCG solver .
+

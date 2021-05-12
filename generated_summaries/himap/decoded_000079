@@ -1,0 +1,25 @@
+In this paper, we focus on the problem of correspondence estimation between semantically related images. 
+ In @cite , the authors propose a supervised learning framework for training a convolutional neural network using a variety of unlabeled data. 
+ They found that the network is trained to learn a set of points in the training set, which is a generalization of the proposed method. 
+ However, it is not clear how to model the consistency constraint of the network in order to solve the training problem. 
+ In this work, we use the supervised feature learning algorithm for unsupervised learning on image matching and self-supervised learning for unsupervised learning. 
+ We propose our method for the training of our model and the state-of-the-art results in our proposed method. 
+ The main difference is that our method is able to discriminate the image to a different task, whereas our method performs well on unlabeled data and is more effective in training the training data with a large number of training samples in the image. 
+ Our work is different from @cite @cite @cite , where the network was trained on a variety dataset which is trained on multiple images with the same training data @cite . 
+ In this paper, we focus on the problem of depth estimation in single images. 
+ In @cite , the authors propose to use a CNN network to learn a set of surrogate classes. 
+ In contrast to @cite , our approach is able to solve the problem caused by deep neural networks. 
+ In the first step, a convolutional neural network is trained to predict the output of a surrogate class and the decoder is used to learn the final feature representation and the discriminator as a decoder for training. 
+ In our work, we propose a novel feature learning loss based on SIFT @cite which is a generalization of the GAN proposed by @cite , which uses a convolutional network to generate unlabeled samples and right images, which is not able to capture the consistency constraint in the training phase. 
+ In this way, the network architecture is trained on multiple image frames and the network parameters is trained for the image representation. 
+ In contrast, our method learns the feature representation from the left image and right image images with the help of the learned feature representation for image matching dataset. 
+ We also show that this approach is effective for monocular depth estimation task. 
+ In @cite , the authors propose to use the adversarial loss to learn the hash distribution of the input image to the target image. 
+ The discriminator is trained using a weighted sum of the encoder and the discriminator in the loss function to reduce the number of parameters in the image. 
+ The authors of @cite proposed a method to learn a discriminator for semi-supervised learning using adversarial loss functions and the adversarial direction of the conditional label distribution in the training process. 
+ In this paper, we propose a novel supervised learning method based on virtual adversarial training which is similar to our method in that we do not consider the semantic structure of the training data rather than the semantic resolution. 
+ In contrast, our method is able to improve the performance of semi-supervised learning tasks in the context of semantic segmentation. 
+ Our method is also related to @cite , where the proposed model is applied to the training of a large number of labeled images in a unified manner. 
+ Our work is different from the above works in the sense that it is not applicable to the semi-supervised learning problem and can be applied to our setting. 
+ We also demonstrate that the proposed method is effective in terms of semantic segmentation and semantic segmentation problems. 
+

@@ -1,0 +1,16 @@
+Scene recognition is an image recognition problem aimed at predicting the category of the place at which the image is taken .
+ In @cite , the authors proposed a new representation of indoor scenes using CNNs and Sparse Coding, which is able to enforce the internal representations of object-centric and scene-centric networks .
+ The proposed representation is based on both global features that mostly refers to environment’s structure, and local features that are sparsely combined to capture characteristics of common objects of a given scene .
+ In this paper, we propose a new loss named scene coherence loss (SCL) to improve the scene recognition performance .
+ Scene recognition is an image recognition problem aimed at predicting the category of the place at which the image is taken .
+ Early works on scene recognition mainly focused on image-based sequence recognition @cite and scene text recognition @math  .
+ In the early works, the illumination distribution of a scene was estimated from a radiance distribution inside shadows cast by an object in the scene .
+ The illumination distribution was estimated by a linear support vector machine (SVM) to classify naturalness versus man-madeness and openness versus closedness .
+ In the later works, a deep convolutional neural network (CNN) was proposed to estimate the illumination of a given image .
+ The CNN was trained on the ICDAR dataset and achieved state-of-the-art In @cite , the spatial information of the scene image is extracted from the output of a CNN .
+ The spatial information is used to represent the object semantics, global appearance, and contextual appearance of the image .
+ The semantic information is then fused to obtain the final classification results .
+ In @math , the semantic information of a scene image was extracted from a CNN and the contextual information was used to predict the category of the given image .
+ @math and @math were used to generate the semantic features for the scene recognition task .
+ In this paper, we propose a new loss named scene coherence loss (SCL) which is based on the fusion of object and scene information .
+

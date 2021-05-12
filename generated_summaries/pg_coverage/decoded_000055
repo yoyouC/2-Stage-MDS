@@ -1,0 +1,40 @@
+there have been a large body of work on self-supervised face editing , such as @ cite @ cite , @ cite and @ cite .
+ however like our work , we focus on the problem of high-fidelity face modeling and face modeling refinement .
+ our work is also related to the work of @ cite where the authors use a qualitative approach to capture the geometry of the face in a lab setting .
+ @ cite proposed a self-supervised approach for complex facial motion from a multi-camera setup .
+ however such methods are not suitable for model-based methods , since they assume that the camera is consistent with the camera calibration , which is not available in the tracking literature .
+ in contrast , our approach does not require a large amount of training data , which limits its applicability to the requirement of the environment .
+ our approach is similar to our work in the sense that shape adaptation and photometric models can be used to optimize the pose of the tracked face .
+ however beyond the scope of this paper , we propose a self-supervised domain adaptation method to estimate the face capture off a face model .
+ self-supervised domain adaptation based methods have been proposed for facial sketch @ cite @ cite and face reconstruction @ cite .
+ @ cite proposed a method for multi-view 3D face reconstruction using a recursive neural network for complex facial sketch .
+ the authors of @ cite formulated the face identification problem as a subspace representation of the face in the eyes , and the forensic artist can be viewed as a sketch of the same subject .
+ in @ cite , the authors proposed a self-supervised multi-view learning method to reconstruct a whole face sketch based on the top-left sketch .
+ however such a method has not been applied to a wide range of applications , such as facial recognition, @ cite or [UNK] @ cite for the purpose of obtaining coherent correspondence between sketch and facial features .
+ however to the best of our knowledge , none of these works have focused on the problem of high-fidelity face modeling , which is not readily available in the real world .
+ in contrast to our work , we use a unidirectional cross-domain domain adaptation algorithm for face reconstruction in face reconstruction by formulating the missing region as a set of images .
+ there are four main types of face tracking methods : feature-based methods @ cite @ cite , deformable part ( [UNK] ) @ cite and "consecutive al @ cite .
+ however such methods have been widely used for character recognition in a wide range of computer vision applications , such as image recognition @ cite or face modeling @ cite for complex face models.
+ However, .
+ however , these methods rely on handcrafted features such as hog and hof @ cite to characterize the facial expressions of a face in the image .
+ @ cite proposed a method for estimating a 3dmm based on the shape of the face image .
+ however to the best of our knowledge , this approach has not yet been seen as a special case of high-fidelity modeling , since it is computationally expensive and difficult to capture and accurately from the real world .
+ moreover such as the nyu face model @ cite can be seen as an extension of our work , as well as in the context of face detection, face tracking , where the goal is to predict the facial expression of rigid geometric objects in the face of the camera .
+ self-supervised domain adaptation has been widely used in the past few years .
+ for example , @ cite proposed a method for estimating a discriminative 3D morphable face model based on the 3D face model .
+ @ cite used a convolutional neural network for face recognition , and achieved state-of-the-art results on the LFW, benchmark @ cite @ cite .
+ however such methods are not competitive with the animation approach .
+ however , these methods suffer from the assumption that the diversity of the face in the image is estimated from the same input data .
+ in contrast , our approach is the first to estimate the face shape, expression, in the single image domain , which is similar to our work , as well as in the context of face modeling @ cite , where the aim is to learn a regressor from a concurrently and discriminative model for the new environment .
+ however to the best of our knowledge , there is no prior work on parametric face models in face geometry, @ cite and facial motion @ cite that can be used to train a grasp model that explains the face of facial expression and illumination .
+ self-supervised face modeling has been widely studied in computer vision @ cite and speech recognition @ cite @ cite .
+ @ cite proposed a data-driven approach to detect facial landmark locations in the wild However, .
+ the authors of @ cite present a method for estimating the overlap of face images from a cellphone face mounted on a library of facial landmarks , and proposed a novel face detection method based on compressive face scans .
+ the work of chen al @ cite showed that multi-view face image retrieval and discriminative facial pose estimation can be performed using face images .
+ however , these methods are not applicable to face models.
+ because they do not consider the input data .
+ in contrast , our approach does not require a large amount of labelled data , which is not suitable for the task of face detection .
+ in our work , we focus on the problem of high-fidelity models.
+ and face modeling techniques for face replacement , and we are able to use a deep neural network for domain adaptation .
+ however to the best of our knowledge , no previous work has been done on the grasp mismatch between the face and the face image .
+

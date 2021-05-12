@@ -1,0 +1,11 @@
+In recent years, there has been a surge of interest in the topic of abstractive summarization @cite , which aims to extract relevant information from the input documents .
+ In this work, we propose a bidirectional version of CAHAN that processes the document forwards and backwards, using the preceding and following sentences as context .
+ In addition, we compare several modifications of HAN in which the sentence encoder and decoder are able to make context-aware attentional decisions (CAHAN) in order to improve the performance of neural machine translation (NMT) .
+ In particular, we show that the sentence decoder is able to take advantage of the contextual information of the input document .
+ In recent years, several approaches have been proposed to improve the performance of neural models on various NLP tasks, such as sentiment analysis @cite , document level sentiment analysis (document level sentiment aspect prediction), and document level summarization (document-level sentiment aspect classification) .
+ In this work, we propose a bidirectional version of HAN in which the sentence encoder is able to make context-aware attentional decisions (CAHAN) .
+ In particular, we compare CAHAN with several modifications of the HAN proposed in this paper, including the use of the preceding and following sentences as context .
+ Bidirectional Long Short Term Memory (BLSTM-LSTM) @cite is a bidirectional encoder-decoder model that processes the input and output sequences in a sequence-to-sequence fashion .
+ In this model, the encoder and decoder are jointly trained to predict the next word in the sequence, while the decoder is able to make context-aware attentional decisions (CAHAN) .
+ The main difference between our work and CAHAN is that we propose a sentence encoder, which processes the document forwards and backwards, using the preceding and following sentences as context .
+

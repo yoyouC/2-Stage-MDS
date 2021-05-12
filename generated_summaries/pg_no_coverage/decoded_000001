@@ -1,0 +1,9 @@
+there has been a growing body of work on interactive dialogue systems for dialogue management @ cite @ cite .
+ for example , in @ cite , the authors use reinforcement learning to learn dialogue policies from the information of the value of the dialogue policy .
+ @ cite use a set of approximate dynamic programming for dialogue policy based on a bayesian approach .
+ in this work , we use a similar approach to the dialogue system .
+ in contrast to our approach , they are able to predict dialogue in a conversational system , and the system is able to learn a sparse representation of users ' norms .
+ in the work of @ cite and @ cite the authors propose to learn policies from data, versions of the state of the art in the context of a sequence of dialogue systems , and use a bayesian model to learn good dialogue strategies .
+ in their work , they propose a novel system to predict the dialogue downstream spoken dialogue systems using a conversational seed conversation .
+ they also proposed the use of a reinforcement learning approach to tackle the problem of retrieving train and select dialogue policies .
+

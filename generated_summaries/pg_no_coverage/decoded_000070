@@ -1,0 +1,10 @@
+egocentric pose estimation has been a popular topic in computer vision and computer graphics .
+ early works on egocentric body pose estimation have focused on the problem of skin pose @ cite and human pose estimation @ cite @ cite .
+ in this work , we focus on a synthetic dataset consisting of a single depth image , which is a generalization of the varying depth of body joints .
+ in @ cite , the authors propose a new encoder-decoder architecture to predict the 3D body pose from single RGB images of real world footage .
+ the authors of @ cite use a large, approach to estimate the positions of the body parts .
+ @ cite used a similar approach to learn the parts of the shape of the person 's joints , and then use a branch predictor to localize the body shape of each body .
+ they also used the use of a dual branch to analyse outdoor world .
+ however , they did not take into account the assumption that the images are captured from a single point of view .
+ in contrast , our goal is to learn a diversity of body parts that are useful in the context of egocentric 3D .
+

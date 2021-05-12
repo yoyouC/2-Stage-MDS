@@ -1,0 +1,10 @@
+@cite proposed zeroth order stochastic coordinate descent along with dimension reduction, hierarchical attack and importance sampling techniques to efficiently attack black-box DNNs .
+ They also proposed ZOO attack that also only has access to the input (images) and the output (confidence scores) of a targeted DNN for generating adversarial examples .
+ However, they did not evaluate the robustness of these attacks against adversarial attacks .
+ Moreover, their results clearly indicate that state-of-the-art deep machine learning-based modulation classifiers are not robust to adversarial machine learning attacks .
+ @cite proposed the DeepFool algorithm to efficiently compute perturbations that fool deep networks, and thus reliably quantify the robustness of these classifiers .
+ In @cite , the authors proposed a method for efficiently computing adversarial perturbation .
+ In this paper, we have used the techniques of convolutional neural networks and long short term memory (LSTM) for performing the adversarial attack .
+ We have also used Carlini & Wagner (C-W) attack for performing adversarial attacks in black-box settings .
+ To the best of our knowledge, this paper is the first paper to evaluate the performance of DNN based modulation classifiers against adversarial machine learning attacks .
+

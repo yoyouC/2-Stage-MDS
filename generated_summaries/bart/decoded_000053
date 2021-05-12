@@ -1,0 +1,21 @@
+Background subtraction is a basic task in computer vision and video processing often applied as a pre-processing step for object tracking, people recognition, etc .
+ In recent years, a number of successful background subtraction algorithms have been proposed .
+ In @cite , an encoder-decoder fully convolutional neural network (FCN) is proposed to solve the problem of foreground segmentation .
+ In this work, we introduce a new data-augmentation technique which mitigates the impact of illumination difference between the background frames and the current frame .
+ In addition, we propose a new, supervised, background-subtraction algorithm for unseen videos .
+ Background subtraction is a basic task in computer vision and video processing often applied as a pre-processing step for object tracking, people recognition, etc .
+ In recent years, a number of successful background subtraction algorithms have been proposed .
+ @cite proposed a two-stage framework based on a fully-convolutional neural network (FCN) and a semantic segmentation network (SSN) to extract foreground objects from the background .
+ The main drawback of these methods is that they require a large number of annotated frames of the test video .
+ In contrast, we propose a new, supervised, background-subtraction algorithm for unseen videos .
+ Background subtraction is a basic task in computer vision and video processing often applied as a pre-processing step for object tracking, people recognition, etc .
+ A number of successful background subtraction algorithms have been proposed in the literature .
+ In @cite , the authors proposed a method to search for dynamic background region by analyzing the video and removing false positives by re-checking false positives .
+ The proposed method was evaluated based on CDNet-2012 2014 dataset obtained at "changedetection .
+net" site .
+ In order to reduce the number of false positives, they proposed a dynamic multi-level feature grouping approach that can be used in real time applications and also provides high-quality trajectories .
+ In @cite , the authors propose a self-adaptive saliency map fusion method by learning the reliability of saliency maps from labeled data .
+ However, their method is limited to unconstrained videos .
+ In contrast, we propose a new, supervised, background-subtraction algorithm based on a fully-convolutional neural network (FCN) which is able to deal with both appearance and motion variations in unseen videos .
+ Moreover, we introduce a new data-augmentation technique which mitigates the impact of illumination difference between the background frames and the current frame during training .
+

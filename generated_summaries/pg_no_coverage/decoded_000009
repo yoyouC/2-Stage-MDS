@@ -1,0 +1,33 @@
+the bag-of-visual-words model @ cite is a powerful tool for image segmentation .
+ it has been used in many areas of computer vision and machine learning @ cite @ cite .
+ there has been a great amount of work on skin colour and image classification @ cite , see @ cite for a comprehensive survey .
+ in this section , we briefly review the most relevant ones related to our work .
+ we refer interested readers to the books @ cite and [UNK] @ cite that we are aware of the first surveys on simple skin tiling , and we refer the interested reader to the survey of park .
+ @ cite present a novel visual vocabulary for the reverse motifs of principal component analysis ( pca ) and circular tiling .
+ the authors of @ cite investigate the selection of similar images based on the use of local image descriptors to incorporate the spatial information of the feature attention .
+ in @ cite the authors propose a technique for recognizing legends from images of corrupted images by using a task-specific visual vocabulary .
+ Coin et al @ cite showed that circular tiling can be used to improve recognition accuracy .
+ in this section , we present a brief overview of deep learning methods for dense face classification and image-based speech recognition @ cite @ cite .
+ we refer readers to @ cite for a comprehensive review of the literature on the topic of the bag-of-visual-words model .
+ in @ cite , @ cite and @ cite are used for automatic classification of exemplar-based classification .
+ @ cite proposed a learning-based approach to extract features from the mouth images and degraded images .
+ in this work , the authors show that the matching costs can be robust to local spatial differences between the mouth and difference between the training data and the number of classes of the class and the appearance of the same class .
+ the authors of @ cite use a similar approach to estimate the attributes of the training set , and then the correspondence metric is used to obtain a dense correspondence between the pixels of the image and the mouth coin rotations .
+ in contrast to our work , we focus on the in-plane Changes of principal component analysis ( pca ) and the reverse expression of the motifs , which is the basis of our approach .
+ melanoma recognition @ cite has been extensively studied in the context of image retrieval @ cite @ cite .
+ in this section , we focus on the reverse of the bag-of-visual-words model @ cite , which can be seen as an extension of the concept of the object detection problem .
+ in particular , the authors of @ cite use a bilinear model to represent the ranking distribution of the network .
+ @ cite used a graph-based approach to compute the similarity between the nodes and links .
+ in @ cite the authors propose a graph-based ranking model for melanoma recognition using deep convolutional neural networks ( cnns ) .
+ in contrast to our work , this work is the first to the best of our knowledge and the present work in this paper .
+ we compare the results of park and park and bird @ cite and show that it outperforms residual learning @ cite that has been shown to be effective in a variety of tasks , such as image classification and image retrieval .
+ in the work of [UNK] , [UNK] and [UNK] @ cite show that the network is able to predict the quality of the visual similarity .
+ transfer learning has been extensively studied in the context of transfer learning @ cite @ cite .
+ in this work , we use the bag-of-visual-words model @ cite to express the number of layers in the reverse motifs .
+ we use a similar approach to memorability estimation of the memorability @ cite , and the attention mechanism has been shown to be a useful tool for image classification @ cite and sentiment analysis @ cite ( see , e.
+g.
+ where @ cite ) .
+ our model is different from these works in the sense that it is not clear how to localize the variations of the input image , which can be seen as a special case where the memorability of the attention is minimized .
+ in contrast to our work , our work is different to the work of [UNK] and [UNK] @ cite who show that the computation of principal component analysis ( pca ) can be used to localize human eye fixation points .
+ our approach is similar to that of @ cite that exploits the fact that we are aware of the investigation of the design of memorability maps of the art in this paper .
+

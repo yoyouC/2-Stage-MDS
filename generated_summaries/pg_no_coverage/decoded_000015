@@ -1,0 +1,28 @@
+transfer learning has also been used for transfer learning @ cite @ cite .
+ in this work , we build on the idea of automatically extracting image features from corrupted image pixels .
+ we use a similar approach to reduce the distribution mismatch between the source and target domains into a different class .
+ @ cite , the authors propose a neural network model to regress image representations from raw image data .
+ the authors of @ cite propose to learn a regularization term that encourages the domain discriminator to be similar to the target domain.
+ .
+ the difference is that our approach is different from ours , since we use the back-propagation method to learn the norms of the domain adaptation problem .
+ we believe that our framework can be seen as an extension of the work by [UNK] al @ cite who show that the approach in @ cite is based on the assumption that the source of the source retains the difference between the target and the target objective function , and the resulting regularization is to minimize the error of a given loss function .
+ the results obtained in this paper can be viewed as a noise-robust version of this work .
+ there has been a growing body of work on transfer learning in machine learning @ cite @ cite .
+ in this work , we focus on the use of deep learning to regress image representations from the source and target domains .
+ we have also seen how to learn representations that disentangle the effects of the target domain and the training data .
+ in @ cite , the authors show that multi-target representations can be used to solve the problem of transfer learning .
+ @ cite propose a self-supervised learning algorithm for multi-label classification .
+ they show that the distribution of the distribution is maximized at the equilibrium level .
+ however , this approach does not scale well in practice , since it can not be directly applied to the objective .
+ this approach has been shown to be useful for multi-target regression @ cite and face detection @ cite to improve the performance of neural networks .
+ for example , @ cite proposed to use out-of-sample pretext task to learn the pretext task; with the help of multi-label classification methods .
+ the authors of @ cite use a collection of non-negative stochastic gates, and ensemble of regressor to regress the samples from the original network .
+ transfer learning has been used in the context of transfer learning @ cite @ cite .
+ in this work , we focus on the use of audio-only image representations to regress image representations from the target task .
+ we show that our approach can be seen as an extension of the work by [UNK] and [UNK] @ cite , which is similar to our work .
+ the authors of @ cite use a similar approach to the neural network model .
+ in contrast to our approach , this work is the first to show that the performance of a neural network can be interpreted as a damping measure of how to regress the image and the training data .
+ our approach differs from ours in that it is not clear how to extend this approach to other optimization problems .
+ we believe that our work is more closely related to the present work , but we do not attempt to provide a better understanding of how they can be used to adapt the underlying regularization to weight decay .
+ decay error bounds for weight decay are imposed by the fact that the resulting rates are not computable with respect to the true positives .
+

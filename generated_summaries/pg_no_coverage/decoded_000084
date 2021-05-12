@@ -1,0 +1,8 @@
+homotopy metrics have been widely used in kinodynamic planning @ cite @ cite .
+ for example , in @ cite , the authors proposed a topological method to identify configurations in a considered configuration space , which is based on differential constraints on the configuration space of the initial trajectories .
+ in this work , we use the higher order structure of the belief estimate and the distance between the configurations of the unevaluated configurations .
+ in contrast , we do not consider the problem of creating a probabilistic model that can be used to estimate the belief of a robot .
+ we show that our proposed approach can be extended to evaluate the performance of the distance metrics in terms of the expected number of points in the belief model .
+ in the context of higher dimensional trajectories , our work is close to the work of @ cite and @ cite for a detailed review of the history of the results obtained in sec of the topological properties of the motion model .
+ the results in this paper can be viewed as an extension of the present work , and we refer the reader to the survey of park and park .
+

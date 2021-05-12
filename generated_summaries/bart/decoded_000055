@@ -1,0 +1,24 @@
+In recent years, there has been a surge of interest in data-capture and face modeling from commodity cameras .
+ In @cite , the authors proposed a method to capture the 3D geometry of a face from a single camera using a passive stereo system .
+ The method is based on the assumption that the appearance of the face is consistent over consecutive frames, avoiding the necessity of modeling the new environment such as lighting or background .
+ In this paper, we propose a self-supervised domain adaptation method to drive a high-fidelity face model from a commodity camera without requiring any labeled data from the new domain .
+ Recently, deep learning based methods have been applied to face reconstruction .
+ @cite proposed a deep convolutional neural network (DCNN) to generate a face sketch from a small sketch face patch .
+ The DCNN generates a whole face sketch image from the small sketch image and uses a forward and backward bidirectional learning between the face and sketch domains to generate an incremental face sketch .
+ In this work, we use the DCNN to generate the whole face image from a single sketch image .
+ However, we do not require any labeled data from the new environment, which is very different from data collected in the wild .
+ In recent years, there has been a surge of interest in the development of deep learning based face models .
+ @cite proposed a method to learn a face model from a single 2D image .
+ They used a CNN to learn the 3D shape and texture of the face images .
+ They demonstrated that the face model can be reconstructed in real-time without the use of face markers .
+ In this paper, we propose a self-supervised domain adaptation approach to enable the animation of high-fidelity face models from a commodity camera without requiring any labeled data from the new domain .
+ Our work is also related to the recent work of @math -means, where a CNN is trained to predict the appearance of a face from a set of images Recently, deep learning has been applied to face modeling .
+ In @cite , a CNN is trained to predict the face shape, expression, reflectance and illumination from a single 2D image .
+ In another recent work, a 3D morphable model is trained for face reconstruction using a multi-level face model .
+ In this work, we use a CNN to generate a face model that is consistent over consecutive frames, avoiding the necessity of modeling the new environment such as lighting or background .
+ In addition, we apply a self-supervised domain adaptation approach to enable the animation of high-fidelity face models from a commodity camera without requiring any labeled data .
+ @cite proposed a conditional CycleGAN (CCGAN) to generate high-fidelity face images from low-res input images .
+ @cite used the attribute image to generate a high-resolution face image for low-resolution input images, and then applied the CCGAN to generate the high-res face images .
+ In this work, we use the attribute images as input for our model, which is very different from the data collected in the wild .
+ In addition, we do not require any labeled data from the lab or uncontrolled environments, which makes our approach more robust to the domain mismatch .
+

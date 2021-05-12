@@ -1,0 +1,34 @@
+detecting fake news on social media has been investigated in @ cite @ cite .
+ @ cite , @ cite and @ cite studies the detection of fake news and misinformation .
+ the authors of @ cite use a similar approach to detect fake news detection in social media .
+ they have shown that there is a large body of work in the area of fake and social media detection .
+ in this section , we briefly review previous work related to our work .
+ the most related work to fake news is the spread of fake-news from social media , which has been extensively studied in the context of multimodal fake news , such as the use of variational bayes ( nb ) @ cite or unsupervised learning @ cite ( for example ) .
+ in contrast , our work is more closely related to ours , rather than detecting reflected images .
+ in our work , we use a multi-branch network coupled with a binary classifier to extract visual features from different semantic levels of frequency and semantic information of the observed fake news detector .
+ our approach differs from theirs in that we focus on the fake news.
+ of the images , which is similar to our approach .
+ fake news detection is a well studied topic in computer vision and computer graphics .
+ there has been a growing body of work in social media @ cite @ cite and fake review detection @ cite .
+ in this section , we focus on the most relevant work on fake face image recognition .
+ we refer readers to @ cite for a comprehensive review of comparative fake review .
+ @ cite shows that the proposed method is able to detect fake face images , which is similar to our work .
+ in contrast , our work is more closely related to the work of @ cite , who proposed an approach to identify fake face contents based on different semantic levels in the frequency and semantic representation .
+ in @ cite the authors propose to use a multi-branch network to extract visual features from both physical and semantic levels of rumors , and found that the fake face in fake news is different from ours .
+ they propose a novel framework for multimodal fake languages using recurrent neural networks ( rnn ) to fuse the visual information of fake-news images from frequency and pixel images .
+ in their work , the authors show that the best method outperforms @ cite is based on the use of raw pixel features .
+ fake news detection has been investigated in the context of multimodal fake news dissemination @ cite @ cite .
+ in this work , we focus on the spread of news and semantic information in fake news verification .
+ in @ cite , the authors use multimodal features to fuse social context information from different semantic levels for fake news propagation .
+ @ cite used the framework of @ cite to predict the truthfulness of the fake news spreading in social media .
+ in contrast , our work differs from ours in that we focus only on the problem of detecting fake news in fake and real images , which can be deduced from the underlying patterns of the frequency and the frequency of the real world , and the characteristics of frequency and fake images are more likely to occur in the frequency domain .
+ we have found that there is a significant amount of work in the area of fake news , which has been extensively studied in recent years .
+ in particular , we have noticed that our approach can be seen as a special case of stochastic differential equations with an attention mechanism that has been shown to be useful in reporting the usefulness of image content .
+ our work is also closely related to semi-supervised semantic segmentation @ cite @ cite .
+ in this work , we focus on multimodal fake news detection and fake news , which is similar to the work of @ cite , which aims at generating visual features based on the inherent structure of fake-news images .
+ in contrast to our work , our method is based on a generative model , which allows us to integrate the visual information of the frequency into real images .
+ our work differs from these previous work in that we focus only on the performance of fake news images , and we believe that our approach is different from ours , rather than being able to capture the frequency of fake images and videos .
+ we use a similar approach to the task of multimodal semantic segmentation in social networks .
+ in the context of image-text news , the adversarial loss has been shown to be effective in fake images , such as @ math images , in which the ground truth segmentation is transferred to the predicted probability of the regions of the input image .
+ in @ cite the authors propose a method to classify input images into fake or fake images using unlabeled images .
+

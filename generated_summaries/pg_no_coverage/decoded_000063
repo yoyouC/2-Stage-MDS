@@ -1,0 +1,10 @@
+speaker recognition is a fundamental problem in computer vision and computer vision .
+ there has been a growing body of work on deep learning for speaker recognition @ cite @ cite .
+ in this work , we focus on the problem of speaker recognition and face recognition , which has been extensively investigated in the context of deep learning .
+ for example , in @ cite , the center loss function is used to estimate the distance between the deep features and the softmax function .
+ @ cite proposed a new supervision signal, based self-training method to learn the power of the loss function .
+ the proposed method is based on the assumption that forces the samples from the source and target classes , and then the center of the classes is maximized to be inferred from the softmax loss .
+ the authors show that it is possible to achieve the best results for both face and face verification tasks .
+ however most of these methods are not applicable to our setting , since we use the same idea of our approach .
+ in contrast , our work is different from ours , since it is not clear how to train a deep learning approach .
+

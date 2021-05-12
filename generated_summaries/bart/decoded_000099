@@ -1,0 +1,10 @@
+The @math -normalized Euclidean distance was first proposed in @cite  .
+ It was later extended to the case of tensor fields by the authors of Jiffy, a dynamic version of the K-means algorithm .
+ The algorithm was later improved to @math by the algorithm of Jaffy, which uses a CNN to learn an embedding such that the EuclideAN distance is effective .
+ The authors also proposed a dynamic variant of the brushfire algorithm to update only those cells that are actually affected by changes in the environment .
+ The update strategies for JiffY and Voronoi diagrams were shown to be significantly faster than those of K-Means .
+ In @cite , a chunking method is proposed to calculate Euclidean distance matrix on large datasets .
+ In each iteration, the top singular vector pair of the current approximation residual and update the weights for all rank-one matrices obtained up to the current iteration .
+ The algorithm is scalable to large datasets, but it is not scalable for large datasets as it involves computing singular value decomposition .
+ In this work, we propose an algorithm that uses the same principle as AAMP, but for the case of @math -normalized distance we extend it to @math  .
+ In this paper, we also extend AAMP to the case where @math is normalized .

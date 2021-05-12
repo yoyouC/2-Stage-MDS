@@ -1,0 +1,16 @@
+There is a large body of work on trajectory optimization in dynamic and uncertain environments .
+ @cite , the authors propose a method to estimate the trajectory of pedestrians in a dynamic environment using maximum entropy inverse optimal control (MILC) .
+ The authors also propose an incremental planner for dynamic obstacles in an incremental manner .
+ However, their method requires a priori knowledge of the position or trajectory of each obstacle in the dynamic environment and does not provide a collision-free trajectory for the robot .
+ In addition, they do not consider the possibility of collision in the future .
+ In contrast, our method considers the potential of paths in the current environment, which allows the robot to dynamically switch between multiple homotopy classes .
+ In the context of dynamic and uncertain environments, there is a large body of work that considers the problem of finding a feasible path in a dynamic environment @cite  .
+ In this work, we focus on the case where the environment is uncertain and the goal is to find the shortest path that is most feasible in the future .
+ In this case, we consider the problem as a continuous-time trajectory optimization problem, where the goal function is to maximize the expected reward of a path in the current environment .
+ In the case of dynamic environments, the goal of the robot is to discover a path that maximizes the expected rewards of a given environment .
+ The goal of this work is to minimize the expected cost of a single homotopy class, which is In the context of trajectory optimization, the goal is to find a path that is most feasible in the current environment @cite  .
+ However, the problem of finding a path in a dynamic environment is still an open problem .
+ Therefore, it is important to reason about multiple possible paths simultaneously in the future .
+ In this work, we focus on the online setting where the robot is able to search for paths in multiple homotopy classes concurrently .
+ In contrast, in our previous work, the robot searches for paths that are most promising in the present environment, while we search for the paths that may become more viable as the environment evolves .
+

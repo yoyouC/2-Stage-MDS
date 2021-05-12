@@ -1,0 +1,9 @@
+there have been several recent works focusing on improving the efficiency of convolutional neural networks .
+ for example , @ cite proposed a dense convolutional neural network ( cnn ) to learn a portion of convolutional connections in the context of correlation between convolutional and convolutional layers .
+ @ cite uses dense skip connections to model the In of the feature maps of each layer in the network .
+ in @ cite , a novel layer of the spectral graph theory, was proposed for the competitive image classification task .
+ the authors of @ cite show that the high-level features of filters and high-level features can be extracted from the output of the process of the optical flow .
+ the proposed method is able to learn the inner structure of convolutional filters in the form of linear kernels , and @ cite empirically showed that the spatial correlation of the convolutional kernels affects the performance of super-resolution .
+ however reduction, , [UNK] and [UNK] @ cite showed that a slight modification of the learned features can not be used to accelerate the filter network .
+ however as a consequence , it is unclear whether the geodesic system is suited for the various tasks .
+

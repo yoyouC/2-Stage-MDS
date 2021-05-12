@@ -1,0 +1,16 @@
+Differentially private ADMM @cite has been widely studied in the literature .
+ It has been shown that it can be used to improve the performance of differentially private algorithms .
+ However, it is not suitable for large-scale data mining due to the large number of training data .
+ To address this issue, a random rotation perturbation approach has been proposed in @math -ADMM to provide dynamic zero-concentrated differential privacy (dynamic zCDP), by inserting Gaussian noise with linearly decaying variance in the original data .
+ In this work, we propose a random randomization ADMM algorithm to provide differential privacy for the most sensitive information .
+ Differential privacy has been extensively studied in the literature .
+ In @cite , the authors proposed a differential privacy-preserving algorithm based on the notion of KL privacy .
+ The authors proposed an algorithm that achieves heterogeneous privacy by perturbing the public signals with additive noise, whose magnitude is determined by the sensitivity of the projection operation onto user-specified constraints .
+ However, the authors did not provide a theoretical analysis on the performance of the proposed algorithm .
+ In the literature, differentially private algorithms have been studied in different contexts, such as distributed data aggregation @math and distributed data mining @math  .
+ Differential privacy (DP) has been widely studied in machine learning .
+ In DP, the authors of @cite proposed a rate-privacy framework to capture the privacy threat incurred by a user that releases data to a passive but curious adversary, given utility constraints .
+ The authors of the same paper also proposed a privacy-preserving DML framework for the purpose of learning neural networks with non-convex objectives .
+ However, DP is not suitable for DML since it assumes that the users trust the server collecting their data, which is not the case in DML .
+ In contrast, our proposed DP-based DML model is differentially private .
+

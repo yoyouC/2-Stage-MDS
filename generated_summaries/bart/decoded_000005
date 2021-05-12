@@ -1,0 +1,9 @@
+In @cite , the authors proposed a methodology to detect changes in social media streams .
+ The authors proposed an event detection approach that can detect events within social streams like Twitter .
+ The proposed approach is based on the use of Twitter Firehose, a social media stream, to detect events in the stream .
+ This approach was evaluated on a large enterprise, e .
+g .
+, EMC, over a period of two weeks .
+ However, it is not comprehensive and it is necessary to define a set of behaviors to focus our investigation of network change .
+ In this paper, we focus on the four types of dynamic network behaviors that can be detected efficiently and effectively .
+

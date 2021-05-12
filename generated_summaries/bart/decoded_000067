@@ -1,0 +1,6 @@
+Text clustering is a very useful task in many text processing applications like document summarization, question answering, etc .
+ @cite proposed a clustering approach based on the word embeddings .
+ The clustering process is performed by selecting a subset of words phrases from a document that can describe the meaning' of the document .
+ In this work, we use a graph-based ranking algorithm to make use of both the local information in the specified document and the global information in neighbor documents .
+ The results show that the proposed method can effectively structure an unordered text document into a large number of unordered sections .
+

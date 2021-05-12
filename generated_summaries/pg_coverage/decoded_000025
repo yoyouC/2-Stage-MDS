@@ -1,0 +1,36 @@
+there is a large body of work on knowledge transfer @ cite @ cite , where the goal is to recover the interaction between user and acoustic features .
+ @ cite proposed a block-wise training loss to train a student to predict the knowledge of the student network .
+ however to the best of our knowledge , there are no prior work on feature extraction of neural networks .
+ in particular , we use adversarial-based @ cite and co-training @ cite for the task of knowledge isomorphism .
+ we use a similar approach to disentangle knowledge from intermediate layers , and use a discriminator to learn a student model .
+ in contrast , our approach integrates the advantages of the softmax layer and the predefined features , which can be used to learn the knowledge from a single knowledge base .
+ our work is also related to our work in the context of knowledge transfer from the perspective of deep neural networks @ cite .
+ in our work , we propose a novel neural network architecture to learn feature representations for both image and character-level knowledge , which are organized in a supervised manner .
+ we also use a teacher model to extract features from the latent representations of the knowledge and the intermediate representations of a neural network .
+ finally as a brief introduction of the introduction of neural networks , there have been several recent efforts to visualize the roles of pre-trained deep neural networks @ cite @ cite .
+ in particular , @ cite proposed a neural network for textures in object recognition .
+ @ cite used the baselines to generate a pre-trained model .
+ however to the best of our knowledge , this is the first work that explores the use of convolutional neural networks ( cnns ) to learn feature representations for each texture .
+ we show that using a pre-trained neural network on intermediate layers can be used to train a neural networks.
+ model for specific tasks such as SEP @ cite , [UNK] @ cite and The @ cite for the purpose of classification .
+ our work differs from the previous work in the area of knowledge isomorphism , rather than being able to learn meaningful representations of neuroscience .
+ our approach is complementary to our work in this paper , as we aim to understand the effectiveness of knowledge bases .
+ we use a more principled approach to disentangle knowledge isomorphism from neural networks .
+ we focus on understanding the knowledge of pre-trained models .
+ @ cite proposed a knowledge transfer method to defend against knowledge bases from intermediate layers .
+ @ cite use the Interpretable of a deep neural network to predict the trustworthiness of the input image .
+ the authors of @ cite propose to use deep neural networks for classification of knowledge bases , which are similar to our work in the context of machine learning .
+ however to the best of our knowledge , there has been no prior work on feature learning of pre-trained object trackers @ cite @ cite .
+ in contrast to these methods , we use a large number of training data to assess the performance of neural networks .
+ our work is inspired by the work in @ cite and @ cite , where the authors use a feed-forward neural network ( cnn ) to learn a relationship between object motion and appearance features .
+ in this work , we show that the learned loss function is able to track the distribution of neuron selectivity .
+ in our work we aim to disentangle and quantify the encoded components of pre-trained deep neural models , which is also related to our method , and we leave it as part of our tracker .
+ there are two main types of feature extraction methods , such as image classification @ cite @ cite , machine translation @ cite and image captioning @ cite .
+ these methods have been successfully applied to a wide range of applications such as density estimation, @ cite or [UNK] @ cite to the task of saliency maps .
+ however , these methods are not applicable to specific types of neural networks , as they do not use any sort of supervision .
+ in contrast to our approach , this paper focuses on the knowledge of the representation of the layers , which is the focus of our work .
+ in our work , we propose a novel neural network architecture to disentangle knowledge isomorphism between pre-trained models , and the visualization of the feature representation learned by the deep neural network ( rather than feeding them to the network ) .
+ we show that this approach can be seen as a special case of unsupervised feature learning and deep neural networks .
+ the main difference between our approach and ours is that we use a pre-trained model to predict the feature of a new function .
+ we believe that our model is able to capture the shape of pre-trained models .
+

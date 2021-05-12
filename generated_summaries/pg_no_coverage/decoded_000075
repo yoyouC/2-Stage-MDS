@@ -1,0 +1,30 @@
+our work is also closely related to the field of point clouds @ cite @ cite .
+ in this work , we focus on the problem of aligning point clouds into point clouds , which can be organized into two categories .
+ first , we are interested in identifying the resolution of an object , and the reconstruction of point cloud reconstruction is feasible .
+ in @ cite , the authors propose a method to estimate the local geometry of a point of the self-occluded images .
+ @ cite use a collection of noisy points to compute a mapping between the input image and unstructured point clouds .
+ in contrast , our method is based on the assumption that the point cloud is learned from a single view .
+ our approach is similar to the work of zhou al @ cite and [UNK] and [UNK] @ cite which use a latent representation of the point clouds to predict the part of the network .
+ in the work , @ cite used a similar approach to the multi-view stereo matching approach .
+ the most similar to our approach are the work by @ cite in the context of deep learning .
+ our work is closely related to the field of point clouds @ cite @ cite .
+ in @ cite , the authors propose a neural network for place recognition and semantic characteristics of a set of points in a single stage.
+ model .
+ @ cite use a similar approach to learn a discriminative representation of the point cloud .
+ in this work , we focus on the resolution of the entire point clouds , which can be used to solve the problem of generating point clouds .
+ in contrast to our work , our approach is based on the point of view , which is the focus of our work .
+ we also compare our approach to point cloud @ cite to promote local and low-resolution point cloud reconstruction and bounding box prediction .
+ we use a deep auto-encoder based approach to extract local descriptors from the underlying 3D point cloud , and we believe that the pyramidal network structure of an object has a long history in the literature .
+ in addition to the work of @ cite and @ cite for a detailed review of deep neural networks , we are able to achieve state-of-the-art results in the context of convolutional neural networks ( cnns ) .
+ there has been an increasing body of work on vehicle reconstruction for point cloud reconstruction .
+ for example , @ cite and @ cite use a convolutional neural network ( cnn ) to predict facial landmarks .
+ @ cite , the authors propose a robust method to detect 17 facial landmarks from lidar point clouds .
+ the authors in @ cite show that the entire point cloud is able to learn a low-resolution point cloud with a set of unbalanced octrees .
+ supervision.
+ @ cite proposed an approach to predict the point cloud matching of a point cloud in a plenoptic image model .
+ in this work , we focus on self usage of point clouds , which is similar to our deep learning approach .
+ in contrast to our work , our method is based on the use of global and global point correspondences .
+ we also use a similar approach to predicting point clouds with a plenoptic convolutional network .
+ we use the same idea of our approach to handle low-resolution point clouds and then fuse them with the input data .
+ we have also shown that the resolution of an object can be reconstructed from a single image .
+

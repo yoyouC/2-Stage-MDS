@@ -1,0 +1,16 @@
+one of the most popular trends in shape captioning is feature-based @ cite and @ cite , who proposed a method for grouping svms based on local lexical features .
+ @ cite proposed a hierarchical correlation model for hierarchical correlation modeling and achieved state-of-the-art results on the reconstruction of the face in an iterative manner .
+ the authors of @ cite propose a method to learn the semantic meaning of view sequence, in the views of the 3D and the sequential spatiality of the group of the views .
+ in @ cite the authors use a hierarchical class model based on the hierarchical structure of the correlation between the views and the shape of the facial shape and the segmented views .
+ however in the context of shape classification , we use a generative model to predict the parts of the semantic parts of colored views .
+ our approach is similar to our work in the sense that we learn a caption network, from the view of part detection , as well as the use of deep neural networks for shape captioning @ cite @ cite .
+ in our work , we employ a novel part of the novelty convolutional neural networks ( cnn ) to encode multiple views of part descriptors .
+ ShapeCaptioner, depth sensors have been widely used for shape captioning @ cite @ cite and active object recognition @ cite .
+ a comprehensive review of the topic of shape captioning models can be found in the context of shape recognition .
+ for example , @ cite proposed a method that learns to predict the rendered views from a single view .
+ @ cite use a similar approach to @ cite for the task of part detection .
+ however to the best of our knowledge , none of these approaches have been proposed to deal with the limitation of part of the mapping between the parts of the views of colored views .
+ in contrast to our work , we aim to learn a caption network, from a set of aligned colored views , which are then used to predict part of a part of shape segmentations extracted from multiple views .
+ we also use a generative model to analyse capture part-level part-level part-level shape repositories , which accommodates the part-level description of the tend to be able to characterize the applicability of knowledge bases .
+ our work is also related to huang and [UNK] @ cite , where the authors use a feed-forward neural network ( cnn ) to extract features from multiple sources of their colored counterparts .
+

@@ -1,0 +1,7 @@
+document clustering has been widely researched in the context of noisy data @ cite @ cite .
+ in this work , we focus on the processing of similarity matrix specifying the relations between the instances of the input point clouds .
+ we refer readers to @ cite and @ cite for the most comprehensive reviews of document clustering methods , which are based on the work of @ cite , where the authors present a feature-centric voting scheme for implement novel convolutional neural networks ( cnn ) to identify representative clusters of objects .
+ @ cite employ a hierarchical clustering algorithm to discover the latent cluster structure of point clouds , which is then used to infer the similarity between the document and the document .
+ in contrast to our work , our work is different from the above mentioned work in the sense that the similarity of the relations is not available in a knowledge base , rather than the inferred types of the similarity in the knowledge bases .
+ in our approach , we use a similar approach to reduce the processing complexity of the inference problem , as well as the accuracy of the clustering algorithm .
+

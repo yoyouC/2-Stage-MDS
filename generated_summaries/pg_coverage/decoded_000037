@@ -1,0 +1,26 @@
+there has been a large body of work on the task of semantic boundary detection in the context of machine translation @ cite @ cite .
+ for example , @ cite proposed a method to detect semantic boundaries from the source and target domains .
+ @ cite propose to use reinforcement learning to train a machine translation model for segmentation errors in the target domain .
+ however while @ cite focuses on learning data from a source language , they do not consider the translation model , and use the monolingual data to generate encoder .
+ in @ cite , the authors present a use of neural machine translation models for automatic speech recognition .
+ the authors of @ cite present a system for learning segmentation strategies for simultaneous machine translation and translation .
+ however to the best of our knowledge , no previous work has been done on the use of monolingual data in order to improve the performance of the speech translation task .
+ in contrast to our work , we use greedy search and dynamic programming for simultaneous speech recognition and translation in the monolingual scenario .
+ our work differs from the previous work in this area .
+ most of the speakers have been proposed to solve the problem of machine translation in the context of speech recognition @ cite , machine translation @ cite @ cite and speech processing @ cite .
+ for a more comprehensive review , we refer the reader to @ cite for a comprehensive review of robustness .
+ we refer readers to the recent work @ cite in mt .
+ nli has also been considered as a special case of the ASR system @ cite that can be used to train a language model to imitate the output of a language .
+ however , the system only focuses on the use of a sequence of parallel data .
+ in contrast to our work , we use a classifier to predict the boundaries of generated words , which are then fed into a gating tree , and then retrain the coreference to the best matched beam .
+ finally , @ cite use a similar approach to improve the accuracy of the translation model .
+ however by contrast , our approach does not require a large amount of training data , which is not available in our model .
+ we believe that this approach can be seen as a generalization of our approach .
+ the proposed bridging models can be viewed as a special case of phrase-based neural machine translation @ cite @ cite .
+ in the context of machine translation , there have been a large amount of work on document-level neural machine learning , such as beam search @ cite and cache-based neural networks @ cite , and use a recurrent neural network ( rnn ) to encode contextual information in the target domain .
+ @ cite proposed a model that uses a gating model to encode the source and target domains , which are then used to predict the target sequence of words in the document .
+ however to the best of our knowledge , no previous work has focused on the translation hypotheses of the source language , which is not available in the case of the sequence; model .
+ in our work , we use the bridging between two different phrase-based smt approaches .
+ the first step is to use a dynamic bridging between the source of a source , and the source domain , and then retrain the word embeddings to organize the source into a set of topical words .
+ in this paper , we propose a novel context-aware translation model for the translation model .
+

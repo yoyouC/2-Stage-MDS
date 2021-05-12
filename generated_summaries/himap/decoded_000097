@@ -1,0 +1,8 @@
+In this paper, we focus on the problem of sentence embedding which is related to the task of extractive summarization @cite @cite @cite . 
+ In this work we aim to represent the summary of the extractive extractive summary of a collection of documents. 
+ Our work differs from these previous works in that the goal is to generate a set of sentences from a given set of documents. 
+ In our work, we assume that the sentences are represented as a graph or a summary of an image is available. 
+ Our approach is similar to that of @cite , where it is used as a summary to minimize the similarity between the ground truth and the ground truth. 
+ This is the same as the graph method @cite , which uses a dense graph structure to compute the similarity of sentences in the document embedding. 
+ We are not interested in the form of the French model, which is not available in the present paper. 
+ In fact, the method is not able to capture the coherence between sentences in a collection and in the sense that it is not clear how to be used in a single graph that is not better

@@ -1,0 +1,30 @@
+correspondence estimation methods have been widely used for semantic matching @ cite @ cite .
+ however , these methods suffer from the fact that the consistency of the semi-supervised learning leads to a poor performance on the unlabeled data .
+ in contrast , our approach is based on the supervised learning approach , which can be viewed as a semi-supervised learning problem .
+ in our work , we aim to learn the correspondence between the semantically related images.
+ and a convolutional neural network .
+ the proposed model is able to learn a set of surrogate classes.
+ pairs , which is then used to initialize a sparse coding model for supervised dictionary learning .
+ in the work of @ cite , the authors propose a hierarchical sparse coding method to randomly sampled the sparse codes from the spatial pyramid.
+ class of the image level .
+ @ cite proposed a method to transform the image into a canonical polyadic ( cbow ) , which approximates the pooling over multiple points in the model .
+ however that the predictions are not fully connected to a single image , it requires a large amount of labeled data , which limits its applicability to unsupervised learning .
+ generative adversarial networks ( gans ) have been widely used for semantic segmentation @ cite @ cite .
+ however to the best of our knowledge , there are no prior work on unsupervised learning for depth estimation and depth estimation tasks .
+ for example , @ cite proposed a convolutional neural network for image reconstruction using a cnn trained on imagenet @ cite and @ cite datasets .
+ @ cite used a deep cnn to generate a set of surrogate classes.
+ Each segmentations produced by applying a This contrast to randomly sampled disparities from the left and right images, of depth images .
+ however , these approaches only estimate the consistency of the class of the image , which is not directly applicable to image restoration problems .
+ in contrast to our work , we aim to solve the problem of semi-supervised learning and monocular depth estimation .
+ our work is distinguished from these previous work by @ cite , where the authors present a semi-supervised learning based on the use of explicit depth information to guide the training process .
+ however between the two approaches , we focus on learning features from unlabeled data , rather than being able to learn feature representation .
+ the problem of semi-supervised learning has been addressed in the context of image segmentation @ cite @ cite and image captioning @ cite .
+ recently , deep neural networks have been successfully applied to the task of semantic segmentation .
+ for example , @ cite proposed a semi-supervised learning approach for semi-supervised semantic segmentation by using a fully convolutional neural network to predict flow of flow warp errors in the ground truth .
+ @ cite propose a discriminator to predict the structural patterns of the input image .
+ however to the best of our knowledge , this is the first attempt to use deep learning for unsupervised training .
+ in particular , we show that the proposed discriminator can be viewed as a generalization of the adversarial loss .
+ we demonstrate that these methods can be used to train a model for the predicted probability of the conditional distribution of the image and the target image .
+ in contrast to our work , we aim to directly learn a consistency constraint from the input data , which is the key of our work .
+ in addition to the use of the supervised loss , we propose a novel regularization term for semi-supervised learning , where we use brightness constancy and spatial smoothness priors .
+

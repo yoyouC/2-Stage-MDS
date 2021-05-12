@@ -1,0 +1,52 @@
+neural network models have been widely used in the context of handling knowledge bases , such as @ cite @ cite , @ cite .
+ in this work , we focus on the linking of essential features in the underlying access control model .
+ in contrast to our approach , we use a hybrid approach to represent the profiles of entities in the given documents , and use a similar approach to disambiguate the entity linking task .
+ in @ cite the authors propose a probabilistic approach to model word- and character-level features using a hybrid bidirectional LSTM and CNN architecture, for access control to the knowledge base .
+ the authors of @ cite present a novel method of encoding partial lexicon matches in a neural network based on simple sufficient statistics of the two modalities .
+ @ cite propose a provenance-based provenance model based on the entire document of the same entity , and the linking model is applied to the disambiguated entity recognition problem .
+ in their work , they use a graph model to represent entity co-occurrences with local information captured from mentions and their surrounding context .
+ they use the prior of feature extraction and access control techniques to improve the performance of the system .
+ text descriptions can also be used for semantic parsing @ cite @ cite .
+ for example , @ cite and @ cite analyse the relationships between pairs of knowledge graph .
+ @ cite , the authors propose a new alignment model to predict the entities in the graph .
+ in @ cite a word linking approach is used to represent the profiles of the knowledge base .
+ the authors of @ cite propose a graph-based method to predict entity mentions of the named entries.
+ entity type .
+ the measures of graph connectivity.
+ have been used to learn distributed representations of texts and knowledge bases @ cite on a large corpus of texts .
+ in this work , we focus on the state of the art in the context of knowledge base entry models , which can be organized into two categories : unsupervised and unsupervised learning .
+ we use a similar approach to query graph generation, @ cite which uses a graph-based approach to learn a knowledge base that distinguishes sentences from different versions of the candidates .
+ in contrast , our method is based on linguistic and textual features , which is also used in our experiments .
+ we believe that our approach can be seen as an extension of our work .
+ neural EL models have been widely used in the context of scientific years @ cite @ cite .
+ in this paper , we focus on the linking of the query and document frequency , which is the focus of our work .
+ in @ cite , the authors present a tree-based structured model for tweet entity linking .
+ they use a graph model to represent the profiles and candidate mentions of the phrases in a document .
+ @ cite use a neural network model to learn fine-grained similarities between words and link name entities .
+ the authors of @ cite propose a new additive regression model based on multiple additive regression trees.
+ is used to learn similarities between the context and the factor of the distance between the phrases of the candidate document .
+ the English-trained system @ cite is similar to the additive regression problem , but instead of relying on the loss of relevance.
+ entity linking , they did not consider tweet linking , and do not consider the structure of tweet entity disambiguation .
+ in contrast , we use a method to learn the profiles from the same documents , which can be used to identify labels .
+ TransM et al @ cite @ cite use a neural network to represent the knowledge of the knowledge and texts such as hashtags and enumerations from the web .
+ the transitional system @ cite is based on the assumption that the coherence between the head entity and hashtag semantics is minimized .
+ in @ cite , the authors propose to use the knowledge graph model to segment and parent-child relations .
+ @ cite propose a model to constrain the relationship between triplets, entity linking and tweet information .
+ the authors of @ cite investigate the issue of linking entities in a knowledge base into a low-dimensional space , and then use a graph structure to disambiguate the reasoning process .
+ in this work , we focus on self usage of the linking relationships between entities.
+ The and the hashtags of the neural network .
+ in contrast , our work is different from ours , and we do not consider the problem of predicting the entities in the hashtags .
+ we also use the transitional ontology @ cite to infer linking entities from the head and tail entities .
+ in the context of knowledge computing , @ cite and @ cite have explored the use of neural networks to learn computation models .
+ active learning has been used in many nlp tasks , such as entity identification @ cite , semantic role labeling @ cite @ cite and sentiment analysis @ cite .
+ in this paper , we focus on the relation between knowledge and knowledge base to augment named entity mentions and external corpus .
+ we use active learning to exploit the global interdependence between the entities of the target system and the source system.
+ model to improve the accuracy of knowledge graph model .
+ in the context of image-text linking , we use a similar approach to learn entity associations in the knowledge graph .
+ in @ cite the authors present a graph-based collective inference model to model the profiles of background knowledge bases .
+ @ cite propose a relation linking approach to automatically select entities from the source and transferred collaborative-filtering model to a general transferred mapping into a general logistic regression model .
+ the authors propose a generative model for knowledge transfer between recommender systems .
+ the work of @ cite also exploits the interdependence between different EL features.
+ and the relation patterns between background and relation between mentions and the correspondences between different systems .
+ in contrast , our work is fundamentally different to our approach , which is the focus of our work .
+

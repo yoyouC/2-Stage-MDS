@@ -1,0 +1,17 @@
+In @cite , the authors propose to use a CNN to predict the body labels of the body part of multiple bounding boxes in the image. 
+ In a similar manner, @cite proposed a method to detect the 2D labels of multiple people based on the activations of the network and then use the model to classify the body of the image to obtain the final results. 
+ In this work, we propose a novel method that can be used to generate the 2D pose of a single color image with a limited number of parameters. 
+ In contrast to @cite , we use the activations from the network to estimate the number of persons in a single image. 
+ Our work is different from @cite in that we do not require any extra supervision but instead of detecting and we show that our method is able to predict both the body and body parts of the network in order to improve the performance of the model. 
+ In this paper, we propose an end-to-end refinement method for semantic segmentation in the context of semantic segmentation and instance detection. 
+ We also show that the proposed method can be applied to the problem of semantic segmentation. 
+ In this section, we briefly review the related work that has closely related to our work. 
+ In @cite , @cite , the authors propose a method for estimating the human pose of a body part of a single body cloud. 
+ The authors of @cite propose to use a similar approach to estimate the semantic segmentation mask in a single video. 
+ In this paper, we propose a novel self-supervised learning framework for pose normalization. 
+ Our method is different in that we are interested in the next category. 
+ We will refer to @cite for a review of the recent works in this area. 
+ Here we review the most relevant and most related works we refer to this review can be found in @cite @cite @cite . 
+ We will focus on these works that are related to the use of human pose estimation and parsing methods. 
+ In our work, we propose the proposed method for pose recognition in the context of gender recognition and action recognition @cite @cite , but it is not clear how to refine the semantic information from the image to the body of the pose in the image. 
+ In this work, we use an iterative refinement module @cite which is based on pictorial

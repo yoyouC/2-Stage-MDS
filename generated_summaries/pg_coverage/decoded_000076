@@ -1,0 +1,35 @@
+the sequential nature of time series has been widely studied in the context of temporal relation classification @ cite @ cite , speech recognition @ cite and surveillance data @ cite .
+ in this work , we use a classifier to predict the multi-word number of changes in time series .
+ in contrast to our work , the authors of @ cite present a hierarchical codebook model for explainable predictive modeling based on time series of context .
+ @ cite uses a parts-of-speech tag model to capture the temporal relation between events and the spikes of the history of a sequence of events .
+ the work in @ cite hints posted on the interpretability of the random shapelet forest for intra-sentence tweets .
+ in their work , @ cite proposed a neural network for temporal relations between events , and @ cite used a parts-of-speech model to predict future events in the window of contexts .
+ in the work of ding and sun @ cite studied the novel problem of explainable sequence modeling , where the authors use opaque classifier to detect temporal patterns in the events.
+ time series sequence , and used a multi-layer cnn to predict event key features .
+ learning time series has been widely used in the context of taxi demand @ cite @ cite .
+ in this work , we use a classifier to predict the shapelet distances between the anomalous prediction window and the spikes of the target variable .
+ in contrast to our approach , the shapelet approach is used to predict whether a time series of shapelets can be inferred from the time series , and the frequency of the shapelet demand is minimized .
+ in addition , our approach relies on the temporal correlation between shapelet demand and the time , which is the basis of our approach .
+ another interesting approach is the work of @ cite , where the authors consider the problem of finding a single time series shapelets for a given set of shapelets .
+ however , this approach assumes that the distances between two consecutive snapshots are likely to be located in the window .
+ in the case of , the authors in @ cite show that the predictive algorithm can be used to identify failures in the storage domain .
+ @ cite proposed a holistic approach based on stochastic gradient learning ( [UNK] ) @ cite and predictive algorithm), shapelets ( @ cite ) .
+ recent work has focused on grocery world storage @ cite @ cite , which has been successfully applied to speech recognition @ cite and machine translation @ cite .
+ however such methods have been widely used for speech recognition in the past few decades .
+ for example , @ cite proposed a neural network-based model for modeling the sequences of timed data .
+ @ cite used the attention model to predict phonetic states in the context of sequence prediction .
+ in @ cite the authors present a set of methods that capture the latent space of a 3-day prediction task .
+ however by @ cite that the speaker can be modeled as a sequence of events , it is possible to predict future spikes in time series .
+ in contrast , our approach does not require a large amount of historical data , which is not available in the case of real world storage .
+ in our work , we focus on the problem of failures on time series in the manuscript , rather than using attention mechanisms to embed the events into the sequence of prediction events .
+ our approach differs in that we aim to learn a classifier to predict the failures of failures .
+ @ cite proposed a RNN model that learns to predict the weight of the anomalous prediction window based on the TT-format of the spikes .
+ in @ cite , the authors proposed a method based on a probabilistic model for sequence classification .
+ the authors of @ cite use a similar approach to reduce the amount of the time series .
+ @ cite used a classifier to predict whether the failures of a 3-day are likely to be selected at a time .
+ in contrast to our work , we use attention mechanisms to embed failures into a 3-day prediction task .
+ our work differs from the referenced articles of our work .
+ our approach differs from theirs in the sense that the spikes of the classifier are not available in the explainability , and the frequency of time series is not considered in the context of sequence modeling .
+ in addition , our approach does not use any granularity of different modalities , but does not consider the irregularity of the window , as we do in this paper , and we are able to predict future spikes in the storage environments .
+ however and series, , we believe that our approach can be seen as a special case of our approach .
+

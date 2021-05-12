@@ -1,0 +1,15 @@
+Point cloud reconstruction has been extensively studied in computer vision .
+ Early works on point cloud reconstruction relied on hand-crafted features @cite @math , which were then used to reconstruct the entire point cloud .
+ Recently, deep learning-based methods have been proposed to address this problem .
+ For example, Li al proposed a 3D-LMNet, which learns a mapping from the 2D image to the corresponding learnt embedding, and then uses the learned embedding to generate a dense 3D reconstruction .
+ In contrast, our method is based on a pyramidal network that predicts a point cloud of increasing resolution, while also providing a light-weight and scalable architecture .
+ Point cloud reconstruction has been extensively studied in computer vision .
+ @cite proposed a CNN-based architecture to reconstruct a point cloud from a 2D grid .
+ The authors proposed EdgeConv, a generic architecture that incorporates local neighborhood information to reconstruct an arbitrary point cloud .
+ The proposed architecture can be stacked or recurrently applied to learn global shape properties, and in multi-layer systems affinity in feature space captures semantic characteristics over potentially long distances in the original embedding .
+ In addition, the authors proposed a novel folding-based decoder deforms a canonical 3D grid onto the underlying 3D object surface, achieving low reconstruction errors even for delicate structures .
+ 3D point clouds have been widely used in computer vision for object detection @cite , object pose estimation and 3D pose estimation .
+ In recent years, deep learning based point cloud reconstruction has been successfully applied to a wide range of computer vision tasks, such as object detection, pose estimation, object segmentation, and pose estimation  .
+ Most of these methods are based on deep convolutional neural networks (CNNs) that are trained on a large set of 2D images .
+ In contrast to these methods, our method is based on a pyramidal network that predicts a point cloud of increasing resolution, while also providing a light-weight architecture for predicting high-resolution outputs .
+

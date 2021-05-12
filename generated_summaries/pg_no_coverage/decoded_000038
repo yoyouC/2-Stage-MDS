@@ -1,0 +1,19 @@
+face deblurring has become a hot topic in computer vision and computer vision .
+ it has been recently shown that face deblurring @ cite @ cite and sharp images @ cite have been proposed to learn a semantic segmentation model for face recognition .
+ @ cite proposed a multi-stream convolutional neural network ( iCNN ) that jointly fuse semantic labels in a network from image-level annotations .
+ in @ cite , the label refinement network is used to learn the representation of facial parts of the scene and the target semantic map in the image .
+ in this work , we focus on the problem of training a semantic labeller with perceptual and adversarial losses .
+ in contrast to our work , our method is based on the assumption that the confidence measure is learned from the final deblurred images .
+ we demonstrate that our proposed multi-stream face deblurring approach alleviates the benefits of using prior knowledge of the object image and the sharp facial labels .
+ we use a similar approach to the semantic class of the network , which can be seen as an extension of deep learning @ cite .
+ our work is also related to the work of zhou al @ cite who propose a interlinked attention model to incorporate semantic priors into deep convolutional neural networks ( cnns ) .
+ face detection has become a hot topic in computer vision and computer graphics .
+ it has been recently shown in @ cite @ cite , @ cite and @ cite .
+ in this work , we focus on the problem of face deblurring using semantic labels for face detection .
+ @ cite proposed a unified deep neural network for joint rain density estimation .
+ a similar approach was proposed by @ cite to model the spatial relationships between labels and spatial relations between labels of the human face .
+ the region-based model @ cite is based on the assumption that the landmarks can be estimated from the semantic space of the labels .
+ the authors of @ cite propose to learn the landmark-based face from the image and the labels of each pixel in the image , and the resulting body-joint coefficients are estimated using the nearest truth to guide the network .
+ in the first stage , they proposed a novel deep architecture to predict the face of the face , and then the surf method is used to train a deep model .
+ in contrast , our work is different from theirs in the sense that we are aware of the first attempt to exploit the semantic segmentation of facial image image .
+

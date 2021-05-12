@@ -1,0 +1,24 @@
+transfer learning has been widely researched in the context of machine learning @ cite @ cite , where the goal is to predict the source and target domains , which is not available in the domain adaptation literature .
+ for example , @ cite proposed a message-passing algorithm to solve the problem of uncertain data behavior in the source domain .
+ @ cite propose a novel support vector machine ( svm ) to build a classifier for the target task .
+ however , the proposed method is able to learn the label proportions of the aggregation function , which can be viewed as a regression problem .
+ however harness the existing work has focused on use cardinality of the source of tasks in the knowledge base , rather than unlabeled data .
+ in contrast to our approach , our approach overcomes this limitation of knowledge transfer based on label proportions , which differs from the aforementioned works by @ cite .
+ in our work , we aim to solve uncertain data knowledge and deals with uncertain data and model voting on source task , which are not available for individual-level task This .
+ our work differs in the area of knowledge adaption, , which has been used in the past few works in this area .
+ transfer learning has been widely used in the context of category adaptation @ cite @ cite .
+ in the domain adaptation literature , the problem of transfer learning was tackled in @ cite and @ cite , where the authors proposed a sparse coding framework for partial domain adaptation .
+ @ cite proposed a method to learn the projection function between source and target domains to learn a new semantic representation for the target domain class .
+ the authors of @ cite used a fully supervised domain adaptation approach to reduce the distribution discrepancy between the domains of the source domain and the target label space .
+ in contrast to our work , our objective is to maximize the discrepancy between domain projection and uncertain data .
+ our work differs from the existing work on knowledge transfer , rather than transfer knowledge between outlier source and deals jointly with uncertain tasks , which are not available in the action recognition task .
+ in addition to the large amount of labeled data , we propose a novel domain adaptation method to transfer knowledge from source domain to target domains , which can be categorized into two main categories : 1 ) .
+ there are two main approaches to transfer knowledge from source task to the target domain , such as transfer learning @ cite @ cite and label proportions @ cite .
+ in contrast , our approach is based on the task-specific decision boundaries.
+ We ( [UNK] ) @ cite , which uses a task-specific decision for uncertain data and political sentiment and demographic and opinion inference .
+ our work differs from the previous work in the context of domain adaptation for a pretext task where the source and target tasks are not aligned .
+ our approach differs from this line of research , as evidenced by the existing work in this area .
+ in our work , we focus on the problem of learning with label proportions for pretext aims to learn a classifier for the target task .
+ we use a similar approach to support vector machine learning ( irl ) , which has been shown to be useful in a variety of applications .
+ however , these methods are not applicable to our problem , since they assume that the source of unlabeled data is available in the bag of target tasks , which is not available in our case .
+

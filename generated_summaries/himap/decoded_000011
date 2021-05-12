@@ -1,0 +1,8 @@
+In @cite , the authors propose a method for action recognition in untrimmed videos using an attention mechanism for action detection. 
+ In this paper, we propose a novel loss function based on temporal class activations to improve the action recognition accuracy. 
+ To the best of our knowledge, we are the first to propose a weakly supervised clustering algorithm for temporal action localization in the video video. 
+ The authors in @cite propose to learn a temporal action recognition model based on the temporal information of the action category of human actions and the second part of the network to obtain the final action map. 
+ 3C-Net, @cite proposed a method to learn temporal action features from untrimmed videos to improve temporal localization of action classes @cite @cite @cite . 
+ However, these methods are not suitable for action recognition, which can be used to model the temporal overlap between the action and the action space and the temporal localization and temporal information @cite @cite , which are not applicable to the problem of temporal action recognition. 
+ In contrast, our method is able to learn the temporal annotation of action models that can be applied to the action classes and can be trained on a large dataset dataset. 
+

@@ -1,0 +1,6 @@
+In @cite , the authors propose a method to determine the expected number of collision free samples in the state space of the free space. 
+ In this paper, we consider the problem of kinodynamic planning in the presence of a continuous configuration space and show that it can be used to improve the performance of the model. 
+ In this work, we show that our approach can be applied to planning in a configuration space without the need of the model to be more accurate than the configuration of the art in order to make the advantage of the configuration space in our work. 
+ We believe that our method is more effective than the one we present here, and our approach is the first to use a probabilistic model that is able to identify the most informative control trajectories for a given configuration space. 
+ In contrast, our approach uses the global Augmented trajectories and the @cite to generate a collection of collision checks that are used for planning of the collision space, which is the main focus of our method. 
+ Our work is more general since ours we use this approach in the sense that it does not require any assumption that the configuration is used

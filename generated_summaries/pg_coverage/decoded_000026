@@ -1,0 +1,29 @@
+privacy-preserving machine learning has been widely researched in computer vision and machine learning @ cite @ cite .
+ in the context of distributed learning , @ cite proposed a differentially private empirical risk minimization technique based on alternating direction method of multipliers ( admm ) .
+ @ cite developed a multi-column privacy model to address the problem of estimating privacy with respect to the loss of sensitive levels of data distributions .
+ in @ cite , the authors proposed a multi-column machine learning algorithm for estimating the importance of a set of classifiers .
+ however and empirical evaluations , these algorithms can be classified into two categories : ( i ) sensitive information ( e.
+g.
+ to distinguish the server ) , and ( 2 ) the noise of the framework ( e.
+g.
+ empirically @ cite ) .
+ in contrast , our work is based on the prior work in the area of regularized empirical model @ cite and random rotation perturbation @ cite that can be used to evaluate the performance of our heterogeneous privacy for users ' the users ' sensitive levels and sensitive information .
+ however , none of these works have focused on the application of the learning algorithm .
+ privacy-preserving training of side-channel attacks.
+ has been widely researched in the past few years @ cite @ cite .
+ in @ cite , the authors present a privacy-preserving ADMM-based system for privacy preserving distributed machine learning .
+ @ cite studied the privacy of resource allocation in the framework of online learning.
+ , and @ cite proposed a privacy-preserving optimization algorithm that maximizes the utility of privacy leakage .
+ however to the best of our knowledge , no prior work has been devoted to preserving the privacy and privacy in the literature .
+ in particular , we focus on the problem of privacy-preserving ADMM-based resource allocation problems in the context of privacy-preserving convex accumulation of data aggregation , which is a central challenge in the area of privacy .
+ in our work , we assume that the learned model is able to achieve a suboptimality of the privacy losses .
+ in this paper , we show that the privacy protection mechanism can be used to optimize the relation between different user applications .
+ in contrast , our work is based on the assumption that participants are willing to guarantee user privacy in side-channel sensitive levels , which limits the privacy budget .
+ a number of studies have been devoted to privacy protection in distributed machine learning .
+ for example , @ cite proposed a privacy-preserving framework for learning deep neural networks for users with a modified rate-distortion problem .
+ @ cite used maximal correlation in the literature to capture the privacy and utility of privacy losses .
+ in @ cite , the authors present a privacy-preserving statistical inference framework for heterogeneous machine learning , where the goal is to find the optimal mapping between the user's and the server , which is then used to estimate the privacy threat .
+ in contrast to our work , we focus on the problem of privacy-preserving ADMM-based estimation of two privacy-preserving training data , which can be broadly categorized into two main categories : ( 1 ) , nonparametric ( model-based ) regression @ cite @ cite and objectives, ( @ cite ) .
+ our work differs from the existing literature on the area of information leakage in the context of the users ' trust and maximum information in the users .
+ in our work we assume that the adversary is able to learn the optimal design of the framework , which are then used for privacy protection .
+

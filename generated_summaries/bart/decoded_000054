@@ -1,0 +1,23 @@
+@cite present a weakly supervised approach for learning emotion hashtags, hashtag patterns, and phrases associated with five emotions: AFFECTION, ANGER RAGE, FEAR ANXIETY, JOY, and SADNESS DISAPPOINTMENT .
+ The learned set of emotion indicators yields a substantial improvement in F-scores, ranging from + 5 to + 18 over baseline classifiers .
+ They also show that the learned sets of emotions yields a significant improvement in terms of F-score .
+ However, they do not provide guidelines for the design of emotion-aware chatbots .
+ There is a large body of research on the topic of predicting the mood of a user @cite  .
+ The majority of these works focus on predicting the user's mood based on the characteristics of the user .
+ However, there are also some works that aim to infer the mood using a natural conversational interface .
+ For example, the authors of MoodScope have proposed an interactive visual analytics component called MoodScope that is based on a tree-style layout and provides information as an important input to context-aware computing .
+ In this work, we focus on the design and evaluation of an emotion-aware chatbot that conducts experience sampling .
+ In the field of psychophily, there has been a large body of work on the study of the affective process of humans @cite  .
+ In this section, we review the most relevant work in the area of emotion-aware chatbots .
+ Emotion-aware conversational interfaces have been extensively studied in the past few years .
+ For example, the work of the authors of the Emotion Emotional Control (EMC) @math is the most related work to ours .
+ In this work, we focus on the design and evaluation of a conversational chatbot that conducts experience sampling in an empathetic manner .
+ In addition, we provide guidelines for designing and evaluating the design of such chatbots in mHealth contexts .
+ There is a large body of literature on the design of emotion-aware agents for human-robot interaction @cite  .
+ In this section, we briefly review some of the most related work to our work .
+ Emotion-aware bots have been studied in the context of social networks, e .
+g .
+, in the field of cognitive science, where the goal is to minimize the number of interactions between people and robots .
+ In this paper, we focus on the task of designing an empathetic chatbot for health wellness applications .
+ Emotional-aware chatbots have also been investigated in other areas, such as in the area of social network design, where people interact with robots and interact with them in a conversational manner .
+

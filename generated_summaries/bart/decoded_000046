@@ -1,0 +1,34 @@
+Crowdsourcing has attracted a lot of research attention in recent years .
+ @cite proposed an incentive mechanism based on quality-driven auction (QDA) to attract and retain a sufficient number of participants to provide a sustainable crowdsourcing service .
+ In the context of mobile crowd sensing (MCS), the authors proposed a Quality-Driven Auction (TDA) mechanism to incentivize the participants to participate in the crowdsourcer .
+ In this work, we modeled the task valuation and workers' punctuality behavior in both short-term and long-term scenarios .
+ Moreover, we model the workers' heterogeneous punctuality and task depreciation over time to bridge the gaps of such impractical assumption .
+ @cite proposed a probabilistic model that takes into account both participants' personal characteristics (referred to as the independent social context, including preference and expertise in domains) and mutual relations between two participants .
+ @cite considered the social context and the context of the target services to infer the trust between participants and derive the final recommendation .
+ However, these models do not consider the heterogeneous punctuality behavior and task depreciation .
+ In addition, they do not model the time-varying task valuation and workers' punctuality, which are not considered in the existing works .
+ In contrast, our model considers the heterogenous punctuality behaviors and the task depreciation over time .
+ Crowdsourcing has been widely studied to provide more scalable and efficient services to support various tasks, such as image classification @cite , semantic segmentation and image captioning .
+ In the past few years, various incentive mechanisms have been proposed to attract and retain a sufficient number of participants to provide a sustainable crowdsourcing service .
+ For example, the Joint Crowdsourcing (JOCR) framework proposed by Chen and Zhang in @math is proposed to select the best workers for a given task .
+ The JOCR framework is based on the idea that the workers can perform as many tasks as possible for as little as possible .
+ However, it is difficult to infer specific knowledge from general knowledge .
+ To address this issue, the authors in @ @cite proposed a dynamic pricing incentive mechanism to attract and retain participants to provide a sustainable crowdsourcing service .
+ @cite introduced an incentive mechanism for crowdsensing based on the quality of the sensing data .
+ The authors proposed a mechanism to incentivize the participants to perform their tasks efficiently .
+ However, the authors did not model the task valuation and the workers' punctuality behavior .
+ In addition, they did not consider task valuation, task depreciation, and workers' heterogeneous punctuality .
+ In contrast, we modeled workers' task valuation as a heterogeneous heterogeneous task valuation with heterogeneous tasks .
+ Crowdsourcing can be applied to the Internet-of-Things (IoT) systems to provide more scalable and efficient services to support various tasks .
+ As the driving force of crowdsourcing is the interaction among participants, various incentive mechanisms have been proposed to attract and retain a sufficient number of participants to provide a sustainable crowdsourcing service .
+ For example, @cite proposed an incentive mechanism that maximizes the expected social welfare by attracting and retaining more participants in the long-term, i .
+e .
+, multiple rounds of crowdsourced service .
+ However, these incentive mechanisms are based on the assumption of heterogeneous task valuation and workers' heterogeneous punctuality .
+ Several incentive mechanisms have been proposed to attract and retain a sufficient number of participants to provide a sustainable crowdsourcing service .
+ For example, the Vickrey-Clarke-Groves (VCG) mechanism @cite aims to maximize the expected social welfare by attracting and retaining more participants in the short-term, i .
+e .
+, multiple rounds of crowdsourcing .
+ However, the VCG mechanism does not consider the heterogeneous task valuation and task depreciation in the long-term .
+ To bridge the gap between the modeled entities or markets in the existing works and those in reality, we modeled the workers' heterogeneous tasks and task valuation in the current works .
+

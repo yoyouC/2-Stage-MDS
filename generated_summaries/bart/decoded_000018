@@ -1,0 +1,21 @@
+There is a large body of work on 3D shape generation from single images .
+ Most of these methods are based on hand-crafted features, e .
+g .
+, SIFT @cite , SCIRD (SIFT-3D) @math , SURF @math and SURF-4D @math  .
+ In contrast to these methods, we learn elementary 3D structures from a collection of elementary structures, which can be extended to abstract structures of higher dimensions for improved results .
+ Our approach is complementary to these approaches, as we use elementary structures as primitives resulting from training over an elementary collection of shapes .
+ Our work is also related to the work of @cite , where the authors learn a 3D shape representation from a collection of images .
+ However, they do not consider the problem of shape reconstruction .
+ In contrast, our work is concerned with the task of learning an elementary 3D structure from a set of images, which is related to our work .
+ Our work differs from these works in two ways .
+ First, we do not learn a shape representation directly from images .
+ Second, we learn an elementary structure directly from training data, which can be extended to abstract structures of higher dimensions for improved results .
+ Our work is also closely related to the work of @cite , where the authors represent shapes as a set of 3D volumetric primitives .
+ In contrast, our method represents shapes as 3D shapes, which are primitives resulting from training over a collection of shape data .
+ Our method is also related to @math -means learning, which is a learning framework for abstracting complex shapes by learning to assemble objects using 3D voxel primitives, which can be used to extract consistent structure in the data .
+ In addition to generating simple and geometrically interpretable explanations of the 3D objects, our framework also allows us to automatically discover and exploit consistent structure .
+ We demonstrate that using our method allows predicting shape representations Our work is closely related to the work of @cite , which proposed to represent shapes as a 3D mesh model of an object category .
+ Their approach is based on the idea that the 3D shape can be represented as a set of 3D shapes and correspondences between the shape and the template .
+ In contrast, our approach is more general and can be extended to abstract structures of higher dimensions for improved results .
+ Our work is also related to recent work on learning 3D meshes from natural language, which has been shown to be robust to many types of perturbations, such as texture, color, and shape detail .
+

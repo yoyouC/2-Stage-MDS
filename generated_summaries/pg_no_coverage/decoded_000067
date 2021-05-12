@@ -1,0 +1,11 @@
+document structure has been used in many nlp tasks including keyword extraction @ cite , sentiment analysis @ cite @ cite and document summarization @ cite .
+ in this paper , we focus on self usage of text document based on the expanded document set , which is the focus of our work .
+ we also use conditional random fields ( crf ) model to extract keywords and adjectives in the specified document .
+ we use the pmtlm of @ cite to infer the semantics between a question and the global information in the discrete text input .
+ in @ cite the authors propose a generic variational inference approach to model text document data .
+ @ cite propose an analytic ranking network to learn the latent cluster structure of the text into a latent space , and then use a graph-based approach to discover the semantics of document words .
+ in contrast , our approach is different from theirs in terms of the local information of the document and the answer pair.
+ in the document.
+ test corpus , which can be interpreted as a partition of document documents .
+ in the context of document classification , we use a similar approach to the word extraction problem .
+

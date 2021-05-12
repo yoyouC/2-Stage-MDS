@@ -1,0 +1,23 @@
+In @cite , the authors proposed a dense visual odometry method based on RANSAC .
+ The authors proposed an efficient solution to jointly estimate the camera motion and a piecewise-rigid scene flow from an RGB-D sequence .
+ The proposed method uses a two-fold segmentation of the scene, dividing it into geometric clusters that are, in turn, classified as static or moving elements .
+ The segmentation is performed by dividing the dynamic scene as a set of rigid clusters, which is classified as dynamic or moving .
+ The method is evaluated on a multi-core CPU with an average runtime of 80 milliseconds .
+ In @cite , the authors proposed a joint registration and segmentation approach to estimate scene flow from RGB-D images .
+ The authors used non-binary labels to capture non-rigid deformations at transitions between the rigid parts of the scene .
+ The motion patterns of the foreground pixels are clustered using a fast accurate fuzzy k-means algorithm .
+ The clusters of the clusters are clustered hierarchically using spatial and temporal information and then each motion pattern is represented with a chain of Gaussian distributions .
+ The method was tested using a crowded real traffic scene and a model traffic scene .
+ However, the method was not tested in dynamic environments .
+ @cite proposed a learning-based approach for motion boundary detection using a structured random forest trained on the ground-truth of the MPI-Sintel and Middlebury datasets .
+ The authors proposed a method to predict motion boundaries using appearance and motion cues .
+ However, their method is computationally expensive and requires a large amount of training data .
+ In contrast, we use self-collected dataset containing RGB-D images and motion capture data for real-time visual odometry .
+ Moreover, our method does not rely on motion segmentation and temporal motion tracking .
+ In addition, we do not use dynamic rigid objects in our method .
+ In @cite , the authors proposed an energy-based method to map one RGB-D image into another one, assuming a static scene filmed by a moving camera .
+ The energy function is a linearization of the twist coordinates representing the rigid body motion .
+ However, this linearization leads to a 6×6 normal equation for the twist coordinate representing the motion motion .
+ The authors proposed a method for the continuous segmentation of dynamic objects using only a vehicle mounted monocular camera without any prior knowledge of the object’s appearance .
+ The proposed method is able to detect multiple instances of static objects by introducing an unsupervised motion clustering step .
+ The clusters are then used to update a multi-class classifier within a self-supervised

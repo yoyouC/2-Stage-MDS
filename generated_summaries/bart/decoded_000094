@@ -1,0 +1,6 @@
+Our work is also closely related to the work of @cite , where a Bayesian model is used to model the behavior of multiple agents interacting in a multi-agent game .
+ In contrast, our work focuses on the problem of understanding the latent relationships between agents in a game .
+ Our work differs in that we do not assume that the underlying relationships are unobservable, and instead we use a generative model of the dynamics of the agents in the game .
+ This allows us to infer hidden relationships that underlie behavior from just sparse and noisy observations .
+ In addition, our model does not require any prior knowledge of the underlying dynamics .
+

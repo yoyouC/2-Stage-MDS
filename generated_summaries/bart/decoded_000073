@@ -1,0 +1,22 @@
+Game-theoretic characterization of bisimilarity games has been a long-standing research topic in computer science and game theory .
+ Early works on game characterization include @cite , @math , and @math  .
+ In particular, @math is defined as the number of states in the state space of a system that can be represented by a set of predicates .
+ @math denotes the set of states of the system that are used to determine the state of the state .
+ In contrast, our definition of codensity is defined in terms of fibrations, coalgebras, and fibrational predicate transformers .
+ Game theory has been applied to a wide range of computer games, ranging from simple games @cite to voting systems (e .
+g .
+, voting systems) .
+ In particular, games have been studied in the context of voting systems, where each player chooses a route from the origin to the destination, which is common to all players .
+ In the case of simple games, the goal is to maximize the total cost of a player's route, which can be measured by the sum of the costs of the road segments in his route .
+ In this paper, we focus on game characterizations of bisimilarity in terms of bisimulation metric .
+ Bisimilarity games have also been studied in the context of probabilistic processes @cite  .
+ For example, in the case of @math and @math , @math can be defined as the smallest epsi such that @math is @math -equivalent to @math  .
+ In the case @math there are countably many labels, which is the same as the case for @math (see e .
+g .
+ for a more detailed discussion) .
+ In this paper, we extend the notion of bisimilarity in terms of fibrations and coalgebras to a general categorical game characterization .
+ Game-theoretic characterization of bisimilarity games has been an active area of research in the past few years .
+ In @cite , the authors use coalgebras as fibrational predicate transformers for organizing predicates in a game .
+ In particular, they use the morphisms of fibrations as well as canonical liftings of functors via Kan extensions .
+ The authors also use fibration as a general categorical framework for bisimulation notions in control theory .
+ In this paper, we extend bisimulations to a variety of games, including Markov Decision Processes (MDPs) @cites , Markov Network Configuration (M2C) systems, and Probabilistic Decision Processs (P

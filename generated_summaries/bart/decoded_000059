@@ -1,0 +1,15 @@
+@cite proposed the Frechet Inception Distance (FID), which is defined as the distance between the joint distribution of images and conditionings .
+ FID has been shown to be useful in many applications, such as image classification @cite , speech recognition @math , and audio processing @math  .
+ In this paper, we use FJD to evaluate cGAN-based models .
+ FJD can be used as a generalization of FID to other metrics such as Inception Score and FID .
+ In addition, FJD has been used to compare cGANs in various applications .
+ In @cite , the authors propose the Frechet Joint Distance (FJD) to measure the joint distribution of images and conditionings .
+ FJD is a generalization of FJD in that it can be used as an evaluation metric to evaluate the performance of cGAN-based models .
+ However, FJD does not explicitly capture the intra-conditioning diversity of the conditional consistency of the training data .
+ In contrast to FJD, we propose FJD as a single metric for evaluating the performance in a multi-modal setting .
+ In this paper, we use FJD to compare existing cGANs with varying conditioning strengths, and show that FJD can be applied as a promising single metric .
+ Conditional Generative Adversarial Networks (cGANs) @cite and Invertible GANs (IcGAN) are two widely used evaluation metrics for generative models .
+ The Inception Score (IC) is a commonly used metric to evaluate the performance of cGANs .
+ It is based on the Inception score of the generator and discriminator, and can be used as an evaluation metric to compare models .
+ However, IC is not directly applicable to cGAN-based models, as it does not take into account the intra-conditioning diversity of images and conditionings .
+

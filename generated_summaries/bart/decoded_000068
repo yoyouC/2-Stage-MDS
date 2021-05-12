@@ -1,0 +1,5 @@
+A number of methods have been proposed for the detection and characterization of edges, ridges, blobs, and blobs in synthetic images .
+ These methods are based on the notion of phase congruency @cite , which has been successfully applied to the detection of homogeneous and heterogeneous fog in the presence of noise .
+ In contrast to these methods, our method is based on a directionally sensitive analyzing function, which is invariant to changes in contrast in contrast to noise in the image .
+ In addition, we show how our method can be applied to detect and characterize blood vessels in digital retinal images and how the proposed ridge measure can be used to automatically count the number of cell colonies in a Petri dish .
+

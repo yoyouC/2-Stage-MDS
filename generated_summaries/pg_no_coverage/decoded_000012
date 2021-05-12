@@ -1,0 +1,15 @@
+ABMs et al @ cite use the exemplar model to explore real-time location information in smart environments .
+ they use a combination of component set resampling ( ws ) to estimate the system and use a component of parameter calibration to determine the initial conditions of the system .
+ their approach is based on the assumption that the states of the monitored smart environment.
+ are optimised with respect to the estimated states .
+ in this work , the authors show that the methods.
+ proposed in this paper can be used to evaluate the simulation results in the social sciences.
+ They .
+ however , this approach does not provide a basis for model-based predictions in terms of the real time and the accuracy of the models .
+ in contrast to our work , we consider the modelling of short-term predictions.
+ ( i.
+e.
+ and data assimilation ) to grasp the parameter calibration and the parameter space of a route system .
+ we also use a similar approach to the agent-based setting , where the system is assumed to be too large and the data is associated with the time of the data .
+ the authors of @ cite consider the problem of estimating people’s location information assimilation from real data .
+

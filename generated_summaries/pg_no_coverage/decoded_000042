@@ -1,0 +1,9 @@
+in this section , we are interested in analyzing the collective I effect on the communication layer of processes and the extra information of the cache page size @ cite @ cite .
+ in this work , we focus on self usage of the processes , which can be interpreted as a file system .
+ the coherence between processes has been investigated in the context of biochemical reactions.
+ @ cite , and the performance of MPI-IO @ cite has been proposed .
+ in particular , the authors of @ cite use a two-phase design method for implementing caching with chemical reactions, ( [UNK] ) .
+ in @ cite the request aggregation is used to reduce the communication overhead between the cache and the client processes .
+ in contrast , our work is based on the simulation of the chemical reactions of multiple levels of processes , such as GPFS @ cite and [UNK] @ cite for the purpose of file caching in the presence of a balanced workload .
+ we believe that it is possible to achieve the state-of-the-art performance on multiple large-scale file caching systems , but it has also been shown to be effective in 29 congestion .
+

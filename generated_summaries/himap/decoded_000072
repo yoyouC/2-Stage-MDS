@@ -1,0 +1,6 @@
+There is a large body of work on multi-agent reinforcement learning @cite @cite @cite . 
+ There are also a number of recent works that address the issue of reinforcement learning in the context of multi-agent environments such as StarCraft @cite , Reinforcement @cite , Reinforcement @cite , Reinforcement @cite , Reinforcement @cite , Reinforcement @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , fooling @cite , and Reinforcement @cite . 
+ In this section, we briefly review some related work in this area. 
+ Here we discuss some of the most relevant and most closely related to our work, and we are concerned with learning about agents and playing them to the environment with respect to the ones described in this paper @cite . 
+ We will show that these approaches can be applied to our setting where we are not aware of the number of agents that can be used as a policy to compute the policy that is not always available for each agent, allowing for a specific environment to be used for each task. 
+

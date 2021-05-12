@@ -1,0 +1,7 @@
+Weakly-supervised action localization is a challenging computer vision problem with numerous real-world applications .
+ Most existing methods are based on hand-crafted features .
+ @cite proposed a framework to learn action features from video-level labels and then apply them to action localization in untrimmed long videos .
+ In this work, we propose a novel formulation to learn discriminative action features with enhanced localization capabilities .
+ In addition, we introduce a new formulation to enhance the discriminability of learned action features to improve the localization capabilities of action localization models .
+ We also propose an adapted multi-label center loss term to ensure the separability and delineate adjacent action sequences, leading to improved localization capability .
+

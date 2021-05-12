@@ -1,0 +1,11 @@
+Wibson @cite is a blockchain-based data marketplace that provides individuals a way to securely and anonymously sell information in a trusted environment .
+ It provides infrastructure and financial incentives for individuals to securely sell personal information while preserving personal privacy .
+ The Wibson data marketplace is a decentralized data marketplace where the data buyers and data sellers are able to transact with each other directly while providing individuals the ability to maintain anonymity as desired .
+ It aims to allow Data Sellers and Data Buyers to transact and provide infrastructure and monetary incentives for each other without sacrificing personal privacy while preserving private information .
+ However, it does not provide an efficient cryptographic primitive for the secure exchange of data in a dPDM .
+ @cite propose a new and flexible approach for privacy preserving data mining which does not require new problem-specific algorithms, since it maps the original data set into a new anonymized data set and uses aggregate distributions of the data as input .
+ This approach treats each dimension independently and therefore ignores the correlations between the different dimensions .
+ However, it requires the development of a new distribution based algorithm for each data mining problem .
+ In addition, it does not use the multi-dimensional records as input, since the aggregate distributions are used as input to the algorithm .
+ This leads to a fundamental re-design of data mining algorithms .
+

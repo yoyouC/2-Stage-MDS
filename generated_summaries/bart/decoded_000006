@@ -1,0 +1,24 @@
+The problem of finding an isomorphic subgraph of @math has been extensively studied in the literature .
+ For example, @cite showed that there exists a @math -node graph with @math vertices and @math pattern vertices, and that the problem is NP-complete if @math is not induced .
+ For @math , it was shown that there exist @math algorithms for the problem, and for @math there exists an @math algorithm for the @math problem .
+ In particular, it was proved that @math can be solved in @math time by @math  .
+ For the case where @math are not induced, it is known that there is a @k -approximation algorithm that can solve the problem in time @ The problem of finding the smallest @math -vertex subgraph of a given graph @math has been studied in the context of graph isomorphism @cite  .
+ In particular, it has been shown that for any @math , there exists a minimal @math such that @math isomorphic to @math  .
+ The problem is NP-complete if @math and @math are the same .
+ The problem has also been studied for the case of @math with @math vertices @math (see e .
+g .
+, for a survey of the literature on the problem) .
+ In this paper, we consider the problem where the problem is to find the smallest (not necessarily induced) subgraph that is homeomorphic to a minimal subgraph @math In the context of pattern recognition, the problem of isomorphism has been extensively studied in the literature .
+ For example, in @cite , the authors propose a graph embedding based on prototypes obtained from such feature selection algorithms and demonstrate their potential to outperform previous approaches .
+ In the context where pattern recognition algorithms are based on the color coding principle, the authors also consider the problem where the graph isomorphic to a pattern graph .
+ In contrast, in our work, we consider the case where the pattern graph is an isomorphic subgraph and the problem is a dynamic programming over color subsets and partial mappings .
+ The problem of subgraph isomorphism has been extensively studied in bioinformatics .
+ In @cite , the authors present an algorithm called VF2Plus, which is specifically designed for the large graphs encountered in the BioInformatics applications .
+ The algorithm is based on the idea that a graph isomorphic to a given pattern graph, and it is able to enumerate all such subgraphs in a reasonable time compared to the other most advanced state-of-the-art algorithms .
+ The authors also present a parallel implementation of VF3, called RI-DS, that adds new improvements specifically targeted at enhancing the performance on dense graphs .
+ @cite @cite , the problem of finding all occurrences of @math in a pattern graph is considered NP-hard .
+ In order to solve this problem, the authors propose a dynamic programming over color subsets and partial mappings .
+ In contrast, we consider the problem where the color coding principle is applied to the pattern graph, and we provide an efficient implementation of the algorithm .
+ In addition, we show that our implementation can be used for pattern graphs of larger treewidth, which is the main limiting factor for its usage .
+ Moreover, our implementation is not restricted to pattern graphs .
+

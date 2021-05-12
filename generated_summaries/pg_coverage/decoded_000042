@@ -1,0 +1,10 @@
+there has been a large body of work on collective I caching in the context of linear dynamics @ cite @ cite .
+ the authors of @ cite studied the performance of file caching for a balanced workload management system based on direct analysis of the reactions of the same cache .
+ @ cite proposed a method for solving the problem of MPI-IO O associate caching policies in a file system .
+ the work in @ cite focuses on reducing inter-node communication congestion and keeping the maximum granularity of the client 's lifetime .
+ however to the best of our knowledge , none of them investigates the usage of the cache and the count of data , which is not the focus of this work .
+ in contrast , we focus on the use of an approximate alignment between the aggregation and coherence , rather than relying on the chemical reactions, of the disk .
+ we believe that our request aggregation approach can be used to improve the cache management performance .
+ in our work , we investigate the performance improvement of MPI-IO caching and summation of accesses to the file page size .
+ finally , we show that the stripe aggregation method can not be used in the caching system .
+

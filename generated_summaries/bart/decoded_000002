@@ -1,0 +1,10 @@
+In @cite , the authors use word embeddings to predict the compositionality of multi-word expressions .
+ The authors use a similarity-based method based on string similarity, and show that, in combination with a back-off method, they outperform a method using count-based distributional similarity .
+ However, the authors do not consider the use of word association models in the context of language modeling, and do not compare their method with the methods proposed in this paper .
+ In addition, they do not evaluate the similarity of their method against the methods used in this work .
+ In contrast, we compare our method against these methods in a statistical NLP setting .
+ Graded word sense induction (GSM) @cite is a supervised learning approach for word sense disambiguation .
+ In GSM, a sense inventory is obtained for a given context, and the results of the co-occurrence model are clustered according to probabilities of the most likely substitutes suggested by a statistical language model .
+ This approach outperforms the other methods on the graded sense induction task in SemEval-2013 .
+ However, it is not clear how GSM can be used to estimate the probability of unseen bigrams in a back-off language model, and it is unclear how it can be applied to other NLP tasks .
+

@@ -1,0 +1,7 @@
+Social and tamer+rl, @cite propose a method for multi-agent games with the goal of creating a Bayesian model that is able to detect and recognize actions in social networks. 
+ Their work is closely related to ours in which we deal with the problem of human navigation in a mobile robot using a more flexible and flexible way to model social goals of agents such as humans or state-action However, we focus on the use of human feedback to improve the performance of the RL algorithm. 
+ In contrast, we provide a more detailed description of the most of the RL algorithm and show that it is not necessary for human navigation tasks as well. 
+ Our work differs from theirs in two aspects. 
+ First, we use a different approach, but do not provide any way to the problem where we are interested in terms of the number of agents that can be used to generate the relevant actions that are not necessarily the same. 
+ Our work is similar to that of @cite , but we do not focus on any specific knowledge of the human whereas our approach is based on a more general problem, whereas we consider a more realistic problem and evaluate it in the context of social networks. 
+

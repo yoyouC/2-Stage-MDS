@@ -1,0 +1,6 @@
+Local and deringing @cite proposed a method for image denoising using a similar approach to count the estimate of edges, and their results on a small number of points in the image. 
+ Their approach is different from ours except that it is based on the difference between the shape and the shape support of the transform's support and the with support compression. 
+ of of the the of of of of of of of of of of of support support the the the the the the of of of of of of of of of of of of of of the the the the the the the the the the the the the the the the the the the the the the the the the the and heights. 
+ @cite . 
+ We also note that this method can be used to improve the performance of the proposed method in the context of image denoising @cite , and the authors of @cite propose a method to detect the number of edges, which can be seen as a generalization of the SA-DCT of the transform's This approach can be extended to the case of color and blobs but it is not clear how to handle the large number of fog. 
+

@@ -1,0 +1,16 @@
+Recently, scale-invariant features have been widely used in various computer vision tasks, such as logo recognition @cite , text detection from images and text recognition from videos .
+ In this paper, we propose a novel scale-aware feature encoder named scale-spatial attention network (S-SAN) .
+ S-SAN is composed of a multi-scale convolutional encoder and a scale attention network .
+ It is designed specifically for encoding characters with different scales, and it can transfer the learning of feature encoding across different character scales .
+ This is particularly important when the training set has a very unbalanced distribution of character scales, as training with such a dataset will make the encoder biased towards extracting features from the predominant scale(s) .
+ Multi-scale CNNs have been widely used in various computer vision tasks, such as image classification @cite , semantic segmentation @math , and image captioning @math  .
+ In this paper, we propose a novel multi-scale convolutional encoder that is designed specifically for encoding characters with different scales .
+ We design a simple text recognizer named scale-spatial attention network (S-SAN) that employs S-SAN as its feature encoder, and show that it can transfer the learning of feature encoding across different character scales without any post-processing .
+ In addition, we design a novel simple text recognition system named Scale-Spatial Attention Network (SAN) which is designed for encoding character features with different scale-invari In recent years, there has been a lot of interest in transferring the learning of feature representations across different scales .
+ In @cite , the authors proposed a multi-scale convolutional neural network (CNN) that is capable of extracting high-level features from multiple scales, and then encode the dense features into global image features through commonly used feature coding approaches .
+ The authors proposed Multi-skIp Feature Stacking (MIFS), which stacks features extracted using a family of differential filters parameterized with multiple time skips and encodes shift-invariance into the frequency space .
+ In recent years, CNNs have achieved great success in many computer vision tasks, such as face detection @cite , object detection and text recognition .
+ In this paper, we propose a novel multi-scale convolutional encoder (SAFE) that is designed specifically for encoding characters with different scales .
+ SAFE can be seen as a generalization of ResNet, ResNeXt and ResNet in the sense that it can be used to learn character features from multiple scales .
+ In addition, it can transfer the learning of feature encoding across different character scales without any post-processing .
+ This is particularly important when the training set has a very unbalanced distribution of character scales, as training with such a dataset will make the encoder biased

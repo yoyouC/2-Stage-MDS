@@ -1,0 +1,32 @@
+the problem of background detection has received considerable attention from the past few years ago .
+ for example , @ cite proposed a method for comparing the color of pixels in the current colour space .
+ @ cite used a fully-convolutional neural network ( cnn ) for foreground object detection .
+ in @ cite , a single object detector was proposed for the unseen videos .
+ the authors of @ cite present a technique for background subtraction in the context of complex videos .
+ however to the best of our knowledge , this is the first work on unseen videos from the literature.
+ algorithm @ cite @ cite .
+ in contrast to our work , the current work in this paper focuses on the segmentation of videos as well as the use of the semantic segmentation to detect moving objects in videos .
+ in addition of the background subtraction , we propose a novel data-augmentation method to localize the color thresholds in a background subtraction system based on a small binary classifier .
+ we use a training phase to train a binary classifier for each pixel in the background , and then retrain the input to the remaining frames .
+ in the following , we have redesigned the fused lasso @ cite and the generalized fused lasso ( bing ) @ cite for background learning .
+ in the context of video segmentation , there is a vast amount of work in the area of video saliency detection @ cite @ cite .
+ in the early work , sivic al @ cite proposed a unified framework for video object segmentation in videos , and proposed a spatiotemporal model for unseen videos based on low rank and group motion features .
+ @ cite used the information of a semantic cue to guide the separation of the current frame and the impact of illumination changes in the unseen videos .
+ in @ cite , the authors proposed a method that detects diverse videos in the wild using a fully-convolutional neural network ( fcnn ) .
+ however to the best of our knowledge , none of these approaches have been proposed to address the problem of background motion detection .
+ in contrast to our work , we focus on the use of background frames as the starting point of the background , which is not available in the pipeline of the unseen video frames .
+ we believe that the current work in this paper does not address the performance of unseen videos , but it is not clear how to estimate salient regions in the background in the vicinity of frontal objects .
+ in the field of computer vision , a number of studies have been proposed to address the problem of unseen videos , such as @ cite @ cite , @ cite and @ cite .
+ in contrast to our work , the current work in this paper focuses on unseen videos based on video frames , which can be categorized into two main categories : ( 1 ) rgbd processing based methods , which are based on background subtraction , and outlier al @ cite in the opposite direction .
+ we will review the most relevant work in the area of videos , in the context of Background background-subtraction detection , and the most popular ones for this area are summarized in table : 1 ) we are interested in addressing the chance of dynamic background region as wind and the occluded shaking trees ( see fig , section ) , as we refer to @ cite for a more comprehensive review of the completely different types of feature extraction and tracking .
+ we refer the reader to the cited surveys in section 3 ) we describe a brief discussion on the most comprehensive survey on the unseen videos .
+ in the field of computer vision , a number of studies have been proposed to address the problem of primary objects in videos @ cite @ cite .
+ in this paper , we mainly discuss the use of local saliency detection and motion algorithms for unseen videos , and the most related work in the area of Background subtraction @ cite and video surveillance @ cite , and many others have leveraged the reliability of the top-performing method to localize the unseen videos .
+ in contrast , our work focuses on high-quality object detection and camera motion, based on the impact of illumination difference between the background and the angle of the occluded objects .
+ in our work , we focus on detecting primary regions in the video frames , which can be extracted from the background , which is the focus of our work .
+ network.
+ and [UNK] @ cite combine the advantages of saliency maps and the estimated high-quality saliency scores to primary videos .
+ @ cite proposed a global appearance model based on local visual motion and motion cues, .
+ in @ cite the authors proposed a novel self-adaptive saliency map based method to track pedestrians and pose deformation.
+ .
+

@@ -1,0 +1,31 @@
+there has been a large body of work on learning cooperative reinforcement learning with neural networks @ cite @ cite .
+ in particular , it has been shown that reinforcement learning @ cite and auxiliary tasks @ cite have been successfully applied to catastrophic navigation in maze-like environments @ cite , where the goal is to optimize the complexity of learning knowledge from a continuum of changes in the activation function .
+ in this work , we focus on the problem of tackling the catastrophic forgetting problem in the context of partially observable domains .
+ in contrast to our work , the goal of this work is to use a cascade of hidden states in a principled way to learn the parameters of the policy network , which can be used to guide the forgetting between tasks .
+ our work is inspired by the recent work of gupta and [UNK] @ cite that combines the advantages of both the policy and actor-critic approaches .
+ @ cite proposed a policy gradient algorithm for cooperative policies with a small number of training data .
+ however , these approaches are not applicable to catastrophic forgetting , since they do not consider the current state of the environment .
+ there has been a surge of interest in solving the problem of tackling the continuous control problem in a variety of tasks , such as @ cite @ cite , @ cite and @ cite .
+ however to the best of our knowledge , there is no prior work on off-policy learning for deep reinforcement learning .
+ in particular , we use entropy-regularized guided policy search @ cite to learn the dynamics of changes in the distribution of hidden states and the current state space .
+ our work differs from the previous work in the area of catastrophic forgetting in the context of reinforcement learning , where the goal is to learn a model of the dynamics , which is then used to predict the dynamics .
+ in this paper , we show that learning a cascade of the hidden states in a neural network can be used to learn relative reward for the task of forgetting policies .
+ we use a more principled approach to the maximum entropy reinforcement learning ( mkl ) algorithm @ cite for tackling catastrophic forgetting .
+ in contrast to our work , we learn policy search policies for a policy network interacts with a teacher policy .
+ neural networks have been successfully applied to catastrophic forgetting @ cite @ cite and continuous task @ cite .
+ however to the best of our knowledge , our work is the first to learn a nonlinear feedback policy for tackling catastrophic forgetting , which is similar to our work in the context of changes in the distribution of hidden states .
+ our work differs from these works in that it seeks to train a model that learns the relative reward of the policy , which can be used to guide the learning process .
+ in contrast to our approach , our method does not require any prior knowledge about the current state of the environment , rather than being able to adapt the policy to the policy .
+ our approach differs from our work , since we aim to build a single policy for the task of forgetting knowledge from a cascade of hidden networks .
+ we use a similar idea of our approach to the catastrophic and multi-agent reinforcement learning , where the goal is to maximize the likelihood of the state of a potential function .
+ in this paper , we assume that the agent's key demonstration can be modeled as a function of reward function .
+ there have been a number of improvements in the field of machine learning to auto-tune forgetting @ cite @ cite .
+ in the context of catastrophic forgetting , there has been a growing body of work on imitation learning @ cite and contextual policy search @ cite , with the goal of realizing a few recent advances in machine learning .
+ however to the best of our knowledge , there is no prior work on the problem of tackling the catastrophic forgetting problem in cascade reinforcement learning .
+ in particular , we focus on the number of hidden states , which is governed by the agent 's controller .
+ in contrast to our work , we aim to learn association between sensory inputs and behavioral output , and use a neural network to predict the range of possible tasks .
+ our work differs from the above mentioned work in this area .
+ in this paper , we propose a novel neural policy network to learn the association between the current state and the transverse space of a cascade of hidden networks .
+ we show that this approach can be seen as a special case of the learning process .
+ in our approach , the goal is to maximize the viewpoint of the policy .
+

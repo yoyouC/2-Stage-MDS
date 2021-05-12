@@ -1,0 +1,24 @@
+there has been a growing body of work in the area of generative modeling and machine learning @ cite @ cite .
+ in this section , we briefly review the most relevant work on generative adversarial networks ( gans ) @ cite , @ cite and @ cite ; @ cite worked on the use of conditional random fields ( crfs ) .
+ @ cite use a similar approach to predict the quality of samples from the target distribution.
+ .
+ in contrast , our work is based on the assumption that we are aware of that the confidence of images is the same as the joint distribution of the coverage of optical flow .
+ we show that our approach can be seen as an extension of the work in @ cite by extending the results of @ cite for computing the tuple transitions between audio and audio sequences .
+ in the context of databases , the authors propose to disentangle the local flow from a single view of a sequence of instructions , and then use a mixture model to learn a model that is similar to the joint likelihood of the posterior distribution .
+ the difference is that the divergence between each pair of a optical flow is maximized using the predicted database .
+ anomaly detection has been extensively studied in the context of image generation @ cite and image de-raining @ cite @ cite .
+ in this work , we focus on the problem of depth estimation and anomaly detection , which is closely related to our work .
+ in @ cite , a conditional generative model is used to estimate the likelihood of each pixel in the semantic space .
+ @ cite use a conditional random field ( mrf ) to map the input image to a lower dimensional space , and then use the latent vectors to learn the generation of the manifolds of the image and the latent space .
+ in contrast , our work is fundamentally different to our approach , but we do not impose any assumption on the unknown state of the images .
+ our approach is similar to the work of zhou al @ cite who propose to use a generative model to learn a latent space from the joint distribution of the input images , and infer the perceptual quality of the normal image distribution .
+ however , their work does not address the issue of our model , but does not consider ambiguities in our setting .
+ generative adversarial networks ( gans ) @ cite have been successfully applied to image tagging @ cite @ cite .
+ in this work , we use the conditional random field ( crf ) model @ cite to learn a generative model for the joint distribution of real images .
+ in @ cite , the authors propose to use generative models to learn the mapping between the image and the latent space , and then train a model to predict the digits of faces .
+ @ cite use a similar approach to learn encoders for generative models .
+ in contrast to our work , our work is more closely related to the work of @ cite and @ cite who focus on improving the quality of generative models in the context of generative modeling .
+ we believe that our approach can be seen as an extension of the present work .
+ in particular , we show that our model is able to generate descriptive tags , which is similar to the Frechet of the generated tags , but the information of the resulting models is more intuitive than our work .
+ we also note that the conditional independence between images and the generator 's output is reminiscent of the data, of @ math and @ math , where @ math is the number of mentioned bins .
+

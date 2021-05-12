@@ -1,0 +1,22 @@
+In the context of combinatorial auctions, @cite showed that the VCG mechanism achieves an approximation ratio of @math under the additional assumption of Monotone Hazard Rate (MHR) distributions .
+ This result was improved to @math for the case where the valuations are independent random variables, identical across machines, and each machine has only a single task .
+ In the case of non-monotone valuations, this result was extended to include the case when each machine only has one task, and the MHR assumption was relaxed to allow for a more general class of valuations .
+ There is a large body of work on truthful mechanisms for combinatorial optimization problems, see e .
+g .
+ @cite for a survey .
+ In particular, there is a rich body of literature on the problem of minimizing the total cost of a single machine (see, e .
+,g .
+, for a recent survey on this topic) .
+ In this work, we focus on the special case where the valuations of all machines are submodular and the valuation of just one machine is submodulular .
+ In addition, we consider a special class of mechanisms for which the valuation functions of all the machines are non-modular .
+ In @cite , the authors study the recovery from multiple node failures in distributed storage systems .
+ They design a mutually cooperative recovery (MCR) mechanism for multiple nodes failures, which is based on a transmission and coding scheme based on strong-MDS code .
+ They show that the maintenance bandwidth based on their MCR mechanism matches the lower bound of the previous work .
+ They also provide numerical comparisons of MCR with other redundancy recovery mechanisms in storage cost and maintenance bandwidth to show that MCR is better than the MCR scheme in terms of the number of nodes in the network .
+ In this paper, we focus on mechanisms that are mutually cooperative .
+ There has been a large body of work on truthful mechanisms for combinatorial auctions .
+ For example, in @cite , the authors consider the problem of allocating multiple heterogeneous items among two agents with additive valuation functions, and show that there exists a universally truthful polynomial-time mechanism that provides an @math -approximation for any constant factor @math  .
+ The authors also consider a class of submodular mechanisms with competitive valuations, where the cost of an agent is its distance to the facility .
+ The authors in this paper consider a general class of mechanisms that are truthful and provide optimal social welfare .
+ In this paper, we focus on mechanisms that satisfy the Nisan-Ronen conjecture .
+

@@ -1,0 +1,7 @@
+KNN methods have also been used for motion planning in high dimensional configuration spaces .
+ For example, @cite used kNN to generate a belief model of the configuration space based on collision tests .
+ However, these methods assume that the robot's configuration space is a continuous ambient space whereby neighbouring points tend to share the same collision state .
+ In contrast, our proposed kNN method uses the higher order structure of the C-space to generate the belief model .
+ We have also proposed a weighting matrix to improve the performance of kNN methods .
+ Moreover, we have proposed a topological method that exploits the higher-order structure of a configuration space .
+

@@ -1,0 +1,36 @@
+there are two main approaches in scene text detection , such as @ cite @ cite , @ cite and @ cite .
+ these methods can be roughly divided into two categories : the first category of methods based on multi-scale feature extraction and recognition .
+ in our work , we mainly focus on the aware feature extraction of characters in the following section : 1 ) we are interested in comparing the performance of feature extraction in the encoder .
+ we believe that our scale attention can be very useful in the context of scene text .
+ in particular , we show that the scale of the training data can be used to train the encoder and decoder .
+ in this paper , we propose a novel scale aware feature encoder as a feature vector of characters to be fed into a multi-scale cnn .
+ we also use a similar approach to the encoder , which is then fed into an svm classifier .
+ in contrast , our approach is based on the use of the characters as a sequence of input data , which are not available in our experiments .
+ this allows us to use a pre-trained model .
+ a number of studies have been proposed to address the problem of semantic image segmentation .
+ for example , @ cite proposed a novel sequence learning model for point clouds, to capture the correlations between area scales .
+ @ cite showed that attention-based visualizations can achieve state-of-the-art performance on the task of semantic segmentation .
+ in @ cite @ cite , the authors propose to use a cnn to predict the importance of features in the process of the dataset .
+ however to the best of our knowledge , this is the first work on scale attention .
+ in particular , we adopt a novel attention mechanism to weight the characters in a local way .
+ in contrast to our work , we aim to learn a scale aware feature representation for scene text recognition , and use the encoder as a decoder to extract features from different scales .
+ in addition , we show that the learning of characters and characters can be used to train the encoder and decoder .
+ we use resnet18 @ cite and hmdb51 @ cite to extract fine-grained contextual information from the predominant area of the character , and compare the performance of the encoder-decoder framework .
+ the problem of detecting characters in scene text has been addressed in the context of high-resolution image classification @ cite @ cite , event detection @ cite and pose estimation @ cite .
+ for example , @ cite proposed a family of deep convolutional neural networks ( cnn ) for remote sensing .
+ @ cite propose a feature extraction mechanism based on a histogram of oriented curvature features , which is then fed into a linear svm to predict the weight of the activation vectors of the last convolutional layer .
+ the authors of @ cite present a novel attention network to transfer characters with different scales .
+ however in @ cite the authors in this paper , we focus on the feature extraction of characters in the encoder .
+ we believe that this model is able to capture the view of the characters , which can be used to improve the performance of the training process .
+ in contrast , our work is based on the use of multi-scale features for encoding the characters and predicting the spatial information of the character features .
+ we also employ a similar approach to the encoder and the commonly used features for feature extraction .
+ part-based tree-structure @ cite @ cite have been widely used for scene text detection .
+ @ cite proposed a part-based hierarchical sparse coding model for learning multi-scale feature representations for classification and recognition .
+ the authors of @ cite present a part-based model for the scale histogram of the faces in the context of semantic image segmentation .
+ in @ cite , the authors proposed the use of atrous rates.
+ to capture the essential properties of characters .
+ however to the best of our knowledge , the most related work to ours is the work of porav @ cite and [UNK] @ cite .
+ in contrast to our work , this paper focuses on the aware feature extraction of the characters , which is the main focus of our work .
+ our work differs from the previous work in the area of scene text recognition , as evidenced by the fact that none of the existing works have focused on the problem of feature extraction and linguistic features .
+ in particular , we focus on the extraction of characters and the characters of characters in the encoder and a spatial attention model , which can be categorized into two main categories : ( 1 ) character features ( listed : [UNK] ) .
+

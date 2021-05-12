@@ -1,0 +1,9 @@
+In this paper, we focus on the problem of domain adaptation in the context of domain adaptation, which can be found in @cite , where the authors proposed a domain adaptation method that is able to identify the source and target samples from the target domain to the target domain. 
+ In our work, we propose a novel adversarial nets-based domain adaptation approach for domain adaptation @cite . 
+ Our work is also related to @cite @cite @cite , which aims to learn the distribution of the source domain to match the source of a target domain in the source domain. 
+ Our work differs from the previous works in that it is based on a combination of the adversarial and the adversarial method in @cite . 
+ However, our work is different in that we do not require any additional knowledge of the training data. 
+ In addition, we show that our approach is more effective than the original domain adaptation problem. 
+ In our paper, we propose to use the domain adaptation for partial domain adaptation and show that it can be applied to the domain weighting problem in the target domain, which is the focus of this paper. 
+ We refer the reader to @cite for more details. 
+

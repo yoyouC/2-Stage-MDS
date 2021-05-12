@@ -1,0 +1,19 @@
+Road network extraction from satellite imagery has been a long-standing research topic in computer vision @cite  .
+ In the field of computer vision, road network extraction has been extensively studied in the past few years .
+ Most of these methods are based on deep learning techniques, such as U-Net, U-net, and ResNet .
+ The main difference between these methods and ours is that we use a pre-trained network to extract road networks from satellite images, whereas they use a post-processing network to estimate road network distances .
+ In contrast, our approach is based on pre-training and testing on satellite imagery .
+ There is a large body of work on edge pricing in graphs, see e .
+g .
+ @cite for a survey .
+ In particular, there is a rich body of literature on graph pricing in the context of distributed computing .
+ For example, in the case of graphs with @math vertices, the authors show that the optimal routing arises as a Nash equilibrium, even for very general heterogeneous populations of network users and all edge latency functions are convex .
+ In contrast, in our work, we consider the case where @math is the number of vertices in the graph, i .
+e .
+ @math  .
+ There is a large body of work on semantic distance labeling for undirected graphs .
+ @cite use the WordNet hierarchy to define semantic distance between semantically similar categories and use this semantic distance to share labels .
+ Their approach is similar to ours, except that they use OSM labels instead of geometric distance for edge weights .
+ However, they do not consider the use of OSM for road network extraction .
+ In contrast, our approach uses OSM to infer road network speed limits and route travel times for each roadway, and we use the OSM label to infer speed limits for each road network .
+

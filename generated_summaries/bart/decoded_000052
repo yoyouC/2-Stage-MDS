@@ -1,0 +1,5 @@
+Convolutional Neural Networks (CNNs) have been widely studied in computer vision and natural language processing @cite  .
+ They have been shown to be effective in many computer vision tasks, such as image classification, semantic segmentation, image captioning, and image classification .
+ In the last few years, CNNs have shown their ability to learn features from low-dimensional regular grids, where image, video and speech are represented, to high-dimensional irregular domains, which can be represented by graphs .
+ In this work, we explore the redundancy of convolutional filters as a learnable linear combination of the rest of the filters and introduces a correlation-based regularization .
+

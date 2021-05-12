@@ -1,0 +1,35 @@
+few-shot learning @ cite @ cite has attracted a great amount of attention in the past few years @ cite .
+ in this work , we focus on the role of learning relevant feature vectors for few-shot learning , which is the most relevant to our work .
+ in contrast to our approach , we use a self-supervised approach to learn a deep distance metric to unseen classes of new classes .
+ in @ cite , an adversarial generator is trained to learn the parameters of the teacher model .
+ @ cite use a similar approach to transfer real few-shot learning .
+ however , their method does not require a prior knowledge of the feature space and the structure of the underlying few-shot learning problem .
+ in particular , we do not consider the problem of learning and transfer learning , rather than just trying to minimize the difference between the source and target domains .
+ our work is also closely related to the work of @ cite who tackled the problem in which a network is trained on a small set of unlabeled examples , and then train a generative model to learn decision trees and then use a deep neural network to learn new features .
+ few-shot learning @ cite @ cite has attracted a great deal of research in the past few years .
+ in this work , we focus on the role of learning relevant feature representations for few-shot learning , which can be seen as an extension of the work of @ cite .
+ in @ cite , the authors propose to use a generative model to learn a class-conditional distribution of the distribution of each class .
+ @ cite considers the structure of a point conditioned on the inherent structure of the learned attributes .
+ in contrast to our work , our approach is different from ours , since we use a similar approach to learn the parameters of the feature space of few-shot learning .
+ our work is also closely related to semi-supervised learning , where the goal is to learn latent mappings between the latent space and the feature vector space , which is learned from the learned latent space to unseen latent space .
+ @ parasplit @ cite and @ cite learn a latent space of semantic latent space from latent space framework to learn contact-intensive correspondences from unseen classes .
+ in their work , they use a tactile perception to learn force attributes.
+ to novel classes of (novel) categories .
+ multi-view label propagation @ cite @ cite has been proposed to improve the performance of few-shot learning @ cite .
+ for example , @ cite proposed a heterogeneous multi-view hypergraph label propagation method to learn a few-shot visual learning .
+ the cosine similarity function is used to redesign the weight generator, to the semantic space of multiple representation spaces .
+ in @ cite , the authors propose to learn relevant categories of multiple classes on the semantic representation of the few-shot learning problem .
+ @ cite work on the problem of zero-shot learning in a transductive setting , where the goal is to minimize the structure of the feature vectors to unseen classes .
+ in this work , we focus on the complementarity of multiple training examples , which is similar to our approach , in which a target dataset is learned from the source and target domains .
+ in contrast to our work , our approach is based on the idea of transductive learning and regularization to learn the parameters of feature vectors for few-shot learning .
+ our approach differs from theirs in two aspects : unsupervised zero-shot learning and transductive learning , which has not been addressed in this paper .
+ few-shot learning has become a hot topic in computer vision and computer vision tasks , see for example @ cite @ cite .
+ in this work , we focus on the low-shot learning of few-shot learning .
+ we use a similar approach to learn the feature space of the few-shot learning problem , which is closely related to our work .
+ in contrast , our approach is based on the role of learning the parameters of feature vectors in the data space , which can be seen as an extension of the work of @ cite , which has been shown to be useful for few-shot learning @ cite and active learning, @ cite to improve the performance of convolutional neural networks ( cnns ) .
+ This et al @ cite proposed a graph-based reinforcement learning approach for low-shot learning .
+ in @ cite the authors propose to learn graphical models that disentangle the inherent structure of the classes .
+ @ cite learn a metric space that is learned from a collection of input images to unseen classes of the actor trying to minimize the action-value function .
+ the objective function is learned by minimizing the kl-divergence between all pairs of classes.
+ pairs .
+

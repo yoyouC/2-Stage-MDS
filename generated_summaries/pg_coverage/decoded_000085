@@ -1,0 +1,19 @@
+one of the most popular trends related to our work is the work of @ cite , where the authors use a deep cnn for imbalanced data learning .
+ @ cite proposed a novel loss function to learn a Mahalanobis distance metric for each imbalanced class of the input space , and @ cite use a hidden markov model to predict k-nearest neighbors always belong to the same class of examples in the minority classes .
+ in @ cite the authors propose a novel ensemble method for imbalanced binary classification , which is based on the assumption that the decision boundary is separated from a large set of layers .
+ however , this approach assumes that the data is assumed to be known beforehand .
+ in contrast , our method does not require the availability of labeled data for each domain , which limits its applicability to the classifier 's performance .
+ in addition , our approach is not directly applicable to the imbalanced data , but it is computationally expensive to obtain a tractable solution of the hybrid setting @ cite @ cite .
+ in our work , we aim to compute the maximum margin constraints on the classification of the training examples .
+ a number of improvements have been made in the context of semantic segmentation .
+ for example , @ cite proposed a data augmentation method using generative adversarial networks ( gans ) for handling imbalanced class distribution .
+ @ cite showed that the proposed selection technique can be used to improve the accuracy of the minority classes.
+ dataset .
+ however like @ cite @ cite and @ cite , none of these works have focused on improving the generalization performance of classifier learning methods .
+ in contrast to our work , we focus on the problem of classifiers for imbalanced data , which is seldom considered in the literature .
+ in particular , we propose a novel loss function for selecting instances from the majority class.
+ of the source and target images , and we use enforcement of maximum margin constraints to personalize clustering on datasets.
+ Here, .
+ however towards imbalanced class imbalance , we use a small number of labeled data for imbalanced label distribution .
+ in addition , our data augmentation technique has been applied to a wide variety of classification tasks , such as image classification @ cite presents a significant amount of work in the area of semantic image classification .
+

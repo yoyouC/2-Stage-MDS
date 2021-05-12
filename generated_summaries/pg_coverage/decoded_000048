@@ -1,0 +1,8 @@
+there has been a large body of work on domain adaptation .
+ for instance , @ cite @ cite use a similar approach to learn the landmarks from the source domain and the target domain .
+ @ cite proposed a method for unsupervised domain adaptation by @ cite and @ cite , where the goal is to minimize the difference between the source and target domains , and use mmd as a metric to measure the discrepancy between the distributions of the source domains .
+ the work in @ cite addresses the problem of finding an optimal covariate shift in the representation space .
+ however to the best of our knowledge , this work is not directly applicable to our problem , since we learn a representation of the data from a source domain to a target domain , which can be used to guide the training data .
+ our work is also related to our work in the context of domain adaptation @ cite .
+ however toward the use of unlabeled data in the domain adaptation literature , mtl has been successfully applied to image classification tasks such as image retrieval @ cite or classification @ cite tasks .
+

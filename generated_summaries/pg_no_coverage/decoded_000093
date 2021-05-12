@@ -1,0 +1,11 @@
+there has been a growing body of work on stochastic control in the literature @ cite @ cite .
+ in this work , we focus on the problem of wind products and wind induced by the stochastic unit ( see @ cite for a survey ) .
+ in @ cite , the value of the model is studied in the context of poisson linear programming ( pomdp ) , where the utility function of the commitment approach is used to estimate the exchange rates of different frequency response products in the electricity system.
+ model .
+ @ cite proposed a computationally efficient mixed integer linear programming model that optimizes a flexible schedule for load curtailment.
+ and underfrequency mandatory products of lost values between frequency response and wind mandatory generation .
+ in the work of Britain.
+ et al , @ cite and @ cite provide a similar approach to cost-effectively reserve services in power systems .
+ however , their work does not consider the balancing of response times and the energy consumption of products in comparison to the electricity ancillary services .
+ in contrast , our work focuses on the reserve and schedule inertial response, , which is the focus of our work .
+

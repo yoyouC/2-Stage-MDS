@@ -1,0 +1,13 @@
+There is a large body of work on 3D human pose estimation from RGB-D images .
+ @cite proposed a method to estimate the full 3D pose of a human body from a single RGB image .
+ They use a two-level hierarchy of Long Short-Term Memory (LSTM) Networks which can be trained end-to-end to minimize the depth information from global human skeleton features; and a patch-based LSTM which utilizes the local image evidence around joint locations in a top-down fashion .
+ Their method is qualitatively comparable to the state-of-the-art in terms of accuracy .
+ In recent years, convolutional neural networks (CNNs) have been successfully applied to a variety of computer vision tasks, such as human pose estimation @cite , image captioning @math , and motion synthesis @math  .
+ In particular, Convolutional Long Short-Term Memory Recurrent Neural Network (C-LSTM) has been shown to be able to learn both visual and dynamic temporal dependencies of driving .
+ In this paper, we focus on the problem of predicting and generating 3D human pose sequences from 3D skeleton constraints, which is a challenging task due to the high computational cost and high computational complexity .
+ Recently, stochastic neural networks (SNNs) @cite have been applied to 3D human pose sequences .
+ They are trained to predict the future trajectories of objects, body joints or frames .
+ The former requires a fixed prediction budget and the latter requires re-projection onto skeleton constraints to avoid bone stretching and invalid configurations .
+ In contrast, our approach is able to generate 3D pose sequences without reprojecting onto the skeleton constraints and does not require reprojection into the skeleton .
+ Our work differs from these previous works in that we use quaternions to penalize absolute position errors instead of angle errors .
+

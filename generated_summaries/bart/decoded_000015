@@ -1,0 +1,18 @@
+Recently, @cite proposed Maximum Mean Discrepancy (MMD) as a regularization in the supervised learning to reduce the distribution mismatch between the source and target domains in the latent space .
+ The MMD regularization is an effective tool to provide good domain adaptation models on both SURF features and raw image pixels of a particular image data set .
+ However, it has no regularization effect when combined with normalization .
+ Moreover, it is shown that regularization has an influence on the scale of weights, and thereby on the effective learning rate .
+ In addition, the authors show that the influence of normalization on the learning rate can be partially eliminated, both in theory, and experimentally .
+ Recently, @cite proposed an adaptive multi-objective framework for multi-label classification .
+ The main idea of this framework is to train a separate model for each target on an expanded input space where other target variables are treated as additional input variables .
+ The objective function is to encourage the weights to become exactly zero .
+ In this work, we propose a novel regularization objective that is differentiable with respect to the distribution parameters .
+ In addition, we demonstrate that the objective function can serve surprisingly well as a regularizer in the context of multi-target regression .
+ In particular, we show that our method can be applied to multi-task regression without dependence on concrete tasks or extra data .
+ Weight decay has been shown to be a regularization effect @cite  .
+ Weight decay can be used to regularize a neural network by adding weights to the input-output Jacobian norm .
+ However, weight decay is not directly applied to the training of ConvNets .
+ Instead, it is applied to fine-tune the network based on the gradient norms of the target objective and the pseudo-task .
+ In this paper, we show that weight decay can also be used as a regularizer to improve the network performance .
+ We also show that the effect of weight decay on the learning rate can be studied in the context of deep neural networks .
+

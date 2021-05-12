@@ -1,0 +1,11 @@
+there has been a growing body of work in the literature on unsupervised learning @ cite @ cite .
+ most of these methods are based on the assumption that the target domain is known to be known .
+ for example , in @ cite , the authors of @ cite learn a model of the data from the source and target domains .
+ the goal is to minimize the discrepancy between the target and target data to be minimized .
+ in this work , we focus on the mismatch between the training and test data for a given representation of the target domain.
+ .
+ in contrast to our approach , we use the hypothesis.
+ method @ cite to learn the latent space and learn a classifier from the old data .
+ our approach is similar to the work of zhou al @ cite where the authors show that the kl divergence can be achieved when the source of source domain is close to the target class , and @ math is the entropy of @ math , where @ math denotes the @ math -th class of the source @ math .
+ in the source domain , @ math for @ math are the number of source and output @ math to be @ math @ math ( @ math ) and the corresponding guess of the architecture .
+

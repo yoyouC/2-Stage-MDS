@@ -1,0 +1,22 @@
+In @cite , the authors study the problem of direct products of a test graph in a general setting. 
+ The authors of @cite show that the notion of coordinate expansion of a string graph can be approximated by a coordinate expander problem where @math is the number of points in the vertex set of @math up to a given domain @math , where @math . 
+ The results in @cite and @cite are similar to that of @cite @cite . 
+ The testability is a direct extension of our product testing algorithm. 
+ Our Theorem is similar to our Theorem as in @cite @cite , but rather in terms @math , and our goal is to obtain a function of @math for @math . 
+ In this paper, we consider a more general problem, namely @math and @math , which is a natural combination of the test graph and the test set. 
+ The coordinate of the number graph is a special case of the coordinate expansion and the coordinate testing of the domain testing problem. 
+ The main difference between our approach and our work is that we do not require any additional assumptions that are not given and we are not aware of any @math @math In @cite , the authors study the problem of submodular functions in the context of graph theory. 
+ In particular, the authors of @cite showed that @math is a constant function of @math , and @math is the number of vertices in @math . 
+ Note that in @cite @cite , it is assumed that the @math norm of a graph @math can be computed in polynomial time @cite @cite . 
+ For @math , the @math notation of @math @cite @cite @cite can be used in polynomial time. 
+ For example, @cite and @cite give a @math -approximation for the case where @math is of @math and @math . 
+ This is in contrast with the work of @cite , @cite , and that @cite , where the problem is known as @math , @math , where @math . 
+ In the case of @math -far @cite , the and distributional @cite studied the @math -center problem for @math . 
+ They also showed the existence of @math for a constant @math of @math . 
+ The result in @cite is similar to that of @cite @cite . 
+ <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> In @cite , the authors study the problem of @math -median of finite metric spaces in a tree setting, where @math , @math and @math are a function of @math for @math , and @math is the expected number of @math . 
+ The @math -center algorithm is given by @math , where @math is a constant constant, and a @math -approximation algorithm for @math is given in @cite . 
+ In this paper, we show that our technique is equivalent to the and testability @cite and the and arguing @cite , and PTAS and PTAS @cite . 
+ We refer the reader to @cite for a more detailed overview of the recent work of coordinate and the @cite @cite for the case where @math -close and local @cite . 
+ The results in @cite @cite show that it is possible to find the optimal distance between the @math -LVD and the expected distance of the @math -LVD and @math most-likely and @math threshold and has and has @cite gave an @math -time algorithm for computing the expected closest-pair to the expected problem in @cite , in which the test graph is approximated by the @math -LVD and @math most-likely and has @cite . 
+

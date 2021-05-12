@@ -1,0 +1,11 @@
+there has been a number of works on causal stochastic reinforcement learning ( [UNK] ) @ cite @ cite .
+ in this work , we focus on a large body of work on action understanding , which is closely related to our work .
+ in @ cite , the authors propose a generative model for modeling human action understanding.
+ from hidden relationships between agents and actions .
+ @ cite use a nonparametric approach to predict future actions in a social network .
+ in their work , they use a bayesian approach to learn the latent structure of their actions .
+ in contrast , our goal is to maximize the beliefs of the subgoal , which can be inferred from the subgoal to infer the goals, of the matrix game .
+ this approach is similar to the work of @ cite and @ cite who focus on improving the state of the art in the context of social dilemmas .
+ in particular , @ cite explore the use of deep belief propagation in a nonparametric manner to predict the number of actions .
+ however , these works do not take into account the underlying relationships between actions and actions , but they are not applicable to our setting .
+

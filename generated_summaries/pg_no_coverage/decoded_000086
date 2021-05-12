@@ -1,0 +1,30 @@
+our work is also closely related to the work of @ cite and @ cite .
+ in @ cite , the authors present a framework for estimating full-body body shape and pose estimation using a two-level convolutional neural network .
+ in this work , we use a similar approach to avoid skeleton constraints on bone pose .
+ however , their work is limited to the use of recurrent neural networks ( rnn ) .
+ in contrast , our approach is able to predict the bone stretching from the bone pose and the skeleton of a human in the images .
+ we use the quaternions of our approach to disambiguate both bone and the invalid skelet al and body parts of the invalid kinematic chain, .
+ our approach can also be seen as an extension of chaudhuri and [UNK] @ cite which uses a quaternions of the geometry of a sequence of a invalid view of the body shape of the skeleton tree .
+ in the context of the quaternions , we are able to minimize the reprojection error between the bone and body part of the human body shape .
+ our work has also been done by @ cite who proposed a technique for estimating the reprojection loss with respect to the kinematic relation .
+ in @ cite , the authors circumvented the problem of steering angle regression in the intersection of graphics and computer vision .
+ they showed that the architectures, loss function is helpful for steering angle errors .
+ however as a result , they were able to predict the bone stretching from the output layer .
+ in this work , we show that our approach can be used to predict bone stretching and dynamic temporal dependencies .
+ in contrast , we use quaternions to interpret a sequence of skeleton constraints .
+ we use a similar approach to allow for interpretations of human shapes .
+ we believe that our work is more closely related to the work of @ cite and @ cite .
+ however , our work differs from these previous work in that we focus only on the quaternions and we propose to use deep learning to predict configurations.
+ work in the context of bone stretching .
+ our approach is similar to our work , but rather to use convolutional neural networks ( cnns ) to model motion @ cite @ cite on the state of the art time-dependent models .
+ our work has also been done on the topic of deep learning and recurrent neural networks .
+ our work is also closely related to the work of @ cite , who proposed an approach to jointly regress the kinematic continuous high dimensional body joints from the visual distribution of the frames .
+ in @ cite the authors show that the mean and the latter discretize a continuous output of the bone stretching from the former regress to the mean rotations with the optical flow warping to avoid configurations.
+ work .
+ in contrast , our work differs from ours in that it is not clear how to extend this work to the problem of bone stretching and forward kinematics .
+ in this work , we use quaternions to interpret rotations , rather than skeleton constraints .
+ we believe that our approach can be seen as an extension of the present work .
+ we use a similar approach to predicting the kinematic dynamics of future outcomes in the context of the rotations .
+ our approach is similar to the spirit of our proposed approach , but it is fundamentally different to our approach , which is the focus of our work , as we are aware of the work by @ cite and @ cite .
+ we have also shown that the results obtained in our experiments are comparable to our work .
+

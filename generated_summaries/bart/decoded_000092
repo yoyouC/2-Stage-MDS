@@ -1,0 +1,18 @@
+In @cite , the authors proposed a transductive multi-view embedding for ZSL, which exploits the complementary information offered by different semantic representations and takes advantage of the manifold structures of multiple representation spaces in a coherent manner .
+ However, the projection domain shift between the auxiliary and target domains is biased when applied directly to the target dataset domain .
+ Therefore, the proposed method is not suitable for generalized zero-shot learning .
+ In this paper, we propose a discriminative embedding autoencoder with a regressor feedback model to regulate both inter-class and intra-class distances between the learned features .
+ ZSL aims to recognize the novel object categories using the semantic representation of categories, and the key idea is to explore the knowledge of how the novel class is semantically related to the familiar classes @cite  .
+ In this paper, we propose a discriminative embedding autoencoder with a regressor feedback model, which regulates both inter-class and intra-class distances between learned features by a margin, making the learned features be discriminatively useful for object recognition .
+ We also propose an encoder-decoder framework to learn the discriminator feedback model for ZSL, which is similar to the encoder and decoder in the previous work .
+ ZSL aims to recognize the novel object categories using the semantic representation of categories, and the key idea is to explore the knowledge of how the novel class is semantically related to the familiar classes .
+ In @cite , a generative adversarial network (GAN) is proposed to synthesize CNN features conditioned on class-level semantic information, offering a shortcut directly from a semantic descriptor of a class to a class-conditional feature distribution .
+ The GAN is trained to generate sufficiently discriminative CNN features to train softmax classifiers or any multimodal embedding method for ZSL .
+ Semantic AutoEncoder (SAE) @cite aims to project a visual feature vector into the semantic space as in the existing ZSL models, and the decoder is able to reconstruct the original visual feature .
+ However, the learned projection function from the seen classes is only concerned with predicting the training seen class semantic representation, which is not suitable for the generalized zero-shot learning (GZSL) .
+ To overcome this problem, Semantic Auto Encoder (SAE) @math @cites is proposed to learn a mapping from the image feature space to the semantic embedding space, which aims to improve the quality of the samples and provide a generalization to the unseen classes .
+ In @cite , the authors proposed a calibration factor to calibrate the classifiers for both seen and unseen classes so as to balance two conflicting forces: recognizing data from seen classes and those from unseen ones .
+ They proposed a new performance metric called the Area Under Seen-Unseen accuracy Curve to characterize this trade-off .
+ The authors also proposed a novel performance metric to characterize the tradeoff between the performance of existing ZSL approaches and the performance limit of generalized zero-shot learning (GZSL) .
+ In this paper, we propose a discriminative embedding autoencoder with a regressor feedback model to improve the quality of the samples and provide a generalization to the unseen classes .
+

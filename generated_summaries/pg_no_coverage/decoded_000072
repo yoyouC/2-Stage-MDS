@@ -1,0 +1,9 @@
+multi-agent reinforcement learning @ cite @ cite has been extensively studied in the context of multi-agent systems @ cite , @ cite .
+ in this work , we focus on the problem of manipulative or haptic user interfaces , which can be organized into account to discover various physical and coordination behaviors .
+ in @ cite the authors propose to use tactile interfaces to multi-agent systems .
+ the authors of @ cite use a similar approach to successfully learn a wide variety of multi-agent models , such as the use of a gradient mechanism , and the self-play between agents and actions .
+ in contrast , our work is more closely related to the work of [UNK] et al @ cite which use a ensemble of algorithms to learn policies that are related to each agent .
+ in a similar vein , the goal is to maximize the number of agents in a cooperative setting .
+ in the work , the authors show that the strength of an agent is interacting with a barrier with the help of the state of the art in a goal-oriented manner .
+ however , in this paper , we are not aware of any work on ensemble gradient methods .
+

@@ -1,0 +1,18 @@
+there has been a lot of work on image retrieval @ cite @ cite .
+ in this section , we focus on the most relevant work on conversational chatbot chatbot @ cite , which has been extensively investigated in the context of conversational agents, @ cite and face search @ cite for conversational responses .
+ the work closest to ours is the work of @ cite who tackled this problem by proposing a hierarchical deep reinforcement learning approach to learning a dialogue manager for a low-level dialogue policy .
+ in contrast to our approach , they propose to use neural word embeddings to learn a dialogue policy based on a top-level dialogue system .
+ they use a combination of learning word embeddings and deep convolutional neural networks ( rnn ) to predict primitive actions .
+ they show that the top-level lexicons are able to achieve state-of-the-art performance on the test set .
+ @ cite use a similar approach to predict predicting the direction of a sequence of words in the image , and then use a bayesian model to predict the influence of the subtask .
+ in @ cite the authors propose a new system to leverage the structure of complementary machine learning models .
+ in the past decade , there has been a growing body of work in the literature on travel search engines @ cite @ cite .
+ in this work , we focus on developing a frame-based dialogue system to predict the period of the user , and use the demand and service characteristics of machine learning models .
+ we use a similar approach to the task of identifying named entity recognition, and information retrieval tasks in the context of dialogue systems .
+ in contrast to our work , our approach is based on the assumption that products that provide, on the screen in the particular form are used to infer the economic impact of various user behavior .
+ in @ cite , the authors use machine learning techniques to identify products in social media and early product search engines .
+ they use a unique data set based on their travel industry.
+ and different hotel characteristics of the best value of the consumer's .
+ they show that our ranking system outperforms the work of @ cite and @ cite who use a frame-based approach to learn a ranking function for dialogue .
+ however system, al @ cite use social media to assess the impact of the service and early predictors .
+

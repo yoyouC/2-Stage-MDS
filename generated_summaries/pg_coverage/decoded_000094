@@ -1,0 +1,10 @@
+a growing body of work has been devoted to action planning in multi-agent settings @ cite @ cite .
+ in the context of human action understanding , qualitative social economics ( iml ) @ cite has proposed a computational model for human-robot action understanding.
+ @ cite , where agents capture the dynamics of their actions , which are then used to predict future actions .
+ @ cite proposed a generative model to predict subgoals in a causal game .
+ in @ cite the authors of @ cite studied the problem of building skills to compete.
+ averse social dilemmas by inverting the outcomes of agents interacting with humans .
+ however to the best of our knowledge , none of them dealt with the mental states of the matrix game , rather than being able to learn a causal dilemma for the inference of subgoals .
+ in contrast to our work , we aim to investigate the behavior of the observed behavior in the latent space of action sequences , which is a generalization of the mental state of the subgoal , as well as the effect of rational relationships between the two domains .
+ in this paper , we focus on the progression of behavior based on behavioral cloning .
+

@@ -1,0 +1,6 @@
+@cite proposed a cross-lingual language model (XLMs) that combines monolingual training data with an automatic back-translation to improve the fluency of phrase-based statistical machine translation .
+ In contrast to @cite , our approach uses a different language model objective, which is to train a language model with parallel data for training .
+ In addition, we use parallel data as additional parallel training data, which improves the performance of our approach .
+ We also show that our approach outperforms the previous approaches in terms of the number of training examples .
+ In this paper, we extend the previous work by using parallel data to train our cross-language language model .
+

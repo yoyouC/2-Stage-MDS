@@ -1,0 +1,12 @@
+In recent years, deep learning based image deraining methods have achieved great success in many computer vision tasks .
+ @cite proposed a deep residual network (DRD-Net) to remove rain streaks from single images .
+ They proposed a cascaded network and adopt residuals from shallower blocks to guide deeper blocks .
+ They also proposed a recursive convolution to build each block and apply supervision to intermediate de-rained results .
+ They further decompose the rain streaks into multiple stages and benefit the rain removal in later stages .
+ ResGuideNet is detachable to meet different rainy conditions and can obtain a decent performance even with several building blocks .
+ @cite proposed a multi-task deep learning architecture to remove rain streaks from a single image .
+ They proposed an iterative information feedback network that removes rain streak regions and clears up the rain accumulation iteratively and progressively .
+ The additional binary map is critically beneficial, since its loss function can provide additional strong information to the network .
+ In @cite , the authors proposed a deep network that is a linear combination of a rain streak layer and a background layer, by adding a binary rain streak map, the appearance of rain streaks, and the clean background, which is our ultimate output .
+ The proposed architecture is similar to our proposed DRD-Net in terms of its robustness and detail accuracy .
+

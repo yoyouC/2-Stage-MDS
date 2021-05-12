@@ -1,0 +1,28 @@
+there has been a tremendous amount of work on the domain adaptation problem in the context of image classification @ cite @ cite .
+ in this section , we review the most relevant work related to our work .
+ in particular , we focus on a more efficient approach to reduce the distribution mismatch between the source and target domains .
+ we refer readers to @ cite and @ cite for a more comprehensive review of the literature on domain adaptation .
+ we emphasize that the gradient norms can be used to train a neural network for the target task , and we hope to learn a regularization term from the training data .
+ we show that a principled treatment of this work can be viewed as a generalization of the Maximum of the target domain , as described in @ cite , where the authors use the Mean @ cite to regress image representations .
+ however , this approach does not require a large amount of labeled data , which is not available in the real world .
+ in contrast to our approach , this paper presents a simpler and more intuitive way to our own approach .
+ in our work , we aim at the first to show that it is possible to achieve a better performance .
+ there is a large body of work on self-supervised learning , such as @ cite @ cite , @ cite and @ cite .
+ in particular , the authors of @ cite propose to use out-of-sample norm to guide the discrepancy between the source and target domains .
+ @ cite employ a similar approach to ours .
+ however to the best of our knowledge , no prior work has focused on the problem of multi-target pretext task .
+ in contrast to our work , we focus on a more efficient approach to transfer learning based on the training data from a set of unlabeled data .
+ we show that the pretext task can be viewed as a special case of our so-called pretext task , which is similar to our methods .
+ we use a collection of non-negative functions , which can be used to predict the weights of the target task .
+ our work differs from the above mentioned work in the following two aspects : 1 ) we are able to use a deep neural network for multi-label classification tasks , which are not available in the context of pretext task structures .
+ in addition to our approach , our work is more broadly applicable to the training of multiple pretext tasks .
+ one of the most popular techniques for transfer learning is to train a neural network for the target task @ cite @ cite .
+ in this paper , we focus on the use of a regularization term in the context of neural networks to improve the performance of the model .
+ our work differs in the area of research in this area , since it is not clear how to optimize the regularization of the target objective .
+ in our work , we show that architectures.
+ regularization can be useful for reducing the variance of the task in the domain.
+ of @ math , where @ math and @ math are constants appropriately @ math @ cite , and the derivation of the @ math is the error correcting rate @ math .
+ in contrast , our approach is the first to the best of our knowledge , which is the focus of this work in the sense that the image has a damping effect on the quality of the response .
+ the authors of @ cite show that it is possible to regress image representations from a pseudo-target point of view .
+ however , this work did not consider the effect of the classification problem , rather than being able to justify the interpretation of the algorithm .
+

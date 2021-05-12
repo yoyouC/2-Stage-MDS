@@ -1,0 +1,28 @@
+Persistent homology @cite is a method for probing topological properties of point clouds and functions .
+ It involves tracking the birth and death of topological features as one varies a tuning parameter .
+ In particular, it uses a statistical technique, the empirical bootstrap, to separate topological signal from topological noise .
+ In this paper, we derive confidence sets for persistence diagrams and condence bands for persistence landscapes .
+ In addition, we show that our method is capable of capturing topological and geometrical properties of synthetic datasets .
+ We also show that the Diffusion Variational Autoencoder can capture topological structures of arbitrary manifolds .
+ In @cite , the authors proposed a generative adversarial network (GAN) to learn the latent space of a given dataset .
+ The GAN is trained on a set of manifold-valued latent variables, which is a special case of our Diffusion Variational Autoencoder .
+ In this paper, we use the GAN to learn a latent space from the set of manifolds .
+ In addition, we show how to use the transition kernels of Brownian motion to implement the reparametrization trick and fast approximations to the KL divergence .
+ We also show that our approach is capable of capturing topological properties of synthetic datasets .
+ In particular, we train MNIST on spheres, tori, projective spaces, SO The variational autoencoder (VAE) @cite is a generalization of the VAE .
+ It is a generative model with a discriminative regularization term .
+ In VAE, a latent space is defined as a set of latent variables that are associated with a given label .
+ The latent space can be used to enhance the quality of generative models .
+ The VAE can be viewed as a discriminator in the sense that it is able to learn the latent space of a given dataset .
+ However, VAE is structurally incapable of capturing topological properties of certain datasets .
+ In contrast, the Diffusion VAE has a clear-cut topological structure and can capture geometrical properties .
+ In recent years, there has been a surge of interest in using variational autoencoders to learn topological properties of datasets .
+ For example, @cite proposed a multi-modal variational Autoencoder (MVAE), which uses a bimodal VAE coupled with a binary classifier for the task of fake news detection .
+ In addition to the MVAE, there have been several other approaches to learn the topological representations of the data .
+ For instance, the authors of @cited proposed a two-dimensional VAE that can learn a set of homotopy inequivalent trajectories from the configuration space to 2-dimensional spaces .
+ In @math , the authors proposed the Winding Augmented Our work is also related to the work of @cite , where the authors propose to use the mutual information gap (MIG) to measure the total correlation between latent variables .
+ The MIG is a measure of disentanglement of latent variables, which is used in our work .
+ In addition, we use the MIG as a regularization term in our framework .
+ In particular, we show that MIG can be used to quantify the total correlations between latent variable and the latent variables in our Diffusion Variational Autoencoder .
+ In contrast to MIG, we do not use MIG in our diffusion variational autoencoders .
+

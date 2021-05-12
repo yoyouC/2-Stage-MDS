@@ -1,0 +1,28 @@
+zero-shot image retrieval ( zsl ) has attracted a lot of research interest in the computer vision community @ cite @ cite .
+ in the context of zero-shot learning , a comprehensive review has been made on the topic of zero-shot retrieval .
+ for instance , @ cite proposed a novel zero-shot learning method to identify a set of common high-level high-level semantic components across the two domains .
+ factorization.
+ @ cite and [UNK] @ cite have proposed the temporal attention model for one-shot domain adaptation .
+ @ cite proposes a label propagation method to jointly learn the entity and relation vectors of the images in the target domain .
+ in @ cite , the authors present a cost-sensitive approach to learn discriminative representations of multiple objects in the unseen classes .
+ the authors of @ cite propose to learn the learning of unseen image categories in the embedding space , which is similar to our work .
+ in contrast to our approach , we aim to directly learn the discriminative metric and the partial selective learning behavior of the input image .
+ our work differs from the previous works in this domain , rather incorporates the structure of the image features .
+ the problem of zero-shot image retrieval has been addressed in the context of image retrieval @ cite @ cite .
+ in @ cite , a semantic word embedding was proposed for the task of segmenting images into continuous semantic embedding space .
+ @ cite proposed a new method to adaptively integrate local features with their global dependencies.
+ features , which was later used to improve the performance of the learning process .
+ however to the best of our knowledge , the most related work to ours is the video-based person embedding learning ( @ cite ) .
+ the authors of @ cite show that the joint representation of the class labels of the image and the semantic interdependencies between the channel and the image are not considered as the selective learning of the deep neural network .
+ in this paper , we propose a novel zero-shot learning model based on the random walk model @ cite to learn the joint residual mappings between the learner and preventing the partial selective learning .
+ in contrast to our approach , the attention mechanism is able to learn a discriminative metric for each person in the area of zero-shot learning , which can be seen as a special case of the learner .
+ the problem of learning visual discriminative metric learning has been studied in the context of one-shot image retrieval @ cite , few-shot identification @ cite @ cite and few-shot learning @ cite .
+ the most common approach is to approximate the distance between samples in the feature space @ cite or a single shot classifier @ cite in the early stage of the problem .
+ in this work , we aim to directly learn the discriminative metric for each class , and then use a random walk to learn a linear mapping between the two domains .
+ @ cite proposed a general model based on the metric learning and the selective learning method .
+ the authors of @ cite propose to use random forest-based classifier for few-shot learning , where the goal is to minimize the compactness of the learner .
+ however , these methods do not address the zero-shot settings.
+ In problem , which are not available in the case of multiple kernel learning methods .
+ in contrast to our work , our method is based on metric learning , which can be seen as a special case of our zero-shot image retrieval networks .
+ in the following , we propose a novel geometrical local metric learning method for metric similarity learning .
+

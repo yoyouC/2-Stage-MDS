@@ -1,0 +1,10 @@
+document classification has been widely researched in the context of neural machine translation @ cite @ cite , speech recognition @ cite and document analysis @ cite .
+ a recent review of deep latent variable models can be found in the literature .
+ for example , @ cite proposed a variational autoencoder model to discover the latent cluster structure in different sections .
+ @ cite use a bag-of-words model to predict the keyword extraction of keywords .
+ in @ cite the authors present a document clustering model based on the skip-gram model .
+ however to the best of our knowledge , none of these approaches have been proposed to model the relationships between a question and the global context of the discrete text .
+ in contrast to our work , we use a novel variational approach to extract text document representations , which are then used to infer the semantics of the text document .
+ our work differs from the previous work in the area of document classification , which is not suitable for the task of keyword extraction .
+ in addition , our work is more related to the work of the present work in this paper , and compare the results of our previous work .
+

@@ -1,0 +1,10 @@
+cross-lingual language models @ cite @ cite have been proposed to learn cross-lingual representations from monolingual data .
+ for example , in @ cite , a cross-lingual language model is used to train a language model to learn the same information .
+ the authors of @ cite use a monolingual data to generate trained language models , and use a similar approach to generate monolingual training examples .
+ in this work , we use parallel corpora to guide the monolingual data using a new cross-lingual approach .
+ we use a supervised parser to learn subword language models for cross-lingual machine translation , which is similar to our approach , but in the context of cross-lingual language modeling .
+ in contrast , we are interested in using the word alignments directly from the source and target word alignments .
+ we believe that our approach can be seen as an extension of the work of [UNK] and [UNK] @ cite .
+ this work is also related to the present work in the sense that the capacity of one of the languages is minimized in terms of the size of the monolingual corpus .
+ the difference between our approach and the previous work is that we do not rely on the fact that we are aware of the use of the unsupervised machine learning approach .
+

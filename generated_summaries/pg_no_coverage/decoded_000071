@@ -1,0 +1,18 @@
+[UNK] et al @ cite @ cite and [UNK] @ cite have explored the use of reinforcement learning to model the spectrum availability of colliding with multiple transmit power levels .
+ in @ cite , the authors present a framework for spectrum sensing in a cognitive radio network .
+ the resumption priority M priority M G 1 queueing theory is introduced to characterize the global spectrum states.
+ We in the joint design of the spectrum sensor and a resumption priority level levels, @ cite .
+ in this paper , the priority M and the latent statistical policies are formulated as a constrained partially observable observable observable markov cognition scheme ( [UNK] ) @ cite to predict the throughput of a colliding spectrum in the spectrum sensing data .
+ @ cite proposed a non-parametric beta process for spectrum access strategy, spectrum utilization .
+ the authors of @ cite investigate the effects of opportunistic spectrum sensor network in the presence of spectrum sensing time , and @ cite investigated the energy between sensing time and transmission band and the spectrum availability, and the robustness of the design of colliding and face activity .
+ in their work , @ cite considers the problem of opportunistic cognition in cellular networks .
+ in this section , we present a brief review of the most relevant work on multi-parameter cognition in the context of a cellular network problem @ cite @ cite .
+ we refer the reader to @ cite for a comprehensive survey .
+ in @ cite , the authors present a distributed power control algorithm for an online cognitive radio network (CRN) device-to-device network .
+ the authors of @ cite investigate the utilization of interference from a set of transmitters and transmit power levels in a time-varying cellular network .
+ in this work , we focus on the problem of checking complete spectrum usage.
+ in a cognitive radio environment , where the primary focus is to maximize the spectrum utilization in the spectrum of the game .
+ @ cite proposed a distributed spectrum sharing algorithm based on the assumption that the spectrum allocated to share the interference is minimized .
+ in the work of bianchi , @ cite and @ cite use a proposed reinforcement learning approach to optimize the sum-rate of the interference noise ratio .
+ however , these works do not take into account the power of all subscribers , and do not consider the optimality of the power control problem .
+

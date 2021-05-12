@@ -1,0 +1,11 @@
+Multi-agent reinforcement learning (MRL) @cite has been widely studied in the context of multi-agent cooperative control .
+ MRL has been applied to a wide range of domains, such as Atari @math , the DeepMind Control Suite @math and DeepMind Lab @math  .
+ MRL algorithms have also been used to learn cooperative policies in cooperative domains .
+ In this work, we use MRL to learn a credit assignment term for multiple agents .
+ In addition, we extend the MRL algorithm to a cooperative setting, where multiple agents are involved in the same task .
+ In contrast to MRL, MRL does not require explicit communication between agents .
+ In @cite , the authors propose an algorithm that allows the agent to query the demonstrator for samples at specific states, instead of relying only on samples provided at "arbitrary" states .
+ The purpose of their algorithm is to estimate the reward function with similar accuracy as other methods from the literature while reducing the amount of policy samples required from the expert .
+ They also discuss the use of active learning for inverse reinforcement learning, using both Monte Carlo and gradient methods, in several simulated examples of different complexities .
+ In this paper, we use active learning as a credit assignment term in a policy gradient algorithm to distinguish the contributions of individual agents to the global reward .
+

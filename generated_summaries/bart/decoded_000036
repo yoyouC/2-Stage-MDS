@@ -1,0 +1,5 @@
+In recent years, a large number of clustering algorithms have been proposed to deal with the problem of large-scale data processing .
+ For example, @cite proposed a clustering algorithm to detect objects natively in 3D point clouds using convolutional neural networks (CNNs), which explicitly exploit the sparsity encountered in the input data and thus is also robust to misused schema elements .
+ In addition, several clustering methods have been developed to address the issue of missing type information in knowledge bases .
+ For instance, the work of Zhang and Zhang proposed a novel clustering method called SDType, which can handle noisy and incorrect data by leveraging a feature-centric voting scheme to implement novel CNNs .
+ However, SDType requires the input

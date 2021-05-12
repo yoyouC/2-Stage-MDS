@@ -1,0 +1,18 @@
+Meta-learning @cite is an extension of meta-learning to few-shot learning .
+ Meta-learning aims to learn model parameters capable of adapting to unseen classes with the help of only a few labeled examples .
+ The main idea of MetaGAN is to train a model to learn a deep distance metric to compare a small number of images within episodes, each of which is designed to simulate the few-Shot setting without further updating the network .
+ MetaGAN has been shown to be able to deal with semi-supervision at both sample-level and task-level, and it has been successfully applied to many tasks .
+ Semi-supervised few-shot learning has been studied for a long time @cite  .
+ In this work, we focus on learning a general-purpose representation that is robust to small changes in the data distribution .
+ In the past few years, there have been a number of approaches that have been proposed to learn a generative representation of unseen classes .
+ For example, the work of Chen al @math and Zhang @math proposed an approach to learn generative models for unseen classes using a graph-based autoencoder (VAE) .
+ In their approach, the latent space is learned using a class-specific latent-space distribution, conditioned on class attributes .
+ In contrast, in our work we learn semantically meaningful features, which are Few-shot learning aims to learn a general-purpose representation capable of adapting to unseen classes with the help of only a few labeled examples @cite  .
+ In this work, we focus on learning a general purpose representation that is robust to small changes in the data distribution, robust to slight changes in data distribution and robust against slight changes to data distribution .
+ In the past few years, there has been a surge of interest in few-shot embedding learning, which aims to address the problem of learning a feature manifold that can adapt to new classes with limited labeled examples .
+ In this paper, we investigate the role of learning relevant feature manifolds for few-Shot learning .
+ Few-shot learning is closely related to meta-learning @cite , where the goal is to learn a general-purpose representation capable of adapting to unseen classes with the help of only a few labeled examples .
+ Meta-learning has also been studied in the context of few-shot visual learning, where a meta-network is trained to generalize to novel classes from a collection of input images whose label can be either observed or not .
+ In this work, we focus on learning a general purpose representation that is robust to small changes in the data distribution .
+ In addition, we investigate the role of learning relevant feature manifold for few-Shot learning .
+

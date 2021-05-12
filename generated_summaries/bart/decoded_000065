@@ -1,0 +1,6 @@
+@cite proposed a method to parameterize CNN based segmentation, bridging the gap between CNN-based segmentation and the rubbersheet transform .
+ The parameterization enables the segmentation as full segmentation step in any regular iris biometric system .
+ The segmentation can be utilized as a noise mask for other segmentation methods .
+ In @cite , the authors proposed a novel feature extraction method based on deepsparsefiltering to obtain robust features for unconstrained iris images .
+ In this paper, we present an empirical analysis of the impact of segmentation on the performance of deep learning models .
+

@@ -1,0 +1,36 @@
+our work is also closely related to the recent work of @ cite , who proposed an approach for semantic segmentation of high resolution images using a new convolutional neural network ( cnn ) .
+ the authors in @ cite use a similar approach to the vgg-16 model @ cite .
+ in this work , we focus on the haze of the visible and generated thermal images , which is the focus of our work , and we believe that the neural network is able to achieve the state-of-the-art performance in a variety of applications , such as thermal image semantic segmentation @ cite and semantic segmentation in the context of thermal image @ cite @ cite of thermal infrared cameras .
+ (ESP), et al @ cite proposed a deep neural network for image segmentation using a gated recurrent neural network .
+ in their work , the authors show that measure efficiency scales up to a constant number of insensitive knowledge.
+ images .
+ in contrast , our work differs from ours in that the visible of the image is isolated from the angle between two consecutive cameras , which can be organized into different scales .
+ the first step is occupied by a semi-markov model , which allows us to integrate thermal and information into account .
+ image semantic segmentation is a long-standing problem in computer vision and computer graphics .
+ it has been recently shown that there is a large body of work on semantic segmentation @ cite @ cite .
+ in this work , we focus only on the haze of the image and the images of the thermal images .
+ in @ cite , the authors propose to use masking convolutional features.
+ to train the network to learn a deconvolution mapping between image and masked images .
+ @ cite use a similar approach to recover textures by using deconvolution and unpooling layers to learn the affine transformation between the input image and unpooling .
+ the work of @ cite is similar to our work .
+ however , our work differs from ours in that it is not clear how to leverage thermal information to improve the quality of infrared cameras .
+ in contrast to the work above , we propose a novel semantic segmentation algorithm to learn natural images from the raw image , which is equipped with the fully convolutional neural network ( cnn ) , which allows us to integrate fully-connected layers into a single network .
+ our work is also closely related to the present work .
+ edge-conditioned al @ cite use a recurrent neural network ( rnn ) for semi-supervised semantic segmentation .
+ @ cite , the attention mechanism is used to learn the reference image segmentation from a set of extracted regions of interest , and @ cite @ cite .
+ in this work , we focus on the counting and segmentation of thermal infrared images , which is similar to our work .
+ in contrast to our approach , our work is more closely related to ours , rather than haze .
+ we use a similar approach to semantic image segmentation .
+ in @ cite the authors propose to use an attention model to learn a human-like counting problem for semantic segmentation and semantic segmentation in the context of synthesizing weakly labeled images .
+ however , their work does not address the problem of learning the illumination and the bounding box of the image , and is not applicable to infrared cameras .
+ the work of @ cite demonstrates that the amount of annotated thermal images is transferred to the visible map .
+ in the work , @ cite proposed a deep neural network based self-training method to improve the accuracy of semantic image classification .
+ our work is closely related to the work of @ cite , @ cite and @ cite .
+ in this work , we use a similar approach to image semantic segmentation .
+ in @ cite the authors propose a unified framework to predict visual segmentation and semantic prediction of the two tasks .
+ they show that panoptic information can be decomposed into local segments of the depth and the semantic information, of the image , and then use the embeddings to predict the layout composed of pixel-wise depth values .
+ @ cite @ cite propose to train a deep neural network for joint depth and semantic segmentation , which is similar to our work .
+ in contrast , our work differs from ours in that we focus only on the haze of thermal infrared images , which can be viewed as a special case where the visible side is assumed to be known .
+ in our experiments , we show that our approach can be seen as an extension of our work to semantic segmentation in the context of semantic segmentation, estimation .
+ we use the same idea in our model , which allows us to integrate cameras into account .
+

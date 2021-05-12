@@ -1,0 +1,9 @@
+In this section, we briefly review the related work that is closely related to our work. 
+ We refer readers readers @cite @cite @cite for recent surveys on iris segmentation and iris recognition @cite . 
+ In the following, we review the most relevant work in this area. 
+ Here the authors propose a new iris segmentation approach that is based on the CASIA database dataset @cite , which is an extension of our work on iris recognition based on CASIA CASIA and SBVPI @cite . 
+ The second difference is that our method is able to model the segmentation and segmentation of the iris segmentation problem. 
+ However, it is not clear how to use a large amount of iris data from a single point cloud view of the segmentation system @cite @cite . 
+ However, we are not able to use this approach in order to improve the performance of iris segmentation in the presence of a large number of iris images, which is more difficult than the one proposed in this paper. 
+ In addition, our work is also related to iris segmentation @cite @cite , where the goal is to predict the segmentation of images from a regular camera into a deep learning framework. 
+

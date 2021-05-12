@@ -1,0 +1,17 @@
+in the context of semantic segmentation , there have been a large body of work on face deblurring @ cite @ cite .
+ in particular , @ cite proposed a multi-stream architecture for face parsing .
+ @ cite use semantic cues to learn a semantic segmentation model for face segmentation , and @ cite used semantic information to guide the network to learn the output within a multi-scale deep neural network .
+ however , these methods do not consider the face of the human face .
+ in @ cite , the authors proposed a multi-class semantic segmentation approach using a cnn based on a convolutional neural network ( cnn ) .
+ however to the best of our knowledge , this approach has not yet been seen in the field of computer vision .
+ in the following sections , we review the most relevant work related to our work , as well as in the introduction of the face deblurring task .
+ in contrast to our approach , the outputs of the attentions are not available for the eyes of the scene .
+ in our work we aim to generate a structured semantic map based on an image of the image .
+ in the context of face detection , the region-of-interest detection problem has been widely studied in the field of computer vision @ cite @ cite and object detection @ cite .
+ recently , @ cite proposed a multi-stream architecture for weakly supervised semantic segmentation and pose estimation .
+ @ cite used semantic and spatial relations between labels for streak prediction , and @ cite employed a conditional random field ( crf ) to combine spatial and spatial annotations for face detection .
+ in @ cite , a multi-stream image classification approach was proposed for the task of face image deblurring .
+ the authors of @ cite formulated the problem of weakly connected convolutional neural networks for rain density estimation in multi-label images .
+ however to the best of our knowledge , none of these two approaches are based on a two-stage training methodology , which integrates the outputs of the labels into a final deep neural network .
+ in our work , we utilize the multi-stream architecture @ cite to extract features from the human body and the eyes of the image in the eyes , and 2 ) the network is able to learn the semantic meanings of the facial labels .
+

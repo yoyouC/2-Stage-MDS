@@ -1,0 +1,7 @@
+Bayesian al @cite proposed a Bayesian approach to separate the secret image from a generic image using a set of training images to form a domain adaptation on the input image and a noisy image with a single image. 
+ The image is trained to distinguish between the image and the style of the image. 
+ This is done by minimizing the distance between the two adjacent frames and the corresponding image. 
+ They then estimate the image with the highest quality of the image to obtain the final results. 
+ In this paper, we use a similar approach that can be used to generate high resolution image channels that are robust to the secret of the same image across different styles and the image quality is used in order to improve the performance of the cover image. 
+ This method is also used for image processing @cite @cite @cite , where it is used as a contour of the secret and decoders, @cite , which is an extension of the primal technique that @cite . 
+ The consistency method is able to produce high quality consistency and style style 2017) 2017) 2017) 2017) 2017) 2017) 2017) 2017) 2017) 2017) 2017) 2017) 2017) 2017)

@@ -1,0 +1,30 @@
+there has been considerable interest in the field of game theory @ cite @ cite .
+ in this work , we focus on the convergence of power control in game theory .
+ in @ cite , the authors propose to use aggregative game to capture the power exchange of a multichannel network to users can allocate their power across multiple frequency bands .
+ @ cite propose a modified method for distributed power control to characterize the compensation paid at least @ math .
+ the authors of @ cite use a similar approach to updating power levels and access control to achieve the optimal response updates .
+ in contrast , our algorithm is based on the assumption that the equilibrium of the game is to minimize the power control rate of the equilibrium .
+ however cause of lower learning rate , this is not suitable for the estimation of the dynamic log-linear model , which is the focus of this paper .
+ in particular , we show that the limitations of these algorithms are not applicable to our setting , since we do not consider the problem of estimating a single network performance.
+ in the presence of a single node .
+ the aggregative game theory has been investigated in the context of power control @ cite @ cite .
+ in @ cite , the authors propose an online learning algorithm to model spectrum sharing in CR scenarios .
+ @ cite proposed a game theoretic approach to improve the utility of privacy and learning rate of spectrum resource utilization in wireless networks .
+ the authors of @ cite consider the problem of placing a user to maximize the power strategies of the spectrum users, and the power control of repeated stochastic private game theory .
+ in this work , we focus on the characterization of the optimal network performance.
+ by decomposing the network into a fixed budget , and propose a novel threshold policy, algorithm to account for the power exchange of different links .
+ in contrast to our work , our work is different from the above mentioned above , which is the focus of our work .
+ we also compare the results obtained in this section , and we refer the reader to the recent survey @ cite for the most comprehensive survey in the area of wireless ad hoc networks .
+ in the following , we review the related work in this paper .
+ there has been a growing body of work in the area of sensor networks @ cite @ cite , @ cite and @ cite .
+ in this paper , we present a brief overview of the most relevant work on dynamic game theory in the context of partial information setting .
+ we refer the reader to @ cite for an excellent survey of the extensive literature on the subject of surveys and references in the literature .
+ for example , in @ cite the authors present an overview of emergency deployment in aerial networks .
+ the authors of @ cite discuss the problem of obtaining a vertex coloring for load balancing , i.
+e.
+ where @ math is the number of base stations , and @ math .
+ @ cite proposed an algorithm for distributed load balancing in heterogeneous networks with load and outage complexity .
+ the objective of learning algorithms for complete and partial convergence is to minimize the power consumption of the equilibrium .
+ in the same vein , the authors propose a binary log-linear model to analyze the interactions between the base nodes and the air (beyond one-dimension) .
+ in contrast , our work is different from ours .
+

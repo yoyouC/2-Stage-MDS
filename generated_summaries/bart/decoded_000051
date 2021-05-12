@@ -1,0 +1,20 @@
+Zero-shot learning is a special case of unsupervised domain adaptation where the source and target domains have disjoint label spaces @cite  .
+ In ZSIR, the goal is to learn a discriminative representation for both visual and semantic instances .
+ In the past few years, there have been many zero-shot image retrieval methods based on deep neural networks .
+ In this section, we briefly review some of the existing works in this category, which are mainly based on the deep neural network based approaches .
+ We first review the recent works on ZSIL .
+ We also review the related works in the following sections .
+ In the zero-shot learning task, there is a large body of work on learning the joint representation from vision and language information .
+ In @cite , the authors introduce the multimodal residual learning of visual question-answering, which extends the idea of the deep residual learning for the joint semantic embedding space .
+ In this paper, we propose the decoupled Metric Learning (DeML) framework to achieve a unified metric learning for ZSIR .
+ In addition, we also propose the Decoupled Meta-Learning (CDL) framework, which jointly learns the visual discriminative metric and the channel-attention module .
+ Metric learning has been extensively studied in the past few years @cite  .
+ In this section, we briefly review some of the related work on metric learning in zero-shot settings .
+ First, we review the most relevant works in ZSIR .
+ We briefly review the related works in the last few years .
+ We first review the recent work on deep metric learning .
+ We also review some related works on ZSSIR .
+ In the past several years, deep learning has become a very popular research field in the computer vision community .
+ In particular, deep neural networks have been widely used for ZSSR tasks .
+ In this paper, we focus on the deep neural network based deep learning .
+

@@ -1,0 +1,30 @@
+High-resolution representations are essential for position-sensitive vision problems, such as human pose estimation, semantic segmentation, and object detection .
+ In recent years, there has been a surge of interest in the high-resolution representation for computer vision problems .
+ For example, @cite proposed a multi-resolution image super-resolution framework based on the recent multiple kernel algorithm, which is robust to varying lighting conditions and facial expressions .
+ In addition to the above methods, there have also been attempts to increase the resolution of the input image through the use of high-to-low-resolution convolution streams .
+ In this paper, we focus on the proposed HRNet .
+ In recent years, CNNs have been widely used for image super-resolution @cite  .
+ In this paper, we propose to use CNNs as the backbone for our proposed HRNet .
+ In the past few years, there have been a number of CNN-based super-resolutions, such as ResNet, GUM, and ResNet .
+ The main difference between these two methods is that ResNet is a fully convolutional network, while GUM is a multi-scale network .
+ In contrast, our HRNet maintains the high-resolution representation through the whole process, which is a stronger backbone for computer vision problems .
+ In recent years, there has been a surge of interest in learning high-resolution representations from low-resolution inputs .
+ @cite proposed a two-stage process which firstly trains a High-to-Low Generative Adversarial Network (H-GAN) to learn how to degrade and downsample high and low-res images, and then use the coefficients of this representation to generate the high-res image patch .
+ In the second stage, a sparse representation is learned from a dictionary of low- and high-quality image patches, and the learned dictionary is used to train a low to high GAN for image super-resolution .
+ In both cases, the sparse representation can be used with respect to their own dictionaries .
+ High-resolution representations are essential for position-sensitive vision problems, such as human pose estimation, semantic segmentation, object detection, and object detection .
+ In recent years, several methods have been proposed to enhance the high-resolution representation of low-resolution images .
+ For example, @cite proposed to learn a parallax prior from stereo images, which can enhance the spatial resolution of stereo images significantly more than single-image super-resolution methods .
+ In addition to the above methods, several other methods have also been proposed for improving the image quality .
+ For instance, the work of Zhang al proposed to reduce the motion blur in stereo images using a hybrid camera system .
+ In this work, we focus on the problem of enhancing the high resolution representation High-resolution representations are essential for position-sensitive vision problems, such as human pose estimation, semantic segmentation, object detection, and object detection @cite  .
+ In recent years, deep learning based methods have shown promising results in image synthesis and image editing .
+ In particular, deep convolutional neural networks (CNNs) have been shown to be able to synthesize high-resolution images from a set of training images .
+ In the past few years, CNNs have been widely used for image synthesis, image editing, and super-resolution .
+ In this section, we briefly review the most related works .
+ High-resolution representations are essential for position-sensitive vision problems, such as human pose estimation, semantic segmentation, object detection, and object detection .
+ In recent years, there has been a surge of interest in high-resolution representation learning .
+ In @cite , the authors proposed a multi-resolution super-resolution framework, named as SRCNN, to learn the low-resolution and high-noise representations of the input image .
+ However, the high-to-low resolution representation is not fully connected to the input, which limits its scalability .
+ In contrast, our proposed HRNet is a stronger backbone for computer vision problems .
+

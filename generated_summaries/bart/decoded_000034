@@ -1,0 +1,5 @@
+Graph clustering is a well-studied topic in computer science and has been extensively studied in the past few years @cite  .
+ In this section, we briefly review some of the most relevant clustering frameworks and benchmarking frameworks for graph clustering, which are publicly available and suitable for the parallel benchmarking of diverse clustering algorithms on a wide range of synthetic and real-world datasets .
+ We refer the interested readers to the survey by @math and the references therein for a comprehensive review of the related clustering techniques and their benchmarking techniques .
+ We also review the existing benchmarking systems for clustering and their evaluation on NUMA servers .
+

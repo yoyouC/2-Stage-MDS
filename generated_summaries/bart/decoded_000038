@@ -1,0 +1,12 @@
+Semantic labels have been widely used in the computer vision community for image deblurring .
+ @cite proposed a multi-stream architecture for image segmentation .
+ They used a saliency model as additional information and imposed local structure losses to regularize the output of the network .
+ They proposed a novel network architecture called the label refinement network that predicts segmentation labels in a coarse-to-fine fashion and learns to combine their outputs into the final deblurred result .
+ The proposed UMSN architecture is similar to the one proposed in this paper .
+ However, the UMSN is trained in a two-stream fashion .
+ In the first stage, the segmentation label is obtained from image-level labels, while in the second stage, it is learned Recently, multi-stream architectures have been proposed for face segmentation .
+ @cite proposed a multi-scale region-based Convolution Neural Network (CMS-RCNN) to jointly estimate the rain-streaks and rain-st streaks in a single image .
+ The proposed method is based on a two-stream architecture, which consists of the region proposal component and the region-of-interest (RoI) detection component .
+ In addition to the region proposals component, the RoI detection component is used to deal with tiny face regions .
+ In contrast to the above methods, the proposed UMSN architecture is trained in an end-to-end fashion .
+

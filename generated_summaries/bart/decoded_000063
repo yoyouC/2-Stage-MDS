@@ -1,0 +1,6 @@
+@cite proposed a new supervision signal called center loss .
+ The center loss simultaneously learns a center for deep features of each class and penalizes the distances between the deep features and their corresponding class centers .
+ The proposed method is trainable and easy to optimize in the CNNs .
+ With the joint supervision of softmax loss and center loss, the proposed method can train a robust CNNs to obtain deep features with the two key learning objectives, inter-class dispension and intra-class compactness as much as possible, which are very essential to face recognition tasks .
+ In this paper, we propose a new method called AM-Softmax, which is based on the SincNet .
+

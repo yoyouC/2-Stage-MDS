@@ -1,0 +1,14 @@
+Group activity recognition has been extensively studied in the literature .
+ @cite proposed a multi-task dialogue model for group activity recognition .
+ They proposed to encode the group-activities with three types of localized causalities, namely self-causality, pair-causesality, and group-casusality .
+ They encoded the local interaction reasoning relations within, between, and among motion trajectories of different humans respectively .
+ They also proposed a hierarchical deep reinforcement learning approach to learn a dialogue manager that operates at different temporal scales .
+ In this work, we focus on the task of group action recognition in surveillance videos .
+ Group activity recognition has been extensively studied in the past few years .
+ In @cite , the authors proposed a fuzzy rule-based approach to recognize group activities .
+ They divided the state space into several fuzzy subspaces .
+ The consequent part of the fuzzy if-then rules is a motion vector that suggests the moving direction and velocity of the learning agent .
+ The proposed method is insensitive to small noise since an orderlet only depends on the comparative relationship among individual features .
+ However, it is not suitable for real-time online action recognition since it is sensitive to noisy information .
+ In this paper, we propose a novel method to progressively refine the low-level features and high-level relations of group activity recognition .
+

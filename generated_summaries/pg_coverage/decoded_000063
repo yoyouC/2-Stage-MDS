@@ -1,0 +1,9 @@
+the center loss @ cite @ cite has been successfully applied to face recognition in the context of speaker recognition @ cite .
+ the authors of @ cite proposed a method for speaker recognition using deep neural networks .
+ in this work , we focus on the learning of the loss function for deep learning , which is a generalization of the proposed center loss .
+ we use the center of the [UNK] @ cite as a measure of the difference between the classes of the class and the samples in the center , and the goal is to minimize the distance between the source and the target domain .
+ in contrast to our work , our work is different from the previous work on center loss , which can be viewed as a special case of the softmax layer .
+ we show that the proposed method is able to train a deep learning model for each class of softmax loss .
+ in addition , we propose a novel supervision signal for speaker verification and face verification .
+ we also show that it is possible to achieve state-of-the-art performance in face recognition systems @ cite , and we refer to @ cite for a comprehensive review .
+

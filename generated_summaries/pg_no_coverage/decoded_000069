@@ -1,0 +1,9 @@
+the problem of image synthesis and steganalysis synthesis has attracted a lot of attention in recent years @ cite @ cite .
+ in this work , we focus on the adaptation of generative adversarial networks ( gans ) , which can be seen as a special case of a deep learning framework .
+ in the work of @ cite , the authors show that the information of the secret image and the style of the image is transferred to the recovered secret image .
+ in contrast , our approach is based on the idea of enhancing the quality of secret image primitives in steganography .
+ our work is complementary to these approaches , but our approach does not assume that the synthesized secret image followed by a pair of deep encoders are more likely to be drawn from the input image .
+ we use a similar approach to the super-resolution problem in the context of steganalysis restoration .
+ however , their method does not address the issue of steganalysis removal in the embedded image , which is not available in the super-resolution literature .
+ this is in contrast to our work , in the sense that we are able to reconstruct the secret secret image @ math .
+

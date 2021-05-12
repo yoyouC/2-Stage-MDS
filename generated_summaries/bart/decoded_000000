@@ -1,0 +1,11 @@
+In @cite , a language schema for specifying a large class of test selection criteria is developed .
+ The schema is based on two operations for building complex criteria from simple ones .
+ The first operation is to specify a set of test sets, and the second one is to define a test set for which the test set is adequate .
+ In the first part of the paper, a simple language schema is developed, with the goal of generating small adequate test sets automatically, while the second part is to determine a set that is adequate for a given test set .
+ The main difference between the two operations is that the first and second operations are based on the same algebraic properties, whereas the second is on the algebraic property of the second operation .
+ TSTL @cite is a domain-specific language for testing .
+ TSTL is a language and tool infrastructure for generating, manipulating, and analyzing test cases in a language of the software under test (SUT) .
+ It is a tool infrastructure, but is also a way to bring testing activities under the control of an existing programming language in a simple, natural way, making generic test generation and manipulation tools for all SUTs possible .
+ It includes tools for generating and manipulating test cases, including simple model checkers, and simple model checkingers .
+ It is an extension of ArcPy, NumPy, and QIIME .
+

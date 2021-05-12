@@ -1,0 +1,9 @@
+The idea of using synthetic gradients for training neural networks was first proposed in @cite , where they were used to initialize the parameters of a deep belief network (DBN) .
+ The idea was later extended to a multi-layer neural network (MLN), where the gradient estimators are used to approximate the true loss .
+ The idea of applying the synthetic gradient estimator to a fully connected layer was also explored in the context of deep belief networks (DBNs), where it was shown that it can be used to improve the generalization of a neural network .
+ In this work, we focus on the application of the proposed DGL to the case of deep neural networks .
+ In @cite , the authors propose an end-to-end optimization for CNN cascade, where the back propagation algorithm used in training CNN can be naturally used to train CNN cascade .
+ They show how jointly training can be conducted on naive CNN cascade and more sophisticated region proposal network (RPN) and fast R-CNN .
+ The authors also show that a greedy relaxation of the objective can be applied to training CNN cascade in a greedy manner, where previous stages in cascade are fixed when training a new stage in cascade .
+ In addition, they show that an extension of this approach to asynchronous settings, where modules can operate with large communication delays, is possible with the use of a replay buffer .
+

@@ -1,0 +1,21 @@
+transfer learning has been extensively studied in the past years @ cite @ cite .
+ in @ cite , the sampling strategy is used to estimate the distribution divergence from the source and target data .
+ @ cite proposed a novel transfer learning scheduler that learns to minimize the importance of the marginal and conditional distribution of the target domain .
+ the attribute imbalance problem is also studied by @ cite and @ cite for imbalanced learning problems .
+ the authors of @ cite propose to learn the latent attributes from an ensemble of classifiers to learn a critical review of the class imbalance problem .
+ in this work , we focus on the imbalanced learning problem , which is similar to our proposed curriculum learning approach, attribute analysis .
+ we compare the results obtained in this paper , and we refer the reader to the survey of park and park and zhao et al al @ cite to assess the effectiveness of knowledge discovery methods .
+ in contrast , our approach is based on the assumption that the data distribution can be inferred from the balanced data set into multiple balanced ones .
+ in the following , we show that the sampling algorithm is able to tackle the imbalanced data learning problem .
+ multi-task learning has also been applied to online attribute analysis @ cite @ cite , imbalanced data learning @ cite and hierarchical clustering @ cite .
+ in this work , we focus on the sampling of deep learning and loss learning to balanced classification tasks .
+ we use a similar approach to regularize the learning procedure to the data distribution .
+ in contrast to our approach , the sampling strategy of @ cite is based on the idea of learning a neural network to supervise the training process .
+ in @ cite the authors propose a curriculum learning approach to improve the performance of online AUC maximization .
+ @ cite propose an end-to-end deep learning algorithm for online object classification and imbalanced attribute recognition .
+ DCL et al by zhang et al al @ cite proposed a method to learn deep learning from the interaction between clothing and clothing dimension.
+ .
+ they use a multi-task classifier to learn the minority attribute classes , and then train a classifier to predict the facial label of the minority classes.
+ This .
+ the authors of this paper can be seen as an extension of the present work , which we present in this paper .
+

@@ -1,0 +1,10 @@
+The direct product testing problem was first introduced by Dinur-Steurer @cite , who showed that whenever @math and @math , then the expected asymptotic formula holds for the number of integral solutions @math of ( @math ) with @math @math  .
+ This result was later generalized to the Vietoris--Rips simplicial complex @math (VVRIP) @math by @math who showed the existence of an integral solution @math such that on most sets @math we have @math DP @math for any @math ; see also @math ) .
+ The direct product encoding of a string @math on an underlying domain @math has been studied extensively in the literature .
+ For example, in @cite the authors study the problem of finding a function @math that takes as input a set @math of size @math and outputs @math restricted to @math  .
+ The problem of determining whether @math is submodular has been extensively studied in the machine learning literature .
+ In particular, it has been shown that for any @math , there exists some @math such that on most sets @math it is @math -far from being a direct sum encoding, where the constant behind the @math notation is independent of the Riemannian volume measure .
+ The problem of nearest product testing has been studied for a long time, see @cite and references therein .
+ In particular, it has been shown that for @math -median clustering @math , the optimal clustering of the input @math is more expensive than the optimal @math clustering by a factor of @math for some constant @math  .
+ In the case of Euclidean spaces, it was shown that the optimal algorithm can achieve a PTAS in time polynomial in @math and @math when all target clusters have size greater than @math (see also the work of Dinur-Kaufman and Koltunov @math ) .
+

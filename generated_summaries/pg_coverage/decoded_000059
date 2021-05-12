@@ -1,0 +1,28 @@
+the conditioning flow estimation of probabilistic models has been widely studied in the context of probabilistic databases @ cite @ cite .
+ in this section , we review the most relevant work related to the present work in the area of probabilistic confidence computation .
+ we refer readers to @ cite for an extensive review of the literature on the topic of confidence computation.
+ However, .
+ for example , @ cite and @ cite show that exact approximation techniques can be used to evaluate the performance of these models .
+ @ cite proposed a probabilistic model based on the Frechet of the joint distribution of the flow model , which is similar to our work .
+ however such a problem is not limited to the large amount of data required for the task of the target distribution.
+ .
+ in contrast to our approach , our approach is based on additional assumptions on the confidence of the instructions to be propagated during the training phase .
+ in our work , we show that the precision of confidence computation can be improved by using the posterior distribution of optical flow .
+ we use a similar approach to synthesize a database of priors .
+ previous work on image depth estimation and semantic segmentation @ cite @ cite have also been proposed to address the problem of anomaly detection .
+ for instance , @ cite proposed a conditional gan for canonical depth estimation , landmark detection , landmark de-raining , and pose estimation .
+ @ cite used a conditional random field ( crf ) -based approach to predict the likelihood of a pixel in the generator to a much smaller representation of images .
+ however , this approach assumes that the joint distribution of the input image is assumed to be known , and the goal is to recover the generation of the normal distribution of high-dimensional images .
+ in contrast to @ cite , we propose to use a similar approach to estimate the unseen anomaly in a semi-supervised learning setup .
+ we show that our anomaly detection method can be viewed as a special case of non-parametric metric learning to facilitate depth estimation .
+ however geometry, @ cite and [UNK] @ cite show that it can be used to generate a discriminative model that maps the input from the same image to a lower dimensional depth .
+ however to the best of our knowledge , there is no prior work that applies a conditional generative model for depth estimation @ cite .
+ the conditional version of generative adversarial networks ( gans ) @ cite @ cite have been proposed in the literature .
+ in particular , gans have been successfully applied to a variety of computer vision tasks , such as image tagging @ cite , machine translation @ cite and natural language processing @ cite .
+ these models have been used for image tagging , but they are not directly applicable to the task of complex image tagging .
+ in this paper , we focus on the advancement of the use of a neural network to predict the joint distribution of the real world .
+ our work differs from the previous work in the context of real world , rather than focusing on conditioning the representations of real images .
+ our approach is similar to our work in terms of the scope of this paper .
+ we show that our approach can be seen as a special case of our metric , as well as the key difference between our work and the introduction of generative models for generative gans .
+ we also use a similar approach to @ cite by using a conditional random field ( crf ) to learn MNIST digits .
+

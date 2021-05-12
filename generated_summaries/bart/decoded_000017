@@ -1,0 +1,12 @@
+There is a large body of work on verifiable voting in social networks (see, e .
+g .
+, @cite and references therein) .
+ In particular, there is a rich literature on the problem of determining which candidate necessarily or possibly wins in a social poll .
+ For example, in the context of approval balloting, the authors of @cited study the effect of approval votes on the number of candidates in a single-winner election .
+ The authors of this paper study the problem in which a voter chooses his favourite among @math candidates, and show that it is computationally intractable to compute the winner of the election .
+ @cite @cite have proposed a verifiable scheme which can be used to verify the integrity of the final tally .
+ However, their scheme is not verifiable, as it does not allow the voter to verify her vote .
+ In contrast, our approach is verifiable and does not require any additional information about the voter .
+ In addition, we do not assume that the voter is anonymous, as we do in our paper, and do not require the voter's identity to be known .
+ We also do not need to know whether the voter has received a copy of one of her ballots, but only if the voter knows which ballot she copied for her receipt .
+ In this paper, we show that our approach counters coercion threats arising in extreme tallies

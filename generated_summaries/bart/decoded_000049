@@ -1,0 +1,7 @@
+Multi-view scene understanding has been a hot topic in computer vision for decades @cite  .
+ In this section, we briefly review related work on multi-view point-based scene understanding .
+ Multi-view object detection has been extensively studied in the computer vision community .
+ In the early years, it was widely accepted that the scene understanding was based on the geometry of the scene, which is not always possible with a single-view camera .
+ In recent years, a number of approaches have been proposed to address this problem .
+ For example, the work of @cites uses a 3D CAD model to reconstruct the scene from a single view .
+ The work of Zhang and Zhang @math uses a Siamese network to estimate the camera position and orientation

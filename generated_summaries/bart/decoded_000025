@@ -1,0 +1,21 @@
+@cite proposed a knowledge distillation method to distill knowledge from a variety of pre-trained deep neural networks into a single network .
+ @cite introduced a knowledge transfer adversarial network to better train a student network .
+ However, these methods assume that the intermediate representations of a neural network are learned from the training data, which is not the case in our case .
+ In contrast, our method disentangles and quantifies isomorphic features from intermediate layers of neural networks, and we design a generic definition for knowledge isomorphism between neural networks at different fuzziness levels, which can be broadly used for different applications .
+ Knowledge isomorphism has been studied in the context of neural networks @cite  .
+ It has been shown that neural networks learn representations that are compositional and can be used to improve generalization .
+ It has also been used to explain the performance of deep neural networks in image classification @cites  .
+ In this paper, we use knowledge isomorphic features from intermediate layers of a neural network to disentangle them from each other .
+ In addition, we show that the knowledge of intermediate layers can also be used for other tasks, such as image classification and image captioning .
+ In this work, we propose a generic definition for knowledge isomorphisms between pre-trained and post-trained networks .
+ Knowledge distillation (KT) @cite is a method to transfer knowledge from a smaller teacher network to a smaller student network .
+ It uses a distribution matching problem to match the distributions of neuron selectivity patterns between teacher and student networks .
+ It can also be used as a defense against any attack as it does not assume knowledge of the process for generating the adversarial examples .
+ The main difference between KT and our work is that we do not use knowledge distillation as a tool to diagnose feature representations of neural networks .
+ In contrast, our method does not rely on knowledge isomorphism to diagnose features from intermediate layers of a neural network .
+ In recent years, there has been a surge of interest in disentangling features from pre-trained neural networks .
+ For example, @cite proposed a method to disentangle features from intermediate layers of a neural network based on model interpretability .
+ The method can also be used to learn disentangled representations of neural networks with interpretability, which can be seen as a generalization of the work of @math and @math  .
+ In @math , @math is the number of hidden layers of the neural network .
+ @math can be defined as @math where @math are the hidden layers, @math denotes the hidden layer of the network, and the @math ( @math ) is the sum of the hidden and hidden layers .
+

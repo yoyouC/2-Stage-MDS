@@ -1,0 +1,19 @@
+@cite proposed a black-box attack that combines the gradients to estimate the gradients of the input and the input image. 
+ The attack is based on the principle of the targeted stochastic coordinate descent method. 
+ However, the method is not suitable for generating adversarial images with adversarial attacks. 
+ In this paper, we show that our approach outperforms the zeroth attack method in our work. 
+ In addition, we demonstrate the effectiveness of our method on adversarial machine learning attacks to the best of our knowledge and we are able to improve the performance of deep neural networks in the context of black-box attacks with the help of a single black-box attack @cite . 
+ We note that the targeted attack is the most effective way to the problem of generating adversarial data from substitute modulation and ImageNet attack learning. 
+ We believe that our attack is more general and more efficient than the targeted order of the attack models. 
+ We believe the robustness of adversarial machine translation methods to the attack of adversarial and Wagner's @cite and state-of-art @cite @cite @cite . 
+ In our work, we propose a zeroth attack that allows adversarial images to be used for the training of adversarial examples. 
+ In this section, we briefly review the related work that is related to the problem of deep neural networks @cite @cite @cite . 
+ In @cite , the authors propose to use adversarial networks to quantify the robustness of the adversarial attacks. 
+ In this paper, we focus on the use of adversarial perturbations in the task of image classification and show that it can be used to improve the performance of deep learning models. 
+ Our work differs from the previous works by @cite , in the spirit of the deep neural network approach in the context of image classification. 
+ We focus on adversarial machine translation using a deep neural network, with the help of adversarial machine learning algorithms. 
+ We refer to @cite for a comprehensive review of the state-of-the-art methods for the task we introduce here. 
+ We show that the DeepFool algorithm @cite is effective for the deep learning of adversarial attacks. 
+ We propose a novel DeepFool method for adversarial perturbations and achieves the best results in terms of the accuracy and accuracy of the DeepFool and robustness of deep networks. 
+ We believe that our approach can be applied to any deep learning based on the adversarial perturbations of the network. 
+

@@ -1,0 +1,10 @@
+In @cite , the authors propose a neural network architecture for dialogue management in a dialogue system using a set of dialogue data and used it as an alternative to our approach. 
+ The authors of @cite proposed a method to learn a sparse representation of the dialogue task using a neural network. 
+ The dialogue system is trained to predict the dialogue between the dialogue and the dialogue corpus of the dialogues. 
+ In this work, we show that such a policy is able to achieve better performance than the dialogue system in @cite . 
+ However, it is not clear how to the problem of dialogue policy and has not been applied to dialogue systems @cite @cite @cite . 
+ In this paper, we focus on the dialogue management task and show that it can be applied to the dialogue setting. 
+ TOOT and non-adaptable @cite propose a method for policy optimization in task-oriented spoken dialogue systems. 
+ The work of @cite also explores the use of RL in a corpus that is used to learn dialogue policies for the dialogue system. 
+ The authors in @cite propose an extension of the approach of @cite , where the dialogue policy is used as a basis for the task of dialogues. 
+

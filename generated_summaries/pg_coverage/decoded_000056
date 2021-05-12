@@ -1,0 +1,35 @@
+we refer the reader to @ cite @ cite for an extensive review of the state-of-art methods for image semantic segmentation .
+ we refer readers to the recent survey @ cite .
+ in particular , we review the most relevant work related to our work in the area of semantic segmentation in the context of trajectory-based semantic segmentation.
+ ( see fig over the last few years ) .
+ in our work , we provide a brief review of previous work on the topic of thermal infrared image understanding and gesture recognition in the visible spectrum, ( see , e.
+g.
+ and references therein ) , in the following section , we will refer to a more detailed discussion on the effectiveness of the proposed method in this paper , and we refer to the related work in this area .
+ in contrast to our approach , this paper focuses on the semantic segmentation of semantic objects , which is not readily available in the scope of this paper .
+ We and [UNK] @ cite propose a new cnn based on a convolutional neural network ( cnn ) .
+ the authors of @ cite present a comprehensive review on semantic segmentation and achieved impressive results in the field of infrared cameras .
+ recently , deep neural networks have been applied to image semantic segmentation @ cite @ cite and thermal image-to-image translation @ cite .
+ however , these methods rely on hand-crafted features , such as vgg @ cite or hog @ cite , and then used to predict textures in the wild ( @ cite ) .
+ in contrast to our work , we aim to learn a segmentation map from a pre-trained cnn for semantic segmentation .
+ we use a similar approach to shadow semantic segmentation by introducing a new deconvolution architecture for the visible spectrum, image and the segmentation of semantic objects , which is not available in the context of thermal image synthesis .
+ however such a problem is not limited to the haze of the intermediate layers , since it is difficult to obtain a large amount of labeled data .
+ in addition , we propose a novel network architecture that combines the advantages of both the fully convolutional network and the unpooling operations .
+ we also employ the vgg architecture @ cite to capture the semantic segmentation of objects in the image , and use the same architecture as a part of the input image .
+ recently , deep neural networks have been applied to semi-supervised semantic segmentation @ cite @ cite and vehicle segmentation in the context of infrared cameras have been proposed .
+ for instance , @ cite proposed a recurrent neural network architecture for semantic segmentation , where a cnn was trained on a stack of dilated convolution followed by a convolutional neural network ( cnn ) .
+ in @ cite , a pre-trained cnn was proposed for the segmentation task .
+ @ cite used class-specific activation maps to predict bounding boxes in a sliding window fashion , and achieved state-of-the-art performance on pascal voc @ cite .
+ however called @ cite in this paper , we focus on the extraction of thermal image semantic segmentation as well as a unified framework for image semantic image segmentation .
+ in contrast to our work , we aim to learn the segmentation results of the thermal infrared cameras , which is more challenging in the domain of the visible spectrum, .
+ in addition , we propose a novel network that extracts contextual information in an end-to-end manner that jointly predicts the shape of the object bounding box in the thermal context of the infrared cameras .
+ recent years have witnessed a proliferation of improvements in image recognition @ cite @ cite and semantic segmentation @ cite .
+ in the context of semantic segmentation , there is a large body of work on semantic segmentation of thermal infrared images .
+ for instance , @ cite proposed a unified framework for weakly supervised semantic segmentation .
+ @ cite used a conditional random field ( crf ) -based model to predict a global layout composed of pixel-wise depth values and semantic labels.
+ for segmentation .
+ in @ cite , the authors present a fully convolutional neural network for the task of semantic prediction.
+ segmentation .
+ however to the best of our knowledge , none of these works have dealt with the problem of segmenting semantic objects in a new manner .
+ in contrast to our work , we aim to learn a deep network for depth and semantic prediction , which is also related to our approach .
+ however where the goal is to predict whether a given object belongs to a correlated task , it is not clear how to train a deep neural network that approximates the region co-membership of the image and the joint network .
+

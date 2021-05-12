@@ -1,0 +1,25 @@
+@cite use a hybrid bidirectional LSTM and CNN architecture for NER and linking .
+ Their system is competitive on the CoNLL-2003 dataset and surpasses state-of-the-art performance on the OntoNotes 5 .
+0 dataset by 2 .
+13 F1 points .
+ @cite propose a joint entity recognition and linking system that uses a neural network architecture that automatically detects word- and character-level features and uses a hybrid Bidirectional CNN architecture, eliminating the need for most feature engineering .
+ They also propose a novel method of encoding partial lexicon matches in neural networks and compare it to existing approaches .
+ The problem of entity linking is a fundamental database problem with applications in data integration, data cleansing, information retrieval, knowledge fusion, and knowledge-base population management @cite  .
+ The problem of linking entities is a well-studied problem in machine learning and natural language processing, and has been extensively studied in the past few years .
+ The problem has been addressed in a variety of ways, including the use of machine learning techniques, machine translation techniques, and deep learning techniques .
+ In this work, we focus on the problem of linking entities from different databases and mentioned-entities, and the general linking process .
+ The task of entity linking is a fundamental database problem with applications in data integration, data cleansing, information retrieval, knowledge fusion, and knowledge-base population management @cite  .
+ It has been extensively studied in the context of machine learning and machine learning .
+ In this work, we focus on the entity linking task, which is a core component of the task of tweet information extraction, which aims to identify and link name mentions to entities in a knowledge base .
+ In addition, we propose an entity linking system that is capable of handling multiple values for an attributeor a relationship, as well as the provenance descriptions of thevalues of the values .
+ @cite , the authors present an entity linking system that is capable of linking entities in hashtags .
+ However, they do not address the problem of entity linking in tweets .
+ @cite present a method to segment and link entities in the hashtags to a knowledge base, based on the context within the tweet .
+ The approach is not flexible enough to tackle well with the various mapping properties of triplets, even though its authors spot the harm on performance .
+ In this paper, we propose a better approach to address the entity linking problem by pre-calculating the distinct weight for each training triplet according to its relational mapping property .
+ @cite proposed an entity linking system based on the Referent Graph model @cite  .
+ This model is capable of handling multiple entities in the same document .
+ However, it is not capable of dealing with multiple values for an attributeor a relationship, as described in the previous work .
+ In this work, we propose a system capable of addressing the entity linking problem, which is a fundamental database problem with applications in data cleansing, information retrieval, knowledge fusion, and knowledge-base population management .
+ In addition, we demonstrate the performance of our system in two state-of-the-art databasemanagement systems, HBase and Postgres .
+

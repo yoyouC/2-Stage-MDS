@@ -1,0 +1,5 @@
+Reinforcement learning (RL) has been applied to a wide range of tasks, including negotiation @cite , negotiation with a taxonomy of users, and negotiation with taxonomy .
+ In the context of dialogue systems, RL has been used to improve the performance of a variety of tasks such as negotiation, negotiation, taxonomy, etc .
+ In this paper, we focus on the problem of adapting dialogue behavior to individual users, rather than on adapting the dialogue behavior of a set of users .
+ In addition, our work differs from previous work in that we do not assume that users are aware of the limitations of the dialogue system, and instead assume that the system is well-behaved .
+

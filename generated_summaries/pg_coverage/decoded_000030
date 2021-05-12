@@ -1,0 +1,34 @@
+a number of studies have addressed the problem of graph-based trajectories in dynamic and uncertain environments @ cite @ cite .
+ in @ cite , the authors present a dynamic probabilistic model for dynamic probabilistic static The planning , where the goal is to maximize the goal-directed trajectories of the graph .
+ @ cite used a stochastic trajectory optimization approach to optimize the goal-directed bound of the position of the pedestrians and the probability of the collision and the trajectory of each trajectory .
+ however , these approaches are not applicable to multiple homotopy classes concurrently.
+ Specifically, , while our approach does not require any prior knowledge about the feasibility of the robot .
+ in contrast to our approach , our approach is based on prior knowledge of the environment , which is not possible in the environment .
+ our approach differs from theirs in the sense that it assumes that the motion is not perpendicular to the accepted trajectories .
+ the goal of this approach is to assign the likelihood of cost function for the remaining graph , which can be used to predict the future into a collision-free trajectory .
+ in our work , we aim to find a conservative trajectory for multiple possible paths simultaneously.
+ in the homotopy classes .
+ the problem of Efficient planning in dynamic environments has received a lot of attention recently @ cite @ cite .
+ in @ cite , the authors present a physics-based trajectory planning approach , where the goal is to maximize the path planning problem .
+ @ cite proposed a method for informative path planning in multi-robot environments .
+ the work of @ cite uses motion planning and motion planning for dynamic and uncertain environments .
+ however , this approach assumes that all states are placed on the graph , which is not available in the case of paths .
+ in contrast , our approach is based on the prior work in the sense that the remaining graph is located in the connectivity of the robot manipulator .
+ in this paper , we assume that the paths between possible paths and the feasibility of the objective function are not present in the planning process .
+ in our work , we aim to find a local optimal trajectory planning for multiple possible paths , i.
+e.
+ where the coordinates of the graph are unknown , i.
+e.
+ contacts in the environment , and the goal of stuck in collision free path planning .
+ our approach differs from the previous work in this area .
+ a preliminary version of this work was published in @ cite .
+ the authors of this paper focused on the problem of finding a remaining graph of the graph in a homotopy classes , i.
+e.
+ changes, ( i.
+e.
+ and trajectories ) , and ( 3 ) the problem is to find the optimal solution of the trajectories , which is then used to generate the best graph .
+ in contrast to our work , this paper presents a prior work that uses graph-based trajectories to reason about the feasibility of paths in the dynamic setting .
+ in this paper , we show that reoptimization capability can be used to create online planning for multiple possible paths , whereas our approach does not require any time complexity of the environment , and does not consider the setting of online planning in dynamic and uncertain environments .
+ in our approach , we aim to find solutions for an online setting of paths , rather than being able to find obstacles in homotopy classes .
+ we believe that our approach can be viewed as a companion problem for trajectory planning , where the goal is to maximize the sum of reoptimization nodes .
+

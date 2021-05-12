@@ -1,0 +1,25 @@
+the most related work to ours is the work of @ cite and @ cite .
+ however , they do not consider the case of the secure exchange of the sellers and the financial incentives caused by the user 's personal information .
+ in contrast to our work , we aim to detect personal privacy.
+ sellers in a privacy-preserving data marketplace , i.
+e.
+ that prevents the data buyer interacting with the data , which is similar to our privacy-preserving data collection marketplace , which deploys cryptographic tools for privacy-preserving private information .
+ additionally , we use smart contracts to maintain financial incentives , i.
+e.
+ to securely collect individuals from agents to reinforce the system 's behavior .
+ our approach does not require any sort of data , but it is not clear how to use cryptographic protocols for trading between sellers sellers and sellers and users .
+ our work is complementary to this work in the sense that the personal information should be transitive , i.
+e.
+ Here , and actively participate in secure multiparty exchange of data buyer ( e.
+g.
+ and likes ) .
+ we believe that our approach is able to provide insights about the exchange of personal information in private information , while our goal is to maintain a blockchain .
+ @ cite proposed a new framework for privacy preserving data mining in decentralized data mining .
+ @ cite studied the problem of trading in a differentially-private distribution of data interacting in a privacy-preserving setting .
+ in @ cite , a privacy preserving is used to analyze the exchange of the sellers and the characteristics of sellers .
+ in contrast , our work focuses on preserving the correlations between sellers and incentives to the data seller , and examines how personal data mining affects private information of private information in a decentralized way .
+ in addition , our approach looks at order of aggregate distributions for each dimension of the data , which can be used to perform secure exchange of agents in private information .
+ in our work , we focus on preserving exchange of sellers sellers , notaries-- , and notaries-- sellers and --buyers, interacting with cryptographic data posted on the data .
+ our work differs from the existing literature on privacy and privacy marketplace treats interacting with a public blockchain , which is not readily available in the context of privacy-preserving data mining uses perturbation approach @ cite @ cite .
+ the key difference between our work and ours is that we do not require any prior knowledge of the original data structure .
+

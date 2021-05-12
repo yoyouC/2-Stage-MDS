@@ -1,0 +1,21 @@
+In the field of numismatics, there is a large body of work on the classification of ancient Roman Republican coins .
+ Most of these works are based on hand-crafted features, such as SIFT @cite , SIFT-based features, and histogram of local descriptors (HMM) @cites  .
+ These features are then used to classify the coins .
+ However, the accuracy of these methods is limited due to the large number of images in the database .
+ In this paper, we propose a novel network model, CoinNet, that employs compact bilinear pooling, residual groups, and feature attention layers .
+ In this paper, we focus on the classification of ancient Roman Republican coins .
+ In @cite , the authors proposed a robust dense correspondence estimation for exemplar-based image classification and adapt it to the problem of ancient coin classification .
+ The proposed method achieves a classification rate ranging from 72 .
+7 for the case of one training sample per class up to 97 .
+2 when nine training samples per class are used .
+ However, the proposed method suffers from the practical conditions of this problem: limited number of images per class and complex intra-class variations like degraded parts, non-rigid deformations and illumination-induced appearance changes .
+ In this paper, we propose a novel network model, CoinNet, that employs compact bilinear pooling, residual groups, and feature attention layers .
+ CoinNet is inspired by the work of @cite , where the network is trained to perform classification on ImageNet and COCO datasets .
+ The network is composed of multiple types of nodes and links, which is essential for network analysis .
+ In this work, we combine the classification and ranking of the nodes in order to perform more accurate analysis of the data .
+ In addition, we present a detailed ablation study of our network and its generalization capability .
+ In recent years, deep learning models have achieved great success in various computer vision tasks such as image classification @cite , image captioning @math , and object detection @math  .
+ In this paper, we propose a novel network model, CoinNet, that employs compact bilinear pooling, residual groups, and feature attention layers for visual recognition .
+ CoinNet is the first network that employs a convolutional neural network to attend to the most relevant regions of the input image .
+ It achieves a classification accuracy of more than and outperforms the conventional bag-of-visual-words based approaches .
+

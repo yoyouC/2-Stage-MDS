@@ -1,0 +1,37 @@
+background subtraction is an active research direction that has attracted a great deal in the field of background subtraction @ cite @ cite .
+ in this work , we focus on the problem of change detection and segmentation of unseen videos .
+ in @ cite , the color of the background is modelled as a matrix whose features are extracted from the background .
+ @ cite propose a technique to extract primary object segments in the object in the image , and then use structured regularization to detect moving objects .
+ in contrast , our work is based on the assumption that the top-performing model is able to reduce the segmentation of the foreground and background frames .
+ our approach is similar to the work of cheng al @ cite who proposed a method to perform background subtraction on unseen videos by using a neural network .
+ in the work , @ cite and @ cite use a similar approach to solve the semantic segmentation problem , and propose to use a fused lasso regularization to intact groups of pixels in the current frame .
+ they show that this approach can be used to estimate the color thresholds for comparing video frames .
+ motion detection is a well established topic in the field of computer vision and computer vision .
+ it has been recently shown that there is considerable evidence @ cite @ cite .
+ in this paper , we focus on the chance of segmenting the test video from a stationary point of the background .
+ we use a similar approach to reduce the separation of the output of a semantic segmentation .
+ @ cite , @ cite and @ cite are used to localize salient regions based on the gradient of the frames .
+ in @ cite the authors propose a spatiotemporal saliency detection method based on a fully-convolutional neural network .
+ they also proposed the use of the boundary segmentation method to estimate the saliency of each trajectory .
+ the authors of @ cite propose a unified framework to decompose videos into foreground and background ones.
+ videos , which is based on object detection and group sparsity .
+ in contrast to our work , we use the semantic information of the whole frame to improve the quality of unseen videos .
+ our work is also closely related to the work of zhou al @ cite who propose a model for motion detection based on low rank and energy minimization .
+ our work is also closely related to the field of dynamic background subtraction @ cite @ cite .
+ in this work , we focus on the chance of overfitting, video clips and tracks the impact of illumination and order to reduce the number of frames .
+ in @ cite , the authors propose a method to search videos based on a fully-convolutional neural network based on background subtraction .
+ @ cite proposed an augmented background subtraction method using a similar approach to improve the feature detection and tracking approach .
+ however , their method is based on the assumption that the top-performing approach is unable to perform well on unseen videos .
+ however also , this approach does not take into account the segmentation of the test video and exploits the semantic information of the frames in the vicinity of the background .
+ in contrast to our approach , this is the first time that we are aware of only one track in the background , which allows us to integrate the chance from multiple time steps .
+ our approach differs from theirs in two aspects : we are interested in the success of this paper , since we are able to provide high-quality results .
+ the semantic segmentation problem has been extensively studied in the past years @ cite @ cite .
+ in this paper , we focus on the chance of segmenting videos in a video by observing the presence of a video in the vicinity of the scene .
+ in @ cite , an saliency map is used to estimate the reliability of saliency extracted from labeled videos .
+ @ cite use a similar approach to object detection and pose estimation .
+ in contrast , our method is based on the assumption that the object is close to the primary object of the background , which is the same as our approach is different from background subtraction .
+ our work is also closely related to our approach , but the use of local saliency detection and motion cues, methods can be applied to videos .
+ in our work , we use self-adaptive background frames as a cue to distinguish between primary objects and the background ground-truth frames .
+ we use the current frame of the frames in order to obtain a global visual motion model to reduce the position of the object in the time period .
+ our approach can also be seen as an extension of our work .
+

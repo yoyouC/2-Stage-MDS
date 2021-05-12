@@ -1,0 +1,11 @@
+In the context of community detection, a number of methods have been proposed to detect community structure in complex networks @cite  .
+ The most popular method is the one proposed by @math and @math , which is based on the idea that the degree of a community is strongly correlated with the economic development of communities .
+ The authors of @math propose a method based on node similarity, which is a fast and efficient method for detecting community structure by iteratively incorporating the community containing a node with the maximum similarity to this node to form a new community .
+ The proposed method uses node similarity as a measure of node similarity .
+ However, it does not use the marginal probabilities of each edge in the distribution of the network .
+ @cite proposed a probabilistic framework to infer the dynamics of a network .
+ They use a mixture of coupled hierarchical Dirichlet processes to capture cascade node infection times .
+ @cite used a similar approach to infer network structure, but they did not use the observed part of the network .
+ In contrast, we use samples from the distribution of networks conditioned on the observation of a set of infections @math conditioned on an observation of @math , and we use the marginal probabilities of each edge in the distribution to improve estimates and understanding, particularly with small amounts of data .
+ Our work differs from these works in that we do not use any prior knowledge about the network structure .
+

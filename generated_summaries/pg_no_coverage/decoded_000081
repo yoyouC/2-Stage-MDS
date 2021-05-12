@@ -1,0 +1,27 @@
+CPU-SIMD et al @ cite proposed a sorting algorithm based on recurrent neural network ( ann ) .
+ the merge sort @ cite is based on the idea of assigning each warp independent pairs of sequences to be merged .
+ the authors of @ cite propose a neural network based model for the design of heterogeneous multiprocessor architectures .
+ in this work , we focus on self usage of the threads and global memory accesses , which can be used to schedule tasks on an homogeneous architecture.
+ architecture .
+ in @ cite , the authors propose sample error strategies for manycore network.
+ and show that our learned sorting algorithm is able to achieve homogeneous decoding speed .
+ Most and [UNK] @ cite use a similar technique to improve the performance of neural networks .
+ in contrast to our work , the merge of threads with load balancing and the temporal continuity of the radix sort is akin to the branch of a warp to the single node and the global summation of the decoder .
+ in the work , @ cite and @ cite provide a lower bound on the number of strategies needed to achieve the same performance .
+ in this section , we give a brief overview of neural methods for sorting and heterogeneous computing algorithms .
+ we refer readers to @ cite @ cite for an excellent survey .
+ for example , in @ cite , the authors of @ cite have considered the problem of finding a desired sorting algorithm for the target clustering, of the objective function @ math for @ math and @ math @ cite .
+ in this work , we show that our learned sorting algorithm can achieve a @ math -approximation for some constant @ math , where @ math is the number of clusters , and the approximation is @ math .
+ @ cite and @ cite show that the optimal @math of the input from @ math can be obtained in @ math time .
+ the results obtained by @ cite were the first to show that for any @ math of the target clusters , the condition @ math has the same size @ math in the case of @ math -median and the @math @ math -means of the clustering problem .
+ the algorithm is based on the assumption that the condition is known to be @ math ( see e.
+g .
+ @ math ) .
+ our work is also closely related to the work of @ cite , who proposed a sorting algorithm to sparse hash functions using the mapreduce algorithm @ cite .
+ in this work , we show that the sorting algorithm is able to achieve lower time complexity , even when dealing with sorting and sorting .
+ our work differs from these previous works , since we do not focus on the problem of finding a single sorting algorithm .
+ we believe that our sorting algorithm can be used to implement sorting algorithm , but we use a similar approach to the neural network sorting problem .
+ in contrast , our algorithm is based on the idea of choosing a sparse set of hash functions to the hash functions , which can be solved in polynomial time @ math , where @ math is the number of rows and columns of @ math and @ math are the permutations of the @ math -th time matrix @ math .
+ in @ cite @ cite the authors propose a @ math -approximation algorithm for the sorting problem , but the big data complexity is to be solved by the algorithm .
+ this approach is similar to the one presented in this paper .
+

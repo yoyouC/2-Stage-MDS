@@ -1,0 +1,44 @@
+multi-view label propagation @ cite has been proposed for zero-shot learning @ cite @ cite .
+ in this section , we present a brief review on the problem of transfer learning in transductive learning .
+ we refer the readers to @ cite for a comprehensive survey of the most relevant research related to this work .
+ the most related to our work are the work of @ cite , where the authors propose a multi-view hypergraph label propagation approach to learn the proper embedding of the image feature space and the semantic representation space of multiple representation spaces .
+ in @ cite the authors learn a discriminative semantic representation of the semantic representations and takes into account the complementary information offered by the manifold structures .
+ in zero-shot learning , the regressor is learned from the source and target data to learn a mapping from the semantic feature space to the target class, encoder .
+ the difference between the learned features and discriminative features is learned jointly by aligning the embedding into a coherent embedding space .
+ in contrast , our work is fundamentally different to the transductive setting , which exploits the fact that the learned regressor feedback is able to learn discriminative features .
+ the hubness problem has been studied extensively in the literature .
+ for example , @ cite @ cite proposed a sparse coding framework to learn the similarity between the image feature space and the discriminative target domain projection .
+ @ cite , the authors propose to learn a joint embedding from the source domain to the semantic space of a target class of a sample and the semantic word embedding space .
+ the regressor in @ cite is learned from the target domain class labels' and the similarity measure between the source and target domains .
+ the authors of @ cite use a similar approach to learn an embedding for zero-shot learning .
+ in this work , we use cca @ cite to learn discriminative features and learn a discriminative latent embedding space for object categories .
+ in contrast to our work , our approach is based on the assumption that the proper embedding can be expressed as a mapping between both object and action feature space .
+ our work is also related to the work of zhou al @ cite who proposed an unsupervised approach to jointly learn the attributes of images and images .
+ however , they did not consider the problem of transductive learning .
+ in the last decade , there has been a growing body of work on transfer learning @ cite @ cite .
+ in @ cite , the authors propose to learn the samples from the image feature space and the semantic space of a class of the space spanned by a conditional random field .
+ @ cite proposed to learn an embedding of the reconstructed image and the discriminative features to the unseen classes .
+ in this work , we use a similar approach to the generalized zero-shot learning setting .
+ in contrast to our work , our approach is based on the assumption that the learned features are aligned with the novel class space , which can be expressed as a mapping between the image and semantic space .
+ our approach can be seen as an extension of the concept of zero-shot learning in the context of transductive learning , where the objective function is minimized in terms of the number of samples in the discriminative embedding space .
+ this approach has been shown to be useful in a variety of domains , such as image classification @ cite and semantic labeling @ cite to learn discriminative features .
+ in particular , we focus on the state of the art in this setting .
+ Zero-shot al @ cite use the encoder-decoder framework @ cite to learn the mapping between the image feature space and the semantic space of the semantic embedding space .
+ in @ cite , the authors propose to learn a projection from the feature space of a visual feature space to reconstruct the visual feature.
+ .
+ the learned features are used to learn discriminative features from the seen classes .
+ in this work , we learn the proper embedding of the discriminative embedding space and learn a discriminative embedding for object categories .
+ the unseen samples are extracted from the source and target samples , which can be used to transfer the reconstructed features .
+ our approach is similar to that of @ cite and @ cite .
+ our work is also closely related to the transductive setting , where the goal is to minimize the discrepancy between the target and both unseen classes and the discriminative features .
+ in contrast to our approach , our approach can be seen as an extension of the encoder to learn latent representations of the image and semantic space, .
+ the difference is that the generative model is learned from the latent space , which allows us to integrate the semantic gap between both image feature and semantic distances .
+ ZSL et al @ cite proposed a calibration factor for generalized zero-shot learning in the context of zero-shot learning (ZSL) @ cite .
+ the authors of @ cite present an approach to learn the classifiers for both seen and unseen classes from seen classes .
+ @ cite , the regressor feedback model is used to learn discriminative visual features , which can be used to enhance the quality of the classifiers .
+ in @ cite the authors propose a method to adapt ZSL approaches to calibrate the classifiers to balance two inter-class distances between the image feature space and the discriminative embedding space .
+ in this work , we use cca to learn a discriminative embedding from the image manifold space , and learn the discriminative features from the source and target samples into the discriminative semantic space .
+ we use a similar approach to calibrate and characterize the class-representative features in the semantic space of the unseen classes .
+ in contrast , our approach is based on the assumption that the learned features are aligned across different categories .
+ we show that our approach can be seen as an extension of our work to the problem of learning data belong only to unseen novel samples .
+

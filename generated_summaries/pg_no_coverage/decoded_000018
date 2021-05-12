@@ -1,0 +1,32 @@
+there are several works on implicit surface deformation learning @ cite @ cite .
+ in @ cite , the authors propose a method to learn a shape representation of parametric surface patches from multiple domains .
+ @ cite use feature projection and unprojection to estimate the correspondences between the image and the collage of the shape of the regressors .
+ in contrast to our approach , @ cite and @ cite are able to adapt the optimisation framework to learn the elementary structures from multiple images .
+ in this work , we propose a novel tree splitting approach to represent shapes as the deformation and appearance of the problem .
+ we use a similar approach to address the problem of unconstrained face alignment in the context of synthesizing arbitrary correspondences between scans and the topology of higher dimensions of the image .
+ our work is also closely related to the work of zhou al @ cite who show that the learned objective is to be able to reconstruct a smooth result, relation .
+ however , this approach does not require a specification of the resolution of the classes of atoms , and is not applicable to the single case .
+ authalic has also been used to visualize the locations of a set of surface normals @ cite @ cite .
+ in this work , we use the authalic parametrization @ cite to learn a shape representation of the authalic map on a spherical surface .
+ in contrast , we do not impose any restrictions on the deformation of the part of the objects , which is our primary focus on this work .
+ we use a similar approach to learn the elementary structures of shape shape generation from a given calibrated shape space @ cite , and the synthesis procedure @ cite has been proposed to reconstruct the 3D shape of the shape .
+ however , this approach does not require a specification of the geometry and the surface normals , which can be seen as a special case .
+ in @ cite the authors show that the learned representation is given by a convolutional neural network ( cnn ) .
+ the difference between our approach and the deconvolution model is inspired by the work of @ cite and show that it is fundamentally different to our approach , in the sense that our approach is able to capture the topology of 3D objects .
+ many approaches have been proposed to address the problem of abstracting complex shapes into shape and shape descriptors @ cite @ cite .
+ for example , @ cite proposed a method for matching two dimensional shapes , using the eigenvalues of the diffusion operator.
+ This .
+ @ cite , the authors propose a method to discover consistent patch deformation learning and unit hypersphere normalizations to the two instances of the embedded ShapeNet .
+ in contrast , our work is fundamentally different from theirs in that we do not assume that the structures of shapes are separated into a collection of transformations such as shape and texture .
+ our approach is similar to our work , but our work differs from the work by @ cite who proposed a learning approach to predicting shapes of human bodies in shape spaces .
+ we use a similar approach to ours .
+ in this work , we use (ii) point translation @ cite to estimate the correspondences between scans and estimating the deformation of the shape of an object .
+ the difference between our work and the work of @ cite and @ cite is the closest work to ours in terms of surface deformation and the deformation consistency problem .
+ there has been a growing body of work on the topic of deep learning @ cite @ cite .
+ in this work , we focus on the problem of represent colored 3D in the form of a 3D universe @ cite , and the goal is to learn a joint representation of the shapes @ cite and the deformation of the template @ cite or using a conditional latent space @ cite to infer the shape of the object in the input space .
+ in contrast to our approach , our approach is based on the assumption that the correspondences between the input and output are inferred from a given calibrated image .
+ in @ cite the authors propose a method to learn joint representations from multiple views of a freeform text and the physical 3D of human meaning .
+ the work of @ cite is the closest to our work .
+ their work is similar to ours in the sense that the training set is restricted to the clusters of the original image , and then the prediction of the model is learned from the input image .
+ @ cite use a deformable model to describe the relationships between language and grounding .
+

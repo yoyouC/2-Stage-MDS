@@ -1,0 +1,12 @@
+In recent years, there have been a lot of research on learning with label proportions (LLP) @cite , which is a learning task that only provides unlabeled data in bags and each bag's label proportion is assumed to be independent of the label proportion .
+ In this paper, we propose a transfer learning-based approach to transfer knowledge from source and target tasks to target task .
+ We first formulate the problem of learning with distribution proportions as a learning problem, and then formulate it as learning from label proportions(LLP-NPSVM), which is the straightforward one where individual-level attributes are latent variables .
+ We also introduce a message-passing algorithm to extend cardinality potentials to multivariate probability models .
+ Domain adversarial learning (DAN) @cite is a learning-based approach to transfer knowledge from one domain to another .
+ The main idea of DAN is to minimize the discrepancy between the source and target domains by minimizing the difference between the distributions in the source domain and the target domain .
+ DAN has been successfully applied in many computer vision tasks, such as image classification @math , object detection @math and object recognition @math  .
+ In DAN, the adversarial network @math is trained to maximize the distance between the target and the source domains .
+ The adversarial networks @math are trained to learn the discriminative features of the target class and the discriminator classifier classifier @math can be trained to discriminate between the In @cite , the authors proposed a method for learning with label proportions (LLP) based on non-parallel support vector machines, termed as proportion-NPSVM, which can improve the classifiers to be a pair of nonparallel classification hyperplanes .
+ The authors also proposed an iterative framework to solve the optimization problem .
+ In this paper, we propose a transfer learning-based approach for the problem of learning with Label proportions (TL-LLP), which is capable of constructing an accurate classifier on the target task by transferring knowledge from multiple source tasks to target task .
+

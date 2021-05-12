@@ -1,0 +1,8 @@
+there has been a growing body of work in the area of crowd scene understanding , such as @ cite @ cite , @ cite and @ cite .
+ in this paper , we focus on the problem of individual pedestrian motion in a group of pedestrians , which can be used to estimate the motion of the individuals .
+ in @ cite the authors propose to predict the desired velocity of crowd walking , which is based on the assumption that the pedestrian keeps pedestrians of the pedestrians .
+ the authors of @ cite use a similar approach to pedestrian behavior .
+ @ cite proposed a novel model that is able to predict pedestrian patterns from the interactions between humans and vehicles .
+ in contrast of our work , we do not attempt to provide a specific approach to describe the crowd motion models in the presence of nearby pedestrians , and we believe that a key difference between point-mass groups and the collective motion of a pedestrian dataset is essential for autonomous pedestrian motion .
+ we have also shown that there is a large body of literature on video pedestrian walking and abnormal pedestrian detection in urban areas .
+

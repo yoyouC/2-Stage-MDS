@@ -1,0 +1,21 @@
+In @cite , the authors proposed an online video stabilization method based on a deep neural network .
+ The authors proposed a method called StabNet, which is a spatial smooth sparse motion field with motion vectors only at the mesh vertexes .
+ The MeshFlow motion field is produced by assigning each vertex an unique motion vector via two median filters .
+ The path smoothing is conducted on the vertex profiles, which are motion vectors collected at the same vertex location in the MeshFlow over time .
+ The proposed method is able to handle night-time and blurry videos, where existing methods fail in robust feature matching .
+ Video stabilization has been extensively studied in the past few years .
+ In @cite , the authors proposed a video stabilization method based on the particle filtering framework .
+ The particle filter is used to estimate the affine model of the camera motion, and the motion inpainting is applied to enforce spatial and temporal consistency of the stabilized video .
+ The proposed method can be viewed as an extension of the particle filter framework .
+ In this paper, we propose a data-driven method for video stabilization, which can be used for deep learning .
+ In addition, we use a paired dataset for training deep learning networks .
+ In @cite , the authors proposed a method for automatically applying constrainable, L1-optimal camera paths to generate stabilized videos by using a spatial-temporal analysis and fill in missing regions by motion completion .
+ The authors also proposed a motion model to remove the unwanted camera vibration and reconstruct a stabilized video sequence with good visual quality .
+ However, their method requires explicit feature tracking or optical flow estimation to stabilize the frame, which is not always possible in real-world scenarios .
+ In @cites , the method is proposed to solve a video stabilization problem by minimizing the first, second, and third derivatives of the resulting camera path .
+ Video stabilization has been extensively studied in the past few years .
+ In @cite , the authors proposed a two-stream Convolutional Networks (ConvNets) for video summarization .
+ The main difference between their work and ours is that they use a multi-scale CNN for video stabilization, whereas we use a CNN for stabilization .
+ In contrast, our method uses a CNN to process each unsteady frame progressively, from low resolution to high resolution, and then outputs an affine transformation to stabilize the frame .
+ In addition, we use an optical flow estimator to estimate the affine transform, which is not explicitly trained in the contents .
+

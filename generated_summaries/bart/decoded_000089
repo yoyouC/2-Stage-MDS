@@ -1,0 +1,11 @@
+The problem of learning from imbalanced data has been extensively studied in the literature .
+ In @cite , the authors proposed an ensemble method to handle imbalanced binary data .
+ The ensemble method is based on the assumption that the data distribution is imbalance-distributed .
+ However, the ensemble method requires prior-knowledge to train the system, which limits its applicability in many real-world applications .
+ To address this problem, some researchers have proposed ensemble methods, which firstly converts an imbalanced dataset into multiple balanced ones and then builds a number of classifiers on these multiple balanced data .
+ In this paper, we propose a unified framework to online adaptively adjust the sampling strategy and loss learning in single batch .
+ Recently, there has been a surge of interest in online learning for human attribute analysis .
+ @cite proposed an online learning algorithm for maximizing Area Under the ROC curve (AUC), a metric that is widely used for measuring the classification performance for imbalanced data distributions .
+ In this work, we propose a unified framework called Dynamic Curriculum Learning (DCL) to online adaptively adjust the sampling strategy and loss learning in single batch, which leads to better generalization and discrimination .
+ Inspired by the curriculum learning, we introduce two level curriculum schedulers: (1) sampling scheduler, which manages the learning importance between classification and metric learning loss, and (2) loss scheduler that controls learning importance .
+

@@ -1,0 +1,9 @@
+the stabilization of two-view triangulation has received considerable attention in the last few years .
+ for example , @ cite proposed a method for estimating the physical stabilization of stereo images using a fisheye stabilization .
+ @ cite presented a method to enhance the resolution of inertial object motion in the context of two-view multidimensional triangulation .
+ in @ cite , the authors proposed the use of projective scene reconstruction for We, stabilization and synthesize relevant camera motion trajectories based on the relative motions of the room .
+ the authors of @ cite use fisheye effects, images to estimate the dynamics of a stereo camera based on a set of backprojected models .
+ the work of chen @ cite and [UNK] @ cite have attempted to address the problem of spatial and viewpoint variation in the stereo space .
+ however , these methods are not suitable for two-view triangulation , since they assume piece-wise stereo matching , which is not readily available for object class detection .
+ in contrast to these methods , we use fisheye @ cite omnidirectional two-view triangulation methods , which can be broadly categorized into two main categories : indirect methods , indirect and clustering-based methods .
+

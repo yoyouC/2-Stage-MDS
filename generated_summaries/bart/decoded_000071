@@ -1,0 +1,8 @@
+In @cite , a multi-parameter cognitive radio network (CRN) is proposed, where the primary user (ST) is responsible for the spectrum sensing, and the secondary user controls the spectrum access process .
+ The authors proposed a two-stage spectrum sensing scheme for a CRN where the main user (PT) is the primary transmitter, while the secondary users (STs) are responsible for spectrum sensing .
+ The proposed multi-level sensing scheme is based on Bayesian machine learning (BML), where the authors exploit the mobility of multiple SUs to simultaneously collect spectrum sensing data and cooperatively derive the global spectrum states .
+ In @cite , the authors proposed a multi-parameter cognitive radio network (CRN) where the primary transmitter (PT) radiates multiple transmit power levels, and the secondary transmitter (ST) has the same transmit power level .
+ The authors proposed an algorithm to maximize the spectrum utilization of the primary users in a CRN where the interference channel information and power strategy information are available to the PUs .
+ The proposed algorithm is based on a mixed-integer linear programming (MILP) algorithm with a suboptimal complexity .
+ However, the proposed algorithm does not require any prior knowledge of the PT power characteristics .
+

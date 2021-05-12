@@ -1,0 +1,8 @@
+There have been several attempts to extend the OpenAI Gym Wrappers concept to MARL scenarios .
+ @cite , the authors present an interface that can be embedded into any mobile device .
+ However, these interfaces are not designed for MARL environments .
+ In contrast, we provide a modular design, which can be concatenated and combined in two ways .
+ First, the interfaces can be combined into a single modular design .
+ Second, the interface can be integrated into any MARL platform .
+ For example, in the recent work of @math , @math and @math are embedded into a mobile device, respectively, and the interfaces are designed to support self-play RL and cooperative-competitive hybrid MARL .
+

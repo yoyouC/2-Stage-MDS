@@ -1,0 +1,10 @@
+there has been a growing body of work on dialogue management @ cite @ cite and spoken dialogue systems @ cite .
+ there are two main approaches in spoken dialogue management , focusing on retrieving optimal policies for spoken language systems .
+ in contrast , our work aims to recognize noises and dialogue examples in task-oriented dialogue systems , which can be modeled as a problem of dialogue policy optimization.
+ .
+ in @ cite , the authors present a two-step approach for retrieving real-time, spoken dialogue policies using a set of approximate dynamic programming algorithms .
+ @ cite proposed a method to learn a dialogue system from a database of dialogue data , but they do not consider the dialogue strategies of the dialogue management system .
+ the work of @ cite considers the problem of estimating an behavior of real users, and the behavior of the unified neural network .
+ in this work , we focus on retrieving a representation of the value of a dialogue policy , which is related to our dialogue norm , and the goal is to predict whether a dialogue manager can be used to infer the behaviour of the system .
+ our approach relaxes this requirement of future work .
+

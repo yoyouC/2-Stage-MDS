@@ -1,0 +1,24 @@
+In this paper, we focus on the task adaptation problem in object recognition. 
+ In the recent work @cite , a neural network is trained to predict the distribution of the source and target domains in the target task @cite . 
+ This method was extended in @cite to reduce the number of domains by using the Maximum Mean Discrepancy (MMD) measure of the target domain. 
+ The authors of @cite propose a regularization method that is able to learn a distribution in the latent space of a target task with a regularization loss and a regularization term for transfer learning with the objective function in @cite . 
+ The authors in @cite @cite proposed an adaptive regularization model that is based on the gradient norms of the target In @cite , the authors propose a simple multi-objective model for transfer learning, but it is computationally expensive and computationally expensive when it comes to a large number of normalization and needs a large amount of training data to train the network. 
+ In contrast, we show that our regularization can be used to improve the performance of deep convolutional neural networks with limited training data @cite . 
+ We also show that this is an effective alternative to transfer learning @cite . 
+ In this paper, we focus on the problem of neural networks on neural networks in the sense that we do not require any input data to be trained on the target task @cite @cite @cite . 
+ In contrast, our approach is more general and can be used for multi-label classification tasks. 
+ In contrast, we propose to use regularization to learn the regularization of a target domain in the target domain. 
+ In our work, we propose a novel self-supervised model that can be applied to multi-label classification tasks by using a deep neural network to learn a pretext model for each task. 
+ Our work is also related to @cite , where the authors propose a collection of non-negative stochastic gates, which is able to improve the performance of the model on the training dataset. 
+ In this work, we show that our method is more effective than the in our experiments. 
+ Our work differs from theirs in two aspects. 
+ First, we use the distribution of the training data to train a model to train the network and learn a new model for the task of pretext task. 
+ Our method is similar to that of @cite , which we use stochastic as we do. 
+ In this section, we give a brief introduction to our work in this section. 
+ Here we refer to the recent work by @cite and @cite . 
+ In our work, we focus on the use of a network that can be seen as a generalization of our method. 
+ Our goal is to learn a mapping from the training data to a target task instead of using the training data, which is more relevant to our work. 
+ However, we are interested in generating a network to a network and then use the learned regularization strategy to improve the performance of transfer learning algorithms for transfer learning, and the results in our work are quite different from the ones presented in @cite @cite @cite . 
+ The main difference of our approach is that we do not require any additional training data, and do not consider the regularization of the target task in the target domain. 
+ We show that this approach has not been studied in the context of neural networks, and it is not clear how this approach can be adapted to the case of network and K-FAC) @cite @cite , which has been shown to be effective for regularization @cite . 
+

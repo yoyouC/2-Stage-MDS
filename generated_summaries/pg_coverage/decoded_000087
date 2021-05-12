@@ -1,0 +1,9 @@
+the use of monolingual data for cross-lingual language models has received significant attention over the last decade @ cite @ cite .
+ however to the best of our knowledge , there is no prior work on cross-lingual language modeling and supervised machine learning for unsupervised statistical machine translation .
+ for example , @ cite proposed a new cross-lingual language model for pairing monolingual training data .
+ @ cite use a similar approach to learn the monolingual data using a language model based on monolingual data .
+ in contrast to our work , we use parallel data to train multilingual language models to learn cross-lingual representations for the monolingual task .
+ our work is also related to the work in @ cite and @ cite , where the authors present a cross-lingual contrast of unsupervised and supervised learning for phrase-based mt .
+ however outperforming these works , we tackle the problem of cross-lingual language learning , rather than being available in the context of the monolingual scenario .
+ we believe that our approach differs from the above mentioned work in the following aspects of the models, and the latest advancements in the field of automatic language generative neural machine learning .
+

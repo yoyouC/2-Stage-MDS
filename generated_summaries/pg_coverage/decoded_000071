@@ -1,0 +1,17 @@
+there has been significant interest in the field of opportunistic spectrum sensing in the context of cognitive radio networks @ cite @ cite .
+ the authors of @ cite studied the effect of spectrum availability in a cognitive radio network .
+ @ cite investigated joint design of spectrum bands in a spectrum allocation strategy to maximize the capacity of the sensing time and energy consumption .
+ in @ cite , the authors proposed a variance-based spectrum decision process based on a separation of spectrum allocation and contention in the uplink power of the spectrum allocation process .
+ however by @ cite and @ cite the authors did not consider the fundamental characteristics of spectrum access in a heterogeneous environment .
+ in this paper , we aim to investigate the impact of the colliding and prediction service of the cognition problem , where the primary focus of this paper is to disclose the spectrum availability of static spectrum sensing .
+ in addition , we consider the problem of instantaneous spectrum access and priority sensing , which is the focus of our work , as well as the status of erroneous sensing time , and the robustness of the constrained spectrum .
+ there is a large body of work on power control , such as @ cite @ cite , @ cite and @ cite .
+ in the context of cellular networks , the authors of @ cite proposed a joint scheduling and power control algorithm for the deployment of a cellular network .
+ however to the best of our knowledge , none of these works have considered the problem of spectrum access (the in the wireless network .
+ in our work , we focus on the cognition and prediction of opportunistic sensing , which is fundamentally different to our work .
+ in contrast , our work aims to maximize the frequent exchange of the sum-rate maximization problem in the incomplete-information power control game , where the primary focus of this paper is the alignment between decision trees and uniqueness .
+ the authors in @ cite use a set of transmitters and transmit power to jointly characterize spectrum usage.
+ and transmission rates .
+ @ cite studied the effectiveness of the game model in a distributed power control system , while @ cite investigated the effect of power control for an infrastructure-based set of channels in the unserved case .
+ however by @ cite for the case where the number of subscribers is assumed to be covered in a single carrier scenario , it is not clear how to improve the performance of scheduling algorithms .
+

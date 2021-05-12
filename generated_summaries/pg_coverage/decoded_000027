@@ -1,0 +1,18 @@
+a decentralized approach for cooperative reinforcement learning has been proposed in @ cite @ cite , where the goal is to optimize the reward function for each agent 's goals .
+ in this case , the goal of learning cooperative policies is to maximize the distance between other agents in the context of the environment .
+ @ cite propose a multi-agent learning algorithm to train a goal-conditioned stream of replication strategies for partially observable domains .
+ however reinforcement learning is not considered in the rl literature @ cite .
+ in contrast to our work , we aim to learn a reward function that reflects the contributions of individual agents , which is similar to our approach , which integrates the joint reward function and optimizes the optimization of system health and partial reward.
+ credit assignment .
+ deep reinforcement learning ( rl ) approaches have also been used for action policies @ cite and policy gradient @ cite that can be used to optimize an agent 's policy .
+ however , these algorithms are not applicable to multi-agent control systems , but do not address the issue of policy gradient methods for policy gradient .
+ we believe that our proximal policy optimizes the reward of the policy and reward shaping .
+ active learning has been successfully applied to multi-agent credit assignment in the context of health @ cite @ cite .
+ in this work , we use active learning to optimize the reward function for multiple agents , which is similar to our work , as well as the use of policy gradient methods to solve the problem of system health problems in health scenarios .
+ our work differs from theirs in the sense that we aim to query the demonstrator for a reward function , while our algorithm does not require any initial state of the environment , which limits the convergence of the policy .
+ our approach is also related to the work in @ cite , where the goal is to maximize the learning.
+ of the demonstrator .
+ however provided in this paper , we assume that the demonstrator health is much more close than the reward threshold .
+ we show that particle environments can be used as a baseline of the proximal policy algorithm , and show that the policy gradient can be computed analytically .
+ however problems, , we do not consider the joint distribution of individual agents in a principled way to account for the contributions of reward function .
+

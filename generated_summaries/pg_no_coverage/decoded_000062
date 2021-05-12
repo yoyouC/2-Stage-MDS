@@ -1,0 +1,34 @@
+the problem of learning cooperative policies in partially observable environments has been proposed in @ cite @ cite .
+ @ cite proposed a multi-agent multi-agent reinforcement learning algorithm for tackling the catastrophic forgetting problem using a set of data.
+ These forgetting functions .
+ the work of @ cite is the closest to ours in the context of deep deep reinforcement learning .
+ in this work , we focus on the catastrophic setting where the reward of a policy is learned from a cascade of hidden states .
+ we show that our approach can be seen as an extension of the dropout dropout @ cite method to transfer knowledge between tasks .
+ in contrast to our work , this work is the first to address the issue of forgetting with a small number of training examples .
+ we use a similar approach to meta-learning @ cite to learn the old policy .
+ we believe that our model is more agnostic to our approach , since the goal is to maximize the likelihood of the activation function @ math .
+ our work is similar to that of , @ cite and @ cite , who proposed an algorithm to learn cooperative meta-learning .
+ multi-task learning has also been applied to catastrophic forgetting @ cite @ cite .
+ in this work , we use guided policy search @ cite to maximize changes in the distribution of the policy .
+ in contrast , our approach is based on the idea of choosing expert demonstrations to the timescale of a cascade of hidden states .
+ the goal is to learn a model of the dynamics of the actor , and learn the acting on the physical state of the observations .
+ in @ cite , the authors propose a method to learn control policies in a reinforcement learning framework .
+ this approach has been used in the context of reinforcement learning @ cite and learning to map raw images into a discrete space of @ math and @ math .
+ for example , @ cite shows that @ math , where @ math is the number of timescales , and @ cite introduce a similar approach to the maximum entropy reinforcement learning ( off-policy ) learning .
+ this work is also closely related to off-policy correction , but in the work of @ cite which is similar to our approach , in contrast to our work , to the best of our knowledge .
+ imitation learning has also been used for catastrophic forgetting @ cite @ cite .
+ in this work , we use deep reinforcement learning to learn a mapping between the hidden states and the state space , and learn a nonlinear feedback policy from a cascade of state-action pairs .
+ in contrast to our approach , the model is able to predict the next state of changes in the distribution of the policy and the current state of the agent's policy .
+ the difference between our approach and the work of @ cite is the closest to our work , but it is incompatible with the continual learning of the model , which allows the model to be able to define the cascade of a range of timescales .
+ this approach has been proposed in @ cite , where the goal is to learn the agent's policies from a discrete set of observations in a discrete space .
+ our approach is similar to ours .
+ however , in this paper , we do not consider the catastrophic forgetting problem , but our approach differs from ours in that it does not address the problem of forgetting across multiple timescales , and we believe that the ability to generalize to unseen policy is not straightforward .
+ there have been a number of work on catastrophic forgetting @ cite @ cite .
+ in this work , we focus on the catastrophic forgetting of the learning process , which is related to our work .
+ in @ cite , the authors show that the learned policy is agnostic to the timescale of a cascade of hidden units in a neural network .
+ in the context of multiple tasks , the goal is to learn a joint distribution of the sensory policy and the reward function .
+ in contrast to our approach , this work is based on the assumption that the states of the state of the policy network are learned .
+ the difference between our work and the work of @ cite and @ cite is the closest work to ours .
+ in particular , they propose to use a generator to control the association between the source and target domains , and then train a collectively model to predict the range of tasks in a given task .
+ @ cite use a similar approach to the joint training setting , but in our work , they use a shared policy that is able to solve the problem of forgetting across timescales .
+

@@ -1,0 +1,19 @@
+comparative simulation tools have been proposed for large-scale networks @ cite @ cite .
+ the authors of @ cite present a comparative analysis of the existing ones for the IoT placement of Things devices .
+ @ cite proposed a graphical security model based on (3D) placement and mobility patterns for the deployments of multiple sensors .
+ in @ cite , a multi-objective genetic algorithm was used to identify the optimal mobility patterns in the network .
+ in this work , we use a graphical model to derive the optimal deception of the resource allocation problem , which is the main focus of our work .
+ in contrast to our work , this paper investigates the security of the strategic deployment of security resources in the context of deception and privacy , and we address the problem of finding the optimal deployments of deception against the entry between the locations of the active IoT devices and the deployment of the optimization problem .
+ we refer to @ cite and @ cite for a more comprehensive review of the current work in the area of budget theory .
+ in the following , we review the most relevant work related to the present work in this paper .
+ a number of studies have been conducted to address the problem of cloud computing .
+ for instance , @ cite proposed a graphical security model for IoT (IoT) , with a focus on DoS defense mechanisms for the IoT of (IoT) devices .
+ @ cite present a novel approach based on a graphical model to measure the effectiveness of defense mechanisms .
+ in @ cite , a multi-objective genetic algorithm is used to detect the defense of the solution .
+ the proposed approach is able to increase the deployment of people in the proportion of vulnerabilities .
+ the work of @ cite @ cite considers the concept of patch management in online servers .
+ however to the best of our knowledge , no previous work has been conducted in the context of the IoT system @ cite .
+ in the present work , we focus on the application of graphical models for deception analytics , while we aim to provide a rigorous solution to organize the cloud into a network .
+ we believe that our attack can be seen as a special case of the future work .
+ in particular , we show that the GA of the multi-objective optimization problem can be used to optimize the security and efficiency of GA provisioning .
+

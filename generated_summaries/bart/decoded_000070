@@ -1,0 +1,4 @@
+The problem of 3D human pose estimation from monocular images has been extensively studied in the computer vision community @cite  .
+ In this work, we focus on the problem of egocentric 3D body pose estimation, which is a challenging problem due to the high uncertainty in the 2D joint locations in the images captured from a downward looking fish-eye camera mounted on the rim of a head mounted virtual reality device .
+ In this paper, we propose a novel encoder-decoder architecture with a novel dual branch decoder architecture designed specifically to account for the varying uncertainty in 2D joints .
+

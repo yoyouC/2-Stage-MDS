@@ -1,0 +1,17 @@
+Transformer-based sequence-to-sequence models have been shown to be Turing-complete in many NLP tasks, such as machine translation @cite , natural language processing (NLP) and machine translation (MLP) .
+ The main difference between these two tasks is that Transformer is trained with a pre-trained BERT and GPT-2 checkpoint, while the GPT2 checkpoint is trained using the publicly released BERT .
+ In this paper, we focus on the first step of the pipeline, which is pre-training with the publicly available BERT-2 checkpoints .
+ We have run over 300 experiments spending thousands of TPU hours to find the recipe that works best and demonstrate that it results in new state-of-the Early work on sequence-to-sequence models was mainly based on pre-trained BERT @cite and the GPT-2 @math checkpoints .
+ The pre-training of these models was limited by the large amount of training data and the large number of experiments .
+ In recent years, there has been a surge of interest in pre-training large neural models for various NLP tasks, such as machine translation, summarization and sentence splitting .
+ In this paper, we focus on the first step of the pipeline .
+ We have run over 300 experiments spending thousands of TPU hours to find the recipe that works best and demonstrate that it results in new state-of-the-art results .
+ Early work on sequence-to-sequence models is mainly based on recurrent neural networks (RNNs) @cite , which have achieved state-of-the-art results on a wide range of NLP tasks, such as machine translation, language modeling and speech recognition .
+ In the past few years, RNNs have been widely used in NLP for various tasks such as language modeling, speech recognition and language processing .
+ In this paper, we focus on pre-training large neural models with the publicly available pre-trained BERT and GPT-2 checkpoints for sequence generation .
+ We have run over 300 experiments spending thousands of TPU hours to find the recipe that works best .
+ In @cite , a data driven approach to learn pairwise ordering of sentences is proposed .
+ They collect a large corpus of academic texts, and derive a data-driven approach to learning pairwise order of sentences, and validate the efficacy with extensive experiments .
+ They also validate the effectiveness of their approach on several NLP tasks, such as sentence Splitting and Sentence Fusion .
+ In this paper, we present an extensive empirical study on the utility of initializing large Transformer-based sequence-to-sequence models with the publicly available pre-trained BERT and GPT-2 checkpoints for sequence generation .
+

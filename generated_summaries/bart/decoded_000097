@@ -1,0 +1,8 @@
+@cite proposed an integrated graph approach to represent the contextual relationships among sentences of all the input documents .
+ These sub-graphs consist of sentences that are highly relevant to the query and that is highly related to each other .
+ A scoring model is then ranked by a scoring model .
+ @cite introduced a system called QueSTS, which generates a query-specific extractive summary of a selected set of documents .
+ The integrated graph is then intelligently combined to produce the final summary .
+ This approach greatly reduces the computational complexity .
+ In this paper, we propose an extractive summarization method which leverages the semantic information in existing sentence embedding spaces .
+

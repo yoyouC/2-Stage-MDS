@@ -1,0 +1,44 @@
+recently zero-shot learning has drawn a lot of attention in the literature @ cite @ cite .
+ in the domain of zero-shot learning , @ cite proposed a multi-view hypergraph label propagation method to learn the proper embedding of the image feature space and the manifold structures of multiple representation spaces .
+ in @ cite , the authors proposed to learn a mapping between an image and the semantic embedding space , which is then used to learn discriminative features .
+ @ cite employ a novel multi-view vae model to jointly learn the semantic representations of the target dataset .
+ however to the best of our knowledge , the most related work to ours is the semantic representation of the learned features for each target dataset , which can be used for zero-shot learning .
+ however that the synthesized encoder is aligned in the transductive setting , where the decoder is trained on the target domain data .
+ in contrast to our work , we learn a discriminative embedding autoencoder for ZSL.
+ learning , rather than using deep learning to learn features from the source and target domains , respectively through the use of the manifold and the feedback model .
+ zero-shot learning @ cite @ cite and semantic embedding @ cite have been proposed to learn the mapping between the source classes and target domains .
+ @ cite proposed a sparse coding framework based on the target domain adaptation framework .
+ the authors of @ cite propose to learn a joint embedding of an unseen class of a target class of the attributes and the source domain embedding space and the similarity between the learned target domain and the semantic space of the image feature space .
+ in @ cite , the authors proposed a novel sparse coding approach to jointly learn the projection of the probability distributions of the two domains .
+ however shift tends to be tackled by imposing constraints on the source and target domain features .
+ in contrast to our work , we aim to learn discriminative features from the image domain to the discriminative embedding space , which can be categorized into two main classes : the essence of semantic embedding space ( nss ) and side information ( e.
+g.
+ and covariance matrix ) , and ( 2 ) space feedback model .
+ the hubness problem has been addressed in the context of domain adaptation @ cite .
+ recently , deep learning based methods have been proposed for image classification @ cite @ cite and classes.
+ @ cite .
+ however to the best of our knowledge , the most related work to ours is the work of zhou al @ cite , who proposed a generative model based on a semantic descriptor to learn a mapping between the class attribute space and the semantic space of the image space .
+ @ cite proposed a method to learn the class-level semantic information, offering a zoom class of unseen classes in the real world .
+ however where the goal is to find the discriminative features of the class space , it is possible to learn discriminative representations for the novel class of models .
+ in contrast to our work , we use a more principled approach to the domain of the autoencoder , which allows us to train a mapping model to a discriminative embedding space .
+ however in the context of zero-shot learning , there is a large body of work in the area of transductive learning , which has a wide range of applications in computer vision and computer vision tasks .
+ for example , @ cite propose a set of class-conditional feature descriptors that capture the structure of objects in the image domain .
+ zero-shot learning @ cite @ cite and semantic embedding @ cite have also been used for zero-shot visual recognition @ cite .
+ however , these methods are usually only applicable in the domain of image categories , which are not available in the context of zero-shot learning .
+ in our work , we aim to learn the proper embedding of the learned features from the source domain and the semantic representation of the image feature space , which is then used to learn a discriminative embedding space for ZSL.
+ encoder .
+ the feedback model has also been successfully applied to a wide variety of tasks , such as image classification @ cite , semantic loss @ cite subspace alignment @ cite learns a mapping between the two domains , and the most related work in this domain is the work of @ cite where the authors use a feed-forward neural network ( cnn ) to encode the source and target domains into a canonical semantic space .
+ however 4.
+0 , this approach requires a large amount of data to train the embedding of a source domain to the target domain .
+ in contrast , our approach is based on the use of the autoencoder to solve the zero-shot learning problem .
+ semantic embeddings have been widely used in the context of zero-shot learning @ cite @ cite .
+ @ cite proposed a method to learn the visual features of the image feature space and then converted to a discriminative embedding space for each modality .
+ the authors of @ cite present a calibration factor model for generalized zero-shot learning for zero-shot learning .
+ however to the best of our knowledge , this work has focused on the problem of class semantic embeddings , which is not available in the domain of the learned features .
+ in contrast to our work , we aim to learn discriminative features from the image domain , and then use a margin, feedback model to calibrate the learned embedding space feedback model .
+ we use the same idea of our approach to the semantic representation of models for ZSL.
+ encoder .
+ in this paper , we focus on the use of the feedback to learn a discriminative representation for both seen and unseen classes .
+ in particular , we propose a novel class of class related to unseen inter-class and intra-class variations in the learned space .
+ the key difference between our approach and ours is that we use class-representative visual features to belong to the novel classes , which can be viewed as a special case of classifiers .
+

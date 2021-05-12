@@ -1,0 +1,11 @@
+There has been a large body of work on trajectory planning in dynamic environments @cite  .
+ In this work, we focus on the problem of finding a path that minimises the kinematic and dynamic constraints of a legged robot .
+ This problem has also been addressed in the context of robot motion planning .
+ For example, in the case of a quadrupedal robot, the robot has no prior knowledge of the environment, and the robot is able to reach a goal state in minimal time on a collision free path that adheres to kinematics constraints .
+ In this paper, we propose a path planning algorithm that optimises the robot's walking posture while avoiding obstacles .
+ A number of approaches have been proposed to address the problem of human-robot interaction .
+ For example, @cite proposed a system for human-robot interaction, where the robot is able to detect and track humans in the vicinity of the robot .
+ The robot is also able to recognise and track people in real-time using a Qualitative Trajectory Calculus (QTC) framework .
+ However, the QTC framework is not suitable for the task of navigating in confined spaces due to its high degrees of freedom and high degree of freedom .
+ In contrast, our approach allows the robot to adapt its walking posture to navigate in confined environments .
+

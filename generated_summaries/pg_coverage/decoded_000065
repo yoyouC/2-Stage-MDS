@@ -1,0 +1,12 @@
+in the context of deep learning , the use of deep neural networks has been successfully applied to a wide range of computer vision tasks , such as iris recognition @ cite @ cite , computer-aided diagnosis radiology @ cite and iris segmentation @ cite .
+ recently , there has been a large body of work on the performance of iris segmentation .
+ for a comprehensive review of iris recognition , please refer to @ cite for the review of the most comprehensive surveys .
+ in particular , we refer the reader to the surveys of the iris pad challenge in the following section .
+ we divide the section into three main categories : ( 1 ) rgbd images based on the angle between the iris and the occluded ( occluded ) oriented ( frontal ) , low-resolution , and frontal ( svo ) , medical imaging ( viz ) and brief ( 2 ) digital cad models ( e.
+g.
+ arises.
+ ) .
+ in contrast , we are interested in seeing the most important differences in iris recognition .
+ in this section , we review the most relevant work related to iris iris recognition in computer vision .
+ we review previous work on iris segmentation approach , which are reviewed in section .
+

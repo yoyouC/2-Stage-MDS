@@ -1,0 +1,23 @@
+In recent years, there has been a lot of interest in understanding the temporal dependencies between events .
+ @cite proposed a sequence of context words that indicates the temporal relation between two events, which well align with the dependency path between two event mentions .
+ The context word sequence, together with a parts-of-speech tag sequence and a dependency relation sequence, are then provided as input to bidirectional recurrent neural network (LSTM) models .
+ The neural networks learn compositional syntactic and semantic representations of contexts surrounding the two events and predict the temporal relations between them .
+ In this paper, we propose a novel approach for explainable time series tweaking, which is based on interpretability and explainability .
+ The use of time series as temporal features has been widely studied in the literature .
+ For example, @cite used time series to predict taxi demand in New York City .
+ They used entropy and the temporal correlation of human mobility to measure the demand uncertainty at the building block level .
+ Similarly, the authors of @math and @math used temporal correlation between human mobility and taxi demand to predict the taxi demand .
+ In @math , the authors proposed to use the Lempel-Ziv-Welch predictor (a sequence-based predictive algorithm), and the Neural Network predictor ( a predictive algorithm that uses machine learning) for predicting taxi demand at high spatial resolution .
+ In @cite , the authors propose a sequence prediction method based on RNNs .
+ In this work, the authors use a recurrent neural network (RNN) to predict the next event in a sequence .
+ The RNN classifier is trained with a maximum gap between two matching events in the sequence .
+ However, the RNN model is not able to explain the failure of the prediction .
+ In @math , @math and @math are used to predict future events .
+ @math is used to model the temporal dependencies between two events .
+ The authors show that RNN-based approaches can explain failures within a 3-day prediction window with comparable accuracy .
+ In @cite , the authors proposed a Tensor-Train (TT) format to represent the weight parameters based on Tensor Train .
+ They implemented the TT-format representation for several RNN architectures such as simple RNN and Gated Recurrent Unit (GRU) .
+ They compare and evaluate their proposed RNN model with uncompressed RNN on sequence classification and sequence prediction tasks .
+ Their proposed model is able to preserve the performance while reducing the number of parameters significantly by reducing the weights parameters .
+ However, their approach is not suitable for sequence modeling because it requires many computational resources for training and predicting new data .
+

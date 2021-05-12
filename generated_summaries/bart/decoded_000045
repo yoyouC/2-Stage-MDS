@@ -1,0 +1,10 @@
+There have been several studies on the use of VR to enhance social skills in children with ASD .
+ @cite , the authors proposed a VR-based approach to enhance the social skills of children with Autism Spectrum Disorders (ASD) by using facial action coding (FAC) to classify spontaneous facial responses for the group with ASD with the eye-gaze significantly averted (p<0 .
+05) from viewing the face in the visual stimuli .
+ The authors of this work proposed a preliminary non-intrusive approach based on skeleton keypoint identification using pretrained deep neural networks on human body video clips to extract features and perform body movement analysis that differentiates typical and atypical behaviors of children .
+ The YouTube video dataset @cite contains videos of typical and atypical human behaviors, such as hand flapping, spinning or rocking) displayed in natural settings, which have been collected from the YouTube video website .
+ The dataset has been shown to be useful for human action recognition and classification .
+ However, it is not designed to be used for the classification of ASD behaviors .
+ In this paper, we propose a preliminary non-intrusive approach based on skeleton keypoint identification using pretrained deep neural networks on human body video clips to extract features and perform body movement analysis that differs from the existing methods .
+ In addition, we provide a baseline against which alternate approaches may developed and tested .
+

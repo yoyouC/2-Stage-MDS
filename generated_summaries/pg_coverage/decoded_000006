@@ -1,0 +1,43 @@
+there is a large body of work on subgraph isomorphism problems, @ cite and [UNK] @ cite @ cite .
+ in particular , it has been studied in the context of subgraph planar graphs @ cite , and the problem of deciding whether the graph has a given graph @ math .
+ the non-induced problem has been addressed in the literature , e.
+g of the unsatisfiable phase transition, ( see @ cite for a survey ) .
+ for instance , in @ cite the authors present a @ math -competitive algorithm for non-induced -means of @ math , where @ math denotes the @ math -th position of the input @ math and @ math is the set of size @ math @ math ( @ math ) , @ math for @ math such that the structure of the pattern @ math can be computed .
+ in the case of the labels.
+ problem , @ cite showed that the problem is @ math -hard , even if @ math admits a polynomial approximation @ math that runs in @ math time .
+ however restrict the need to have a large number of candidates of the same size of the graph .
+ the problem of subgraph isomorphism has been studied in the context of the subgraph problem.
+ problem @ cite @ cite , where the goal is to find the subgraph of the diameter @ math , where @ math is the number of edges in the plane @ math .
+ in @ cite the authors @ cite studied the k-vertex of the algorithm for @ math and @ math for the @ math -center problem .
+ in particular , @ cite showed that @ math dof can be posed as a special case of the problem .
+ however confirming the gap between the problem and the minimum number of relations lies in @ math @ cite .
+ in this paper , we also refer to @ cite for a more comprehensive review of the problem, extension of the unweighted graph problem .
+ we refer the reader to the monograph @ cite and its survey @ cite in the following section we cover the gaps between the following two lines of se subgraph isomorphism and subgraph isomorphism of small and medium areas .
+ we summarize the most relevant work related to the present work in the area of planar networks , and we refer to our work .
+ there is a large body of work on heuristic selection and signaling pathways in the context of subgraph isomorphism .
+ for example , @ cite proposed an alternative to the use of a feature selection technique to identify the distances between the graph and the vector space .
+ in @ cite , the authors present a prototype for the identification of signaling pathways from the perspective of the prototypes of the graph .
+ the authors of @ cite studied the problem of finding a subgraph of a graph in the graph population , which is equivalent to the [JAIR of the color coding problem .
+ @ cite used a similar approach to solve this problem by finding the optimal subgraph isomorphism of the color-coding .
+ however as a matter of fact , they do not consider the applicability of our approach .
+ in contrast to our work , we aim to find a (not subgraph coding approach based on the dimensionality reduction technique @ cite @ cite .
+ in the following , we show that our approach can be seen as a special case of feature engineering , as well as the color-coding, @ cite and Zwick @ cite for pattern recognition .
+ the problem of finding sub occurrences of non-induced occurrences of a pattern graph has been studied in the context of approximate subgraph enumeration @ cite @ cite .
+ however tree counting , such as @ cite , @ cite and @ cite are based on the counting of the frequency of the entire graph , which is a special case of the counting problem .
+ in contrast , our approach is the first to the best of our knowledge , in the sense that the counts of occurrence of the occurrence of a given pattern are not present in the computation.
+ coding approach .
+ in this paper , we show that the local structure in the sub graph captures the frequency and the structure of repetitions in the original sub graph enumeration.
+ in the network.
+ subgraph isomorphism of the problem .
+ we use a similar approach to detect faulty occurrences of given non-induced cycles in protein interaction networks.
+ @ cite with a fixed-parameter algorithm that takes into account approximate counts , sub graph enumeration , and at the same time as the number of vertices in the large graphs , and the time complexity of the algorithm to be optimized .
+ in the context of subgraph coding , a number of works have been devoted to model subgraph matching in data graphs .
+ for example , @ cite proposed a subgraph isomorphism algorithm for each candidate region in the graph .
+ @ cite @ cite present a robust subgraph search solution, algorithm to handle the problem of finding all occurrences of triples in a query graph .
+ however to the best of our knowledge , none of them dealt with the real world .
+ in contrast to @ cite , we consider the subgraph isomorphism search finds out candidate region exploration identifies the occurrences of the triples , and computes a robust matching order for each class of triples .
+ the neighborhood equivalence class of a given subgraph equivalence class (NEC).
+ was proposed in @ cite and @ cite .
+ however researched in this paper , we are not aware of any previous work on subgraph subgraph isomorphism algorithm, , which is a special case of the algorithm , since it is not clear whether there is no guarantee that the matching order of the subgraph equivalence is loaded .
+ moreover will not be guaranteed to be satisfied in our case .
+

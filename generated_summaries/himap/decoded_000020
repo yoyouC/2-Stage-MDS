@@ -1,0 +1,31 @@
+In this paper, we focus on the task of fake news on social media @cite . 
+ We use a similar approach for fake news detection and show that it can be used in the context of social media detection in the presence of fake news. 
+ The authors of @cite propose a method to detect the fake news news based on a binary variational autoencoder with a multi-branch autoencoder for fake news. 
+ In this work, however, we do not consider the problem of detecting fake news in the frequency domain. 
+ In contrast to @cite , our dataset is built on the News dataset @cite , which is based on the combination of fake and visual features. 
+ However, our approach is different from theirs in the sense that it does not need to generate the content of the fake object. 
+ In our work, we use the multi-modal dataset @cite as a baseline to extract a shared representation of the art in fake news. 
+ We propose a novel variational autoencoder model that is able to detect and recognize fake news articles in social media data. 
+ Our work is complementary in spirit to the previous work of EANN and MVNN @cite , who used a binary classifier to predict the complex patterns of images and ambiguous relations between the fake and pixel news. 
+ In @cite , the authors propose a method to detect fake face images from fake news images and then extracted the features from the frequency of fake images by using a recurrent neural network. 
+ This model is used for the purpose of generating fake images from the real image. 
+ The authors in @cite propose a framework for fake news detection using a Convolutional Neural Network (CNN) for fake face image detection and detection. 
+ In this paper, we show that the proposed method can be used for fake tweets. 
+ However, the work in @cite only focuses on fake images and does not consider the fake reviews of the real world images in order to detect the fake news. 
+ In our work, we propose a novel framework for detecting fake news contents in the presence of a continuous semantic representation of fake news. 
+ However, the method in @cite is not applicable to the problem of fake news review and since it is not robust to the task of a single image and is not able to capture the fake patterns in the frequency domain. 
+ Our work is also related to @cite @cite , where the authors proposed a method for fake fake news using the use of fake data and the second stage for the task to be used in the final context. 
+ In this paper, we focus on the problem of news verification on fake news detection. 
+ In @cite , the authors proposed a method to detect fake news and videos in the context of fake news. 
+ @cite proposed an attention mechanism for fake news using a similar approach to the visual of fake news images @cite . 
+ News @cite proposed a tri-relationship approach for detecting fake news. 
+ However, the work of @cite is similar to that of @cite @cite @cite in the sense that they do not consider the story of images and do not require any information about the frequency of the fake news classification. 
+ This is the most similar to our work in that it is based on a combination of generative and user-news @cite , which uses a multi-branch approach to fuse the features of images in the frequency space to predict the most relevant fake patterns in the pixel and the story as well as the story and the other likely to be used to infer the next frame. 
+ This approach has been shown to be very effective in fake news detection @cite @cite , but it is not clear how this approach can be adapted to the fake In @cite , the authors propose a method for semi-supervised semantic segmentation based on the adversarial loss of the adversarial network. 
+ The authors proposed a discriminator to fuse the probability maps from the ground truth. 
+ The discriminator is trained using a discriminator network to predict the next probability of the image in the frequency domain; and the discriminator is used to obtain the final probability maps for each pixel. 
+ In contrast to @cite , they are able to improve the performance of semantic segmentation of unlabeled data. 
+ However, this method is not suitable for semantic segmentation and does not require any training data to be able to achieve the performance on the real world data. 
+ In contrast, our method is able to provide a multi-branch network for fake news detection and is not applicable to our problem. 
+ In this paper, we propose a discriminator which is similar to our method in that it uses a fully convolutional network architecture and learns the adversarial network from the adversarial layer to classify input images to the ground truth images in order to reduce the number of unlabeled images in a fully connected layer and the decoder network is trained on the frequency domain. 
+

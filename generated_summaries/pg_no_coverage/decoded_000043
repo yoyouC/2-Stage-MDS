@@ -1,0 +1,30 @@
+the valuation maximization problem has been extensively studied in the context of designing constant-factor approximation algorithms for the scheduling problem @ cite @ cite .
+ in this setting , the mechanism of @ cite is known to be @ math , where @ math is the cost function of @ math .
+ in @ cite , the authors @ cite gave a lower bound on the approximation factor for @ math and @ math for the @ math of truthful-in-expectation mechanisms for the valuation function .
+ the impossibility results show that the approximation guarantee of universally truthful mechanisms is @ math -hard when the approximation ratio is known .
+ for the case where the number of units @ math was assumed to be fixed , then the optimal mechanisms are known @ cite ( see @ cite for more than @ math ) .
+ the results in this paper can be seen as a special case of this work , where the valuation of the mechanism is known , and the lower bounds for deterministic cpp are equal to @ math ( see also @ cite ) .
+ however of the results of this paper , we are not aware of any results on the average-case complexity of truthful mechanisms .
+ in this section , we mention the results of @ cite @ cite and @ cite .
+ in this paper , we give a brief overview of the results for the most relevant research directions .
+ we refer the reader to @ cite for an excellent survey of the most recent survey .
+ for instance , in @ cite it was shown that there is a lower bound on the valuation of the scheduling problem , and the approximation ratio of @ math for @ math is @ math .
+ @ cite gave a @ math -approximation for fractional truthful mechanisms in a black-box setting .
+ the results obtained by the fractional variant of the fractional fft algorithm @ cite can be used to solve the truthful mechanisms .
+ for example , @ cite showed that @ math , where @ math and @ math are the riemann zeta function @ math of the integral case.
+ @ math @ cite , which is known to be @ math -competitive for a fixed @ math machine .
+ the information-theoretic mechanism of approximation algorithms for the valuation function of the pf @ math was shown to be intractable in the context of combinatorial optimization problems .
+ the approximation ratio of the scheduling problem was studied in @ cite for the case where @ math is the number of instances belonging to @ math and @ math .
+ the authors of @ cite present a randomized algorithm for the valuation function @ math for all @ math @ cite @ cite .
+ in this work , the authors present a @ math -approximation algorithm for multiple information theoretic trade-offs between incentive compatible with cooperative scheduling and the recovery of smaller close-to-optimal mechanisms .
+ the impossibility results of this paper can be seen as a special case of the results in the context of [UNK] and [UNK] @ cite , where the mechanism is to minimize the lower bound of @ math on the domain of the domain @ math , and the lower bounds on @ math are derived from the class @ math of the mechanism .
+ the results are summarized by the fact that the valuation property is equal to the approximation factor of the @ math in @ math ( see @ cite and @ cite ) .
+ in the present paper , we will show that the approximation guarantee of the valuation recovery problem is a well-established gap in the literature .
+ the valuation maximization for combinatorial auctions has been studied in @ cite @ cite .
+ in this work , we consider the problem of truthful mechanisms for a domain of submodular valuations in the context of the scheduling problem .
+ in particular , the authors of @ cite proved that for any @ math , @ math and @ math are weakly coupled with respect to @ math with a constant @ math for all @ math .
+ for this setting , @ cite gave a @ math -approximation algorithm for the valuation function .
+ the authors show that the approximation guarantee of @ math is minimized when the number of items exceeds the cost of the notoriously truthful mechanism .
+ the results in this paper can be seen as a special case for the submodular maximization problem in which the mechanism is known to be @ math -competitive for all the classes @ math @ cite , and the approximation ratio is minimized .
+ for the case where the existence of an m1 mechanism @ math satisfies @ math ( for the @ math ) , the optimal mechanisms @ math can be obtained in @ math rounds .
+

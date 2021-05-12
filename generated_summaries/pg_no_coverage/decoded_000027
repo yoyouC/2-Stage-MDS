@@ -1,0 +1,19 @@
+to the best of our knowledge , there is no previous work on deep deep reinforcement learning algorithms for learning cooperative policies in the literature @ cite @ cite .
+ in @ cite , the authors propose to learn a goal-conditioned policy to maximize similarity between the environment and the space of individual agents .
+ the goal is to maximize the similarity of the system .
+ @ cite considers the problem of providing an ensemble of policies for each agent .
+ in this work , we focus on a game-theoretic approach to control the reward function in the unsupervised learning framework .
+ the proximal policy gradient method is closely related to the work of @ cite in the context of partially observable replication and optimization of policy gradients .
+ in a similar vein , @ cite proposed a multi-agent policy-gradient algorithm based on policy gradient, and temporal-difference methods for multi-agent credit rewards .
+ in contrast , our approach is similar to ours in the sense that we use the proximal bellman equation @ cite to solve the problem in which the agent chooses the agent to allocate all agents in the policy gradient .
+ in the latter setting , the goal of this work is to learn policies from expert trajectories .
+ active learning has been an active area in the past few years @ cite @ cite .
+ in this work , we focus on the problem of health credit assignment in the context of multiple agents in a policy gradient setting , and we refer the interested reader to the recent survey @ cite for a more general overview of this area .
+ in @ cite , active learning is used to estimate the reward function from a reward function , and the agent is able to minimize the amount of information between agents and the demonstrator .
+ in contrast , our approach is based on the assumption that the demonstrator is interacting with the demonstrator of a policy .
+ Carlo et al @ cite proposed a active learning approach to policy gradient based on gradient descent method .
+ the authors of @ cite use active learning to distinguish between system health and partial observability.
+ credit assignment .
+ however agents, , we do not consider multi-agent credit assignment term in a credit assignment.
+ setting , but in our work , it is assumed that the agent health will be close to the demonstrator ’ s instead of the policy .
+

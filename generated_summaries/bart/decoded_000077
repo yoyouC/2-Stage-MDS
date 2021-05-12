@@ -1,0 +1,10 @@
+In this section, we briefly review related work on simulation of blood flow and vessel wall .
+ We refer the interested reader to @cite for a comprehensive survey of related work .
+ In this section we briefly discuss related work in the area of physics-based blood flow simulation, which can be divided into two main categories: simulation-based and simulation-free .
+ Simulation-based methods are based on particle hydrodynamics (SPH) to simulate blood flow as a fluid with free surfaces .
+ In the first category, the simulation is based on the Navier-Stokes equation and the force density fields directly from the surface tension effects .
+ The second category is the simulation based method based on SPH, where the simulation data is generated from the In @cite , the authors used a regression forest to estimate the acceleration of each particle for each frame .
+ The method was able to achieve real-time sizeable coupling of blood flow and vessel wall while mainly ensuring physical authenticity and it can also provide real time and obvious information about vessel wall force distribution .
+ However, this method cannot be applied in wall-bounded turbulent blood flow simulation as a regression problem, since it cannot handle the mixed contribution of neighboring blood particles .
+ In @cites , the particle state feature vector based on smoothed particle hydrodynamics (SPH) was proposed for blood flow-wall force visualization .
+ The proposed method is able to handle the non-Newtonian viscous forces of blood through the SPH

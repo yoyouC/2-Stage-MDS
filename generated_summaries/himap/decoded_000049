@@ -1,0 +1,10 @@
+Multi-view al @cite proposed a method to improve the spatial resolution of stereo images based on the fusion of stereo images. 
+ Their method is based on the and streamable. 
+ @cite . 
+ They proposed an approach based on a combination of the full-view and the context to detect the resolution of objects in the scene and a stereo camera. 
+ They also showed that this method can be applied to the 3D model in @cite . 
+ However, they do not consider the spatial information of the stereo images in order to obtain the final segmentation. 
+ In this paper, we propose a novel global calibration method that can be used to enhance the accuracy of the spatial rotations. 
+ We also use a similar approach in our work, which we will show in this paper. 
+ However, in contrast to @cite , we do not require any additional training data for each of the image in the scene, which is not applicable to the problem of video depth imaging @cite @cite @cite , which is a challenging problem in the sense that it does not need to be able to capture the camera motion and pose estimation of a stereo image @cite . 
+

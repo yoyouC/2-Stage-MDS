@@ -1,0 +1,4 @@
+In @cite , the authors proposed a stochastic unit commitment model that can simultaneously schedule inertial response, mandatory FR, and enhanced frequency response (EFR) products .
+ The proposed model is based on a two-sided Vickrey-Clarke-Groves (VCG) mechanism combined of two frequency response products ( enhanced and primary) in the context of the UK power system .
+ The model is used to determine the optimal quantity and quality of electricity ancillary services (such as frequency response and frequency regulation) to procure in a market increasingly characterized by intermittent renewable electricity generation .
+ The authors also proposed a multi-step framework to evaluate the potential value of providing faster reacting FR products in comparison with other response times from typical FR products

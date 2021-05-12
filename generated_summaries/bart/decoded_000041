@@ -1,0 +1,11 @@
+In this section, we briefly review related work on aspect-based opinion mining .
+ The most related work to ours is the work of @cite  .
+ In this work, the authors propose a method to extract opinion targets from user reviews .
+ In their work, they use a dependency parser and a syntactic dependency parser to extract target words .
+ In this paper, we compare the proposed method with the existing methods in the following aspects: 1) we propose a confirmatory aspect based opinion mining framework, 2) we use a part-of-speech tagger to match user reviews to a pre-specified topic, and 3) we evaluate our method on a set of user reviews obtained from TripAdvisor .
+ Sentiment analysis in Twitter has been studied for a long time .
+ @cite proposed a probabilistic modeling framework based on Latent Dirichlet Allocation (LDA), which detects sentiment and topic simultaneously from text .
+ The proposed JST model is fully unsupervised and is evaluated on a new gold standard dataset, which contains three types of reviews, i .
+e .
+, hotel, Restaurant, Doctor, and employee generated truthful reviews .
+ In this paper, we propose a confirmatory aspect-based opinion mining framework which is based on a set of bi-terms related to pre-specified topics in the domain of interest and, therefore, 2) allow identification of the reviewer's opinions on the topics via evaluation words within the sets of bi

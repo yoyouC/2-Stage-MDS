@@ -1,0 +1,10 @@
+Human body part parsing has been extensively studied in the computer vision community .
+ Most of the existing methods are based on hand-crafted features, such as SIFT @cite , LSTM-based features @math , and CRF-based feature @math  .
+ In recent years, deep learning based methods have achieved state-of-the-art results in many computer vision tasks such as human pose estimation @math and human body part segmentation @math respectively .
+ In this paper, we propose a novel weakly supervised part parsing framework that can be extended to other keypoint-supervised part parsing tasks .
+ Human body part parsing has been extensively studied in the computer vision community for decades @cite  .
+ Most of the existing works on human body parts are based on hand-crafted features, such as HOG features @math , SIFT @math and HOF @math  .
+ In recent years, there has been a lot of interest in human part parsing .
+ For example, the work of Zhang al proposed a multi-task approach for human body part segmentation @math based on the HOG feature @math which is then used to generate the semantic segmentation mask @math for each body part .
+ In addition, a variety of human poses have been used to improve the performance of human parsing .
+ In this paper, we propose a novel semi-super

@@ -1,0 +1,36 @@
+there has been a growing body of work on machine learning @ cite @ cite .
+ in this work , we focus on the problem of segmenting characters from a given scene text , which is based on the use of convolutional neural networks ( cnns ) .
+ the encoder is fed to a scale attention model , which has been shown to be useful for a wide variety of tasks , such as logo detection @ cite , semantic role labeling @ cite and sentiment analysis @ cite over the last few years .
+ in contrast , our approach is different from ours , since it is not clear how to extracting features from the character features and the features of these features are combined with the help of the scale attention mechanism .
+ in the context of text detection , the authors of @ cite use a similar approach to fine-tuning the feature vector of the input image , and then train a classifier to predict the training set .
+ this approach has a long history in the field of computer vision and computer vision .
+ it has been recently shown that there is a large body of literature on the topic of characters , see @ cite for a comprehensive survey .
+ there has been a growing body of work in computer vision and image recognition @ cite @ cite .
+ @ cite , @ cite and @ cite use a similar approach to learn the importance of point parts of the character features .
+ in this work , we focus on the problem of segmenting characters in a scene text , and propose a deep learning model to learn a mapping between input images and output spaces .
+ in contrast , our work is based on the use of multi-scale convolutional neural networks ( rnn ) to learn features from the predominant input image .
+ we show that our encoder decoder is able to achieve state-of-the-art results in the context of text bias .
+ in @ cite the authors propose a novel attention mechanism that learns to predict the feature of each area in a novel data-driven manner .
+ the output of the art in this paper is to show that the scale attention is essential for semantic image segmentation , which is a good trade-off between area scales and experiments .
+ in addition , we propose a new attention model that can be used to diagnostically multiple character features to multiple scales .
+ there has been a growing body of work on different aspects of computer vision and computer vision .
+ for example , @ cite and @ cite used a family of differential operators to learn the global representation of the character features .
+ @ cite , the attention mechanism is used to disambiguate the weight of hand-engineered features .
+ in @ cite the authors propose to use differential filters to measure characters between shape and content information of the deep convolutional neural network .
+ in this work , we focus on self usage of the scale attention model , which is similar to our work .
+ in contrast , our work is based on the use of multi-scale convolutional neural networks ( cnns ) .
+ we use a similar approach to transfer characters in scene text , and visualized the spatial and discriminative features from the learned global feature space .
+ @ parasplit the cosine similarity between the encoder and the activation function , the authors of @ cite @ cite have been proposed to improve the performance of action recognition and retrieval .
+ however , these works do not take into account the semantics of characters , nor do not rely on the spatial information of characters .
+ to the best of our knowledge , there is no previous work on the problem of segmenting characters into a scene text recognition problem @ cite @ cite .
+ in @ cite , the authors propose a hierarchical sliding window character detection approach to detect character level features, faces .
+ @ cite use a multi-branch network to capture the essential substructures of character features .
+ in contrast , our work is based on the use of atrous rates.
+ Furthermore, ( [UNK] ) @ cite to learn multi-scale feature representations .
+ in this work , we focus on self use of the encoder to extract features and concatenate the features from the most relevant ones .
+ we use a similar approach to semantic image segmentation , which is fed to a max pooling layer .
+ in addition , our approach is able to achieve state-of-the-art results in the context of text recognition .
+ in particular , we propose a novel scale attention model to model characters in the cascade training phase .
+ we show that the proposed model outperforms @ cite and @ cite can be used to improve the performance of the learning of characters .
+ however with a wide range of post-processing techniques , we can not be directly applicable to our approach .
+

@@ -1,0 +1,18 @@
+The problem of catastrophic forgetting in deep reinforcement learning has been studied for a long time @cite  .
+ In this context, the problem has been considered as a sequence of related reinforcement learning tasks, where the goal is to learn how to perform a new learning task using only a small number of training samples .
+ The problem has also been studied in the context of meta-learning, where a policy is trained on a variety of learning tasks such that it can adapt to new learning tasks using a small amount of training data from a new task .
+ In this work, we focus on the problem of learning without forgetting, which is to the timescale of changes in the distribution of experiences .
+ There has been a large body of work on improving the performance of deep RL algorithms on continuous control tasks .
+ @cite proposed an actor-critic framework for learning policies with memory that can read and write from an internal continuous-valued memory .
+ In this framework, the actor is trained to read the state space of the current policy, and the policy is updated using a supervised learning algorithm .
+ In contrast, our model is designed to learn a policy that can adapt to changes in the distribution of experiences, and is able to adapt to changing environments without forgetting the history of the previous policy .
+ In addition, we use a model-based reinforcement learning algorithm that combines prior knowledge from previous tasks with online adaptation of the dynamics model .
+ Our work is also closely related to the work of @cite , who proposed a method for learning a policy that generalizes across multiple tasks .
+ However, their approach is different from ours in that they do not require knowledge of task boundaries .
+ In contrast, we use a cascade of hidden networks that simultaneously remember the agent's policy at a range of timescales and regularise the current policy by its own history, thereby improving its ability to learn without forgetting .
+ In addition, we do not rely on knowledge of the task boundaries, but instead use a cascaded neural network that learns to regularise and adapt to changes in the dynamics of the environment .
+ Our work is also closely related to the work of @cite , who proposed a multi-task approach for learning multiple tasks without knowledge of task boundaries .
+ However, their approach is different from ours in that they do not require knowledge of the task boundaries, and can adapt in changing environments .
+ In contrast, our work is based on a cascade of hidden networks that simultaneously remember the agent's policy at a range of timescales and regularise the current policy by its own history, thereby improving its ability to learn without forgetting .
+ Our work differs from these works in that we do not need to know task boundaries in order to train our model .
+

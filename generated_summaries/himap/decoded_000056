@@ -1,0 +1,30 @@
+In this paper, we focus on the thermal semantic segmentation of thermal image segmentation, which can be categorized into two categories. 
+ The first category is based on a combination of convolutional neural networks @cite @cite @cite . 
+ In this work, we propose a novel convolutional neural network architecture for semantic segmentation and semantic segmentation in thermal image semantic segmentation, which is also used in @cite . 
+ We show that our approach is more robust to the @cite , which is more efficient than state-of-the-art methods. 
+ However, we are interested in the first stage of thermal infrared cameras and not only on thermal objects in the presence of a large number of thermal images and the lack of large amounts of data and the number of frames in the training of the network. 
+ Our work differs from the previous work by edge-conditioned al @cite , where the network features are used for semantic segmentation, and the second part of our network is proposed in @cite , in which the edge prior work is applied to adaptively incorporate edge prior images with the help of the and ESPNet al @cite and ESPNet al @cite proposed a network architecture based on spatial pyramid regression. 
+ In @cite , the authors propose a deconvolution network for thermal image semantic segmentation. 
+ In this paper, we mainly focus on the semantic segmentation of a single image and is able to achieve better performance in thermal semantic segmentation. 
+ However, we do not use any prior work on semantic segmentation in order to improve the performance of semantic segmentation quality. 
+ In this work, we propose a novel deconvolution method that can be trained end-to-end with the deconvolution framework in @cite . 
+ We demonstrate that our method outperforms the unpooling algorithm in @cite , in which the network is trained on the input image and the unpooling layer of the convolutional network in a supervised framework. 
+ In addition, we show that our deconvolution method can be used as a post-processing step for our work. 
+ We also use this method in the context of thermal image segmentation and show that it is not robust to semantic segmentation and semantic segmentation tasks as a result in @cite and @cite . 
+ In addition, our network is designed for semantic segmentation, which is not applicable to our problem. 
+ We also demonstrate that the proposed method is effective in terms of the network @cite . 
+ In this paper, we propose a novel network architecture with an attention mechanism and a domain transform layer @cite , which is inspired by @cite . 
+ In @cite , the authors propose to use a CNN architecture to model the segmentation of semantic objects in thermal image segmentation. 
+ The proposed model is based on the idea of semantic segmentation in thermal segmentation. 
+ However, it is not designed for end-to-end object segmentation and does not require any training data to be able to achieve better performance. 
+ In addition, the network is trained on a single RGB dataset and is able to capture a large number of labeled images for a given image. 
+ This is achieved by the fact that the image is not always available in the image. 
+ In contrast, our model is designed for semantic segmentation, which can be used for image segmentation and semantic segmentation and segmentation @cite @cite @cite , where the goal is to predict the semantic segmentation of each bounding box of the scene. 
+ In addition, we propose to explicitly exploit the edge detection of object segmentation as a feature extractor for semantic segmentation task and propose an end-to-end attention mechanism for semantic image segmentation. 
+ In this section, we briefly review the related works that are related to our work. 
+ We refer readers to @cite @cite and @cite for more details. 
+ We refer to the recent survey by @cite , and Multi-task al @cite for a survey. 
+ Here, we focus on the use of Mask R-CNN @cite , which can be used as part of the existing methods of @cite @cite @cite . 
+ The main difference between our approach and theirs is that we do not require any supervision to generate a global layout in the image, which is not suitable for our purpose. 
+ Our approach differs from the previous work in that it is based on a combination of the Mask method @cite , with our approach to the problem of semantic segmentation. 
+ Our work is different from the above works in the sense that they are based on the assumption that the attention mask is decomposed In our approach, we use a CNN as the input to generate the global layout composed of the CNN in order to obtain the final depth map of the image to be estimated and the second part is the top-down of the CNN in the image-level

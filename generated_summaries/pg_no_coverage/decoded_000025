@@ -1,0 +1,34 @@
+in this work , we propose a novel definition of feature representations for pre-trained networks , aiming at the intermediate layers of multiple trained deep neural networks .
+ we use a similar approach to fine-tuning the ensembles of neural networks @ cite @ cite .
+ our work differs from these previous work in that we focus on the isomorphism of pre-trained deep neural models , rather than being focusing on pre-trained word representations .
+ we believe that our base-level neural language model can be seen as a special case of the deep neural network ( cnn ) , which has been shown to be useful for downstream tasks in machine translation @ cite , speech tagging @ cite and object prediction @ cite in the context of deep learning .
+ in this paper , we use the spatial information of the softmax layer to recover the knowledge of the layers of a neural network .
+ in contrast to our approach , we are able to learn the distilled knowledge from intermediate layers to distinguish between neural networks and the discriminator .
+ we show that our model-agnostic SEP approach outperforms the work of @ cite which is similar to our work .
+ our work is also closely related to the recent work of @ cite .
+ @ cite , the authors present a method to diagnose classification tasks.
+ isomorphism .
+ their model is based on the idea of discovering features from pre-trained deep neural networks to form neural networks .
+ in this work , we focus on the roles of the layers of a neural network to disentangle and isomorphic features that disentangle features from intermediate layers of the model .
+ our approach is similar to the work of zhou al @ cite who show that the learned features can be injected into a type of convolutional neural networks ( cnn ) .
+ we use a similar approach to ours .
+ however , their work does not address the problem of pre-trained networks , rather than being able to refine the knowledge of the neural network .
+ in contrast to our work , this work is the first to show that it is fundamentally different to our approach , since we use the back-propagation algorithm to generate stimuli @ math .
+ we believe that our approach can be seen as an extension to the present work in the context of knowledge isomorphism .
+ generative adversarial networks ( gans ) have been used in defend to defend against pre-trained networks @ cite @ cite .
+ in this work , we focus on the use of deep neural networks to predict the trustworthiness of a neural network .
+ we use a similar approach to disentangle and quantify features of pre-trained deep neural nets @ cite , and use a feed forward network to feed forward layers of the input image .
+ we believe that our approach can be seen as an extension of our work to the work of [UNK] al @ cite who show that the learned features can be used to learn the distribution of the neural activations of neuron and student networks.
+ .
+ we show that our model-agnostic approach is able to improve the performance of neural networks .
+ we also note that the generative adversarial network ( gan ) @ cite is based on the idea of repeatedly generating a sequence of objects that are supposed to be similar to the training set .
+ this work is similar to that of @ cite and @ cite for a more general object detection model .
+ the work in @ cite addresses the problem of generating generic objects using a deep neural network ( cnn ) , which is different from ours .
+ neural networks have also been used to visualize the representation of neural networks @ cite @ cite .
+ in this work , we use a similar approach to disentangle features from pre-trained deep neural networks ( cnns ) .
+ the work of @ cite is the closest to ours in the sense that our model is able to achieve good performance .
+ our work is also closely related to the recent work of zhou al @ cite , who use a neural network to learn the saliency map from the semantic space of a sequence of colors and the rough contours .
+ in contrast to our work , this work is different from ours since we focus on different aspects of pre-trained networks , and we believe that our approach can be applied to feature representations of pre-trained models .
+ however as a result , our work differs from ours in that it is not clear how to learn feature representations for pre-trained models , rather than being able to regularize neural networks .
+ we have also shown that the activation decays in the form of the activation function @ math and @ math is supposed to be @ math , where @ math denotes the hyperparameters of @ math .
+

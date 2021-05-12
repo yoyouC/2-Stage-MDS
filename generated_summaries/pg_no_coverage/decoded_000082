@@ -1,0 +1,10 @@
+there have been a number of works on transfer learning for text recognition @ cite @ cite , @ cite .
+ in this work , we focus on the translational equivalence between sentences and phrases of the sentences , and then use a siamese neural network to detect adversarial samples, e.
+g.
+ on the original datasets, scene text recognition problem .
+ @ cite propose a visual attention model for memorability estimation in natural images , and @ cite use continuous vector representation of sentences in a unified framework .
+ the work in @ cite employs a similar approach to detect translational equivalence of sentences by using a recurrent neural network ( rnn ) .
+ in contrast to our work , this work is the first to propose a deep neural network for memorability sparsity , which has been shown to be effective in a variety of nlp tasks , such as language modeling @ cite and character extraction @ cite to memorability recognition .
+ in the context of image-text feature learning , we use an attention-based framework to detect the quality of the extracted sentences .
+ we use the advantages of the work of @ cite for a different approach .
+

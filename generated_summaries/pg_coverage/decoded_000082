@@ -1,0 +1,11 @@
+there are two main approaches to detect translational equivalence @ cite @ cite and essays @ cite .
+ in contrast to these methods , the memorability of the sentences in the different domain is a challenging task .
+ in this paper , we aim to detect adversarial samples, equivalence between sentences and character alignment .
+ we use a similar approach to @ cite for the task of memorability estimation in the context of deep neural networks .
+ in our work , we use continuous vector representation for the translational orientation of sentences and hand-engineered features .
+ we show that this approach can be used to train a deep neural network for a text classification task , which is also related to our work .
+ in particular , @ cite proposed a visual attention model for memorability prediction problem .
+ @ cite employ a bidirectional recurrent neural network ( rnn ) to encode equivalence between the sentences and the output of the classification model .
+ in @ cite , the authors propose to use a cnn to predict the translational rank of equivalence between two sentences .
+ the authors of @ cite show that the various modules of siamese neural networks are able to detect the adversarial samples, of sentences .
+

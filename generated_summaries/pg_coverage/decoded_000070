@@ -1,0 +1,12 @@
+egocentric body pose estimation has been a long-standing challenge in computer vision and computer vision .
+ for example , @ cite proposed a method to predict the 3D positions of body joints in a single depth image .
+ in @ cite , a marker-less motion model was proposed for human pose estimation .
+ @ cite presented a multi-camera synthetic dataset for skin pose estimation from single RGB images of frontal body pose annotations .
+ the authors of @ cite provide a comprehensive review of existing egocentric pose estimation methods for body pose estimation.
+ .
+ however such methods have been widely used for body forecasting in the literature @ cite @ cite .
+ however will not work , we focus on the problem of varying uncertainty in the state of the art in the context of the egocentric 3D body pose .
+ in contrast to our approach , our work is more closely related to our work , which is the first time of our work .
+ we use a dual branch to predict camera pose , and we use temporal information.
+ as a cue to determine the camera pose of the parts of the head and the ground truth .
+

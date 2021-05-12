@@ -1,0 +1,6 @@
+There has been a large body of work on collective I O .
+ For example, @cite proposed a file system caching approach for file system I O, where the file system is first initialized and then the performance policies are assigned to predefined file system policies .
+ The authors also proposed a caching approach that aligns file system accesses to file system stripe size .
+ However, this approach does not scale well to large-scale production applications .
+ In contrast, our approach is designed to reduce the communication cost and reduce inter-node communication congestion when redistributing the I O requests among MPI processes .
+

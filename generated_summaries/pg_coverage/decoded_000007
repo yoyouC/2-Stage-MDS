@@ -1,0 +1,21 @@
+deraining approaches can be divided into two main categories : indirect methods , indirect and clustering-based methods .
+ indirect methods are voxel-based methods @ cite @ cite , which are based on feature-based methods , such as local convolutional kernels ( lbp ) @ cite and sparse signed rain ( sift @ cite ) .
+ these methods have been successfully applied to image deraining @ cite .
+ however such methods can be used to remove the details of image degradations in the loss caused by rain and synthetic images .
+ for example , @ cite proposed a deep neural network for removing rain streaks from a single input image .
+ the authors of @ cite propose a hybrid cnn architecture based on deep convolutional neural network ( cnn ) for rain streaks .
+ @ cite employ the dilated convolution blocks to guide the rain residual classification .
+ however block, Specifically, @ cite only requires a large amount of training data , which is not suitable for eliminating the structure of the images .
+ in contrast , our network visit the rain removal as degraded and does not use any advantage of the context information in the rain layer .
+ in our work , we propose a novel connection between rain rain streak removal and background residual .
+ deraining methods can be divided into two main categories : indirect methods , indirect and clustering-based methods .
+ indirect methods have been proposed for rain streaks .
+ @ cite proposed a method based on rain streak detection , landmark detection and removal of the appearance of rain streak layer .
+ the deraining methods are based on the commonly used contextualized dilated network ( [UNK] ) @ cite @ cite , which uses a connection between the rain and rain of the rainy images, @ cite .
+ however named as well as the availability of large commercial datasets , lots of efforts have been made on public removal in the last few years .
+ for example , @ cite used a new connection between overlapping streaks and the clean advantage of heavy rain and intra residual network for eliminating the rain regions.
+ .
+ in @ cite the authors of @ cite presented a fully automated image model based on a comprehensive review of image deraining .
+ however such methods are not only applicable to the first kind of image and mist .
+ in our work , we mainly focus on the rain image deraining problem , which is the main focus of our work .
+

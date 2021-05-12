@@ -1,0 +1,7 @@
+a number of clustering algorithms have been proposed for clustering algorithms @ cite @ cite .
+ in this section , we review the most relevant work related to the present work in the area of community detection .
+ we refer readers to @ cite for a comprehensive review of the literature on clustering and exploration of diverse frameworks , and we refer the reader to the survey of park and sun et al @ cite , and [UNK] and [UNK] @ cite in the last few years , as well as in the context of graph clustering .
+ however and for a detailed review , we provide a comprehensive survey on parallel clustering algorithms for clustering of cluster vertex set ( see @ cite and references therein ) .
+ in particular , we describe a parallel isolation benchmarking platform for fine-grained control variables , which are not available in the community , and the extrinsic and intrinsic components of diverse clustering algorithms are not well suited for clustering benchmarking clustering algorithms, .
+ our work differs from theirs in the sense that we do not consider the parallel framework of the input graph , which is not directly applicable to our problem .
+

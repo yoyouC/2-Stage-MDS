@@ -1,0 +1,21 @@
+In recent years, deep learning based person re-ID methods have achieved great success in many computer vision tasks, such as image classification @cite , person pose estimation and pose estimation .
+ However, most of these methods are based on hand-crafted features, which are difficult to obtain in real-world applications .
+ To overcome this limitation, some deep learning methods have been proposed to learn the feature representation of the training images .
+ For example, @math -CNNs @math are proposed to solve the SSS problem by minimizing the margin of the features between different views .
+ @math-CNNs are proposed for learning the distance metric between different view classes .
+ In this work, we focus on learning the relative local distance matrix to guide CNNs .
+ In recent years, CNNs have been widely used for person re-ID .
+ In @cite , the authors proposed a multi-channel convolutional neural network (CNN) to jointly learn both the global full-body and local body-parts features of the input persons .
+ The CNN model is trained by an improved triplet loss function that serves to pull the instances of the same person closer to each other in the learned feature space .
+ In another recent work, Chen proposed a deep correspondence structure learning (DCSL) approach to address the cross-camera person-matching problem .
+ The proposed DCSL approach captures the intrinsic structural information on persons by learning a semantics-aware image representation based on Convolutional Neural Networks (CNN) .
+ The In recent years, CNNs have been successfully applied to person Re-ID .
+ In @cite , a CNN is proposed to learn a discriminative and robust representation for person re-ID using a combination of local and global cues .
+ In this work, we propose a joint Spatial and Temporal Attention Pooling Network (ASTPN) and an efficient indexing and retrieval framework, respectively .
+ The spatial and temporal attention pooling layer is first extracted and then deep neural networks are designed for representation learning on both the global and local regions .
+ In addition, the attention module is designed to select regions from each frame to optimise the feature representations .
+ @cite proposed a multi-view quadratic Discriminant Analysis (XQDA) to learn a discriminant low dimensional subspace for person re-ID .
+ In @cite , the authors proposed to learn the local Maximal Occurrence (LOMO) feature and a metric learning method called Cross-view Quadraticdiscriminant analysis (CQDA) .
+ The LOMO feature analyzes the horizontal occurrence of local features, and maximizes the occurrence to make a stable representation against viewpoint changes .
+ The CQDA metric is learned on the derived subspace .
+

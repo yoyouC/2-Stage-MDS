@@ -1,0 +1,11 @@
+there has been a lot of work on iris spectrum iris recognition @ cite @ cite .
+ in @ cite , the authors focus on the segmentation of the iris to achieve robust iris segmentation .
+ in this work , we focus only on the performance of deep learning and the analysis of iris segmentation in iris recognition .
+ in the context of iris recognition , there are two main differences between our work and the work of @ cite and @ cite in this section .
+ we will discuss the most important differences in the literature on the topic and the relationship between iris and computer vision and the reader to be the first to the best of our work .
+ in particular , we are interested in analyzing the iris pad problem , which is based on the equal error rate of the deep learning approach .
+ we also use a similar approach to the iris segmentation problem .
+ @ cite proposed a new segmentation method based on a publicly available database .
+ the authors report the accuracy of the proposed technique , which was tested in a lab setting .
+ in contrast , our work is more general as falling as 1996 .
+

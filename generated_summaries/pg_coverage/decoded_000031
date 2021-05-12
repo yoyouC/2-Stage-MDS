@@ -1,0 +1,14 @@
+neural networks have been widely used in text matching @ cite @ cite and paraphrase identification @ cite .
+ recently , @ cite proposed a gated recursive neural network for general purpose text matching .
+ @ cite used a gated recurrent neural network ( rnn ) to take into account the similarities of the input word and the semantic matching of the complicated combinations of point-wise features .
+ in @ cite , the authors proposed the use of lexical information to guide the inference of paraphrase similarity .
+ however to the best of our knowledge , no previous work has focused on improving the performance of web page ranking .
+ in our work , we focus on the manual feature extraction of point-wise matching and contextual features for text matching , which is not readily available in the context of the matching model .
+ our work differs from the previous work in the area of Stereo and [UNK] , which has a significant amount of interest in the field of paraphrase detection .
+ in contrast to our approach , this paper presents a more efficient approach to build a text matching model for each word in the inference, word .
+ neural network-based methods have been proposed for text matching @ cite @ cite .
+ most of these methods are based on hand-crafted features , such as the work done by @ cite , @ cite and @ cite in the context of paraphrase extraction .
+ however to the best of our knowledge , none of these works have focused on the problem of point-wise features, matching , which can be broadly categorized into two main categories : ( 1 ) our approach addresses the issue of three different approaches , namely the ones described in this paper , which are closely related to our work , as well as the use of natural language processing ( nlp ) to the task of general text matching .
+ in contrast , our work focuses on the matching features of two different features , rather than being able to extract features from the elements of the matching model .
+ our work differs from these works in the sense that the feature extraction of the paraphrase embedding is not available in the identification of the point-wise concatenation of the words and the semantic relationship of eye fixation points in the paraphrase matching process .
+

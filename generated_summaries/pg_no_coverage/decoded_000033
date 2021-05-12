@@ -1,0 +1,18 @@
+in this section , we present a brief review of learning from semantic parts of part detection @ cite @ cite .
+ we refer the reader to @ cite for a comprehensive survey of the most relevant research related to our work .
+ the most related work to our approach is the work of @ cite and @ cite , who proposed a hierarchical attention model to learn the content discrimination and class-level attention .
+ in @ cite the authors propose to learn a view level grouping module based on recurrent neural networks ( rnns ) .
+ in this work , we use hierarchical shape level descriptors to estimate the content information of each view, group .
+ in contrast , our work is based on the use of deep learning to perform part detection , which is similar to the one proposed in this paper .
+ however , we do not consider the problem of learning the parts of the shapes , which can be interpreted as an extension to the multi-view learning approach .
+ the difference between the attention and the spatial information of the colored views has a long history in the literature .
+ in particular , we are interested in aggregating the information from the shape of the views .
+ in this section , we focus on the knowledge of part detection in the context of shape captioning , which has been extensively investigated in recent years @ cite @ cite .
+ in this work , we are interested in analyzing the mapping between two views of multiple colored views .
+ in @ cite , the authors propose to learn the ability to detect semantically meaningful parts in multiple views of a 3D shape .
+ they use a shared region proposal module to predict the parts of the shape of the polygon .
+ @ cite use a similar approach to the semantic parts of complex views of view-based depth maps .
+ in contrast to our work , our work is more closely related to shape captioning and object recognition , which is similar to our approach , but in the work of [UNK] al @ cite and @ cite on the use of deep learning to learn a class-specific shape model .
+ we use the aog to associate the shapes in the semantic space , which allows us to capture part-level characteristics of the shapes .
+ our approach is similar in spirit to the work presented in this paper .
+

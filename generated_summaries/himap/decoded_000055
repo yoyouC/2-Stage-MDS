@@ -1,0 +1,35 @@
+self-supervised al @cite proposed a self-supervised domain adaptation approach based on stereo refinement @cite . 
+ self-supervised al @cite and for al @cite propose a method to capture the 3D face geometry of a face in a single 2D image and then use it for face detection. 
+ However, the work in @cite focuses on the face modeling and does not consider the problem of high-fidelity face models. 
+ Our approach is complementary to these approaches as we are able to provide more accurate results. 
+ Our work is similar to that of @cite , where the face is a set of face models that are based on the input image. 
+ In contrast, our approach is able to drive the use of face images to be more accurate than the face recognition task. 
+ In contrast, we use the self-supervised frame of the face as the input to generate the face model in the presence of a single face and uncontrolled which is the first step for our work. 
+ In our approach, we use a single face model for face editing and face recognition, which are more relevant to our work. 
+ However, we are not aware of the results of @cite . 
+ The high-fidelity dataset @cite and the second stage @cite @cite @cite are designed for face recognition and face Image-based al @cite proposed a self-supervised domain adaptation approach based on 3D face reconstruction and a recurrent neural network (CNN) for face completion from a single 2D 2D image. 
+ The DCNN is trained using a recurrent network that is able to reconstruct a large number of faces in an end-to-end manner by using a CNN to predict the facial identity of the face sketch and the facial expression of the eyes in the DCNN to obtain the final region of the missing region in the face and the identity and the identity sketch of the sketch in the top-left sketch is used to estimate the face pose. 
+ In @cite , the authors proposed a self-supervised face completion based on the DCNN and aggregates @cite proposed to solve the problem of 3D face recognition and achieved the state-of-the-art performance on the face completion task. 
+ In @cite , <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> <blank> 3D al @cite proposed a self-supervised domain adaptation approach based on face tracking and texture constraints to improve the performance of face recognition. 
+ 3D al @cite propose a self-supervised method to recognize the facial expressions of a digital face from a single 2D image. 
+ However, they do not consider the problem of face models and do not require the assumption of the face as we do not need to learn a face model from the face image to the face image. 
+ In contrast, our method is able to detect both the face and facial expressions and the face is not available in our work. 
+ In addition, our approach is more robust to tracking and uncontrolled @cite and to @cite , which is the first one model for face detection, which is used in @cite and @cite , and the latter is based on the assumption that the face can be generated from a 2D image and the 3D face space is used for the face model in @cite . 
+ In contrast to @cite , our method uses 3D face images to generate face images and then drive them in the face recognition task. 
+ In our work, we use the self-supervised face model as the input image. 
+ 3D al @cite proposed a self-supervised domain adaptation approach based on 3D morphable models which can be used to generate face geometry from a single 2D 2D image. 
+ The 3D face model is used in @cite to extract the face shape and illumination in the face model. 
+ In @cite , a self-supervised learning algorithm is proposed in @cite for face detection. 
+ In @cite @cite , the 3D face recognition problem is formulated as a classification problem with a differentiable loss function with the goal of minimizing the reconstruction of the face model and the appearance of the input image to the input image. 
+ In this paper, we propose to use a convolutional neural network for face models which are used for face recognition in @cite . 
+ In contrast to @cite , we show that 3D face models can be applied to the face recognition task. 
+ In our work, we also use the same face model as input for face detection and face modeling and show that it is not robust to the high-fidelity face model with a limited number of training data and is able to achieve the state-of-the-art performance on the new environment in the training process. 
+ In @cite , the authors propose a self-supervised domain adaptation method for face detection using face detection from a single 2D face image. 
+ The authors of @cite have proposed a self-supervised framework for face replacement using a deep convolutional neural network. 
+ In their method, the face image is assumed to be reconstructed from the input image, and the candidate face is used to predict the location of the object. 
+ In this paper, we use the CycleGAN proposed by @cite , which is the only one one of the camera. 
+ in @cite , where it is used as a way to model the appearance of the face in the input image. 
+ In contrast to @cite , our approach is able to detect faces in the presence of a large number of face images, which is not applicable to the face recognition task. 
+ In our work, we also use the same face image as the input to estimate the face of the generated face via a face detector and the second part of this paper. 
+ In this work, we use a self-supervised learning approach to detect face images and then use the learned model to extract the face images from the face image. 
+

@@ -1,0 +1,37 @@
+there has been an increasing body of work on real-time visual odometry in dynamic environments .
+ for example , @ cite proposed a dense visual odometry based method to estimate the pose of a camera motion from depth scenes .
+ @ cite , the background model is used to estimate motion and dynamic parts of the sensor .
+ in this work , we focus on the temporal motion segmentation and temporal motion tracking .
+ we use a grid-based scene flow and motion capture motion information to track the motion of the static and dynamic rigid clusters .
+ in contrast to our approach , our algorithm is based on the assumption that the ego-motion of the camera is tracked in the vicinity of the motion map .
+ our approach is similar to the work of @ cite and @ cite .
+ our work is also closely related to dynamic motion model @ cite @ cite which uses self-collected sensors to collect and collect the extracted motion from a set of voxels .
+ in @ cite the authors propose an approach to jointly estimate the camera motion and a piecewise-rigid scene flow from a dynamic scene.
+ sensor .
+ however , their method does not address the performance of visual odometry .
+ in this work , we are interested in analyzing the temporal motion of a camera in the vicinity of the scene @ cite @ cite .
+ in @ cite , the authors use a stereo camera to estimate the pose of the tracking algorithm, from a number of independent features .
+ @ cite proposed a novel visual odometry scheme for anomaly detection and behavior prediction based on the magnitude of depth information .
+ however where the outliers are clustered from the camera , the camera is assumed to lie in the sequence of the scenes , and the motion is modeled as a linear combination of the vectors in the dynamic space .
+ this approach has been used to estimate scene flow @ cite and the cluster centroid @ cite are used to formulate the anomaly detection problem .
+ however in this paper , we do not assume that the motion of the motion model is learned from the static and dynamic parts of the camera .
+ in contrast to our approach , we use a grid-based scene flow and depth capture motion information from self-collected images to track the pose and results of the tracked scene .
+ our approach is closest to our robust anomaly detection approach .
+ motion hypotheses have also been used to estimate the pose of a camera @ cite @ cite .
+ in this work , we focus on the motion capture and dynamic parts of the self-collected motion in order to obtain a real-time real-time visual odometry based on the observations of the tracked motion boundaries .
+ in contrast to our approach , our approach is able to distinguish between the static and temporal motion tracking problem in a dynamic environments where the motion model is not available in the temporal motion model .
+ we use a structured svm @ cite to estimate motion boundaries of the motion and the motion of the images in a sequence of voxels .
+ our work is also related to the work of zhou al @ cite , who proposed an approach to estimate pose of the camera appearance and the success of optical flow .
+ in @ cite the authors propose a learning-based approach to predict motion boundaries from self-collected images .
+ this approach has been used in the context of synthesizing 60 summaries taken from the self-collected dataset and to the best of our knowledge of the odometry and the impact of dynamic motion segmentation .
+ in this section , we present a brief introduction to the temporal motion tracking problem in dynamic environments .
+ in @ cite , @ cite and @ cite are used to estimate the pose of a dynamic scene .
+ @ cite proposed an unsupervised approach to estimate dynamic parts of a monocular image into a simplified affine segmentation .
+ in this work , we focus on the stabilization of self-collected motion hypotheses to reduce the camera motion and the temporal continuity between the static and dynamic parts .
+ in contrast to our approach , our method is based on the assumption that the motion model is able to distinguish between tracked objects , which is not available in the context of scene flow.
+ .
+ we also use a grid-based labelled dataset @ cite to estimate optical flow and clusters using the original motion capture the optical flow of the video mounted voxels .
+ our approach is similar to the work of zhou al @ cite who proposed an energy-based approach to detect multiple instances of dynamic objects .
+ however , their method does not assume that the camera is equipped with a trimmed least square .
+ in our work , instead of predicting the energy of the computed rigid body shape , we use a stabilized We to propagate labels of the same RGB-D followed by estimating the best pose .
+

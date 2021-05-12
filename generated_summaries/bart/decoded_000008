@@ -1,0 +1,12 @@
+Recently, deep reinforcement learning has been applied to chatbot dialogue @cite  .
+ In this work, we focus on building a dialogue management system that learns to collectively complete multiple subtasks, such as booking a flight and booking a hotel check-in .
+ In this paper, we build a dialogue manager that operates at different temporal scales, and a global state tracker that helps ensure all cross-subtask constraints be satisfied .
+ In the past few years, there has been a surge of interest in using deep RL to learn dialogue management systems .
+ In particular, deep RL has been used to learn a dialogue agent that can solve complex tasks such as travel planning and information retrieval .
+ In @cite , the authors propose a ranking system that recommends products that provide, on average, the best value for the consumer's money .
+ The authors use a unique data set of U .
+S .
+ hotel reservations made over a three-month period through Travelocity, which they supplement with data from various social media sources using techniques from text mining, image classification, social geotagging, human annotations, and geomapping .
+ They propose a random coefficient hybrid structural model, taking into account the two sources of consumer heterogeneity the different travel occasions and different hotel characteristics introduce .
+ Based on the estimates from the model, they infer the economic impact of various location and service characteristics of hotels .
+ They then propose a new hotel ranking system based on the average

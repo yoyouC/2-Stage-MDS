@@ -1,0 +1,8 @@
+the learned invariant representations of the feature maps have been widely used in the context of deep learning @ cite @ cite .
+ for example , @ cite used dense skip connections to reproduce the dense skip connection between the network and the cascade of convolutional filters .
+ in @ cite , the authors proposed a super-resolution method based on a very deep convolutional neural network ( cnn ) .
+ the authors of @ cite proposed a novel layer to learn the inner structure of the rest of all subsequent layers, filters and the features of each layer to be propagated into all subsequent layers .
+ in this work , we focus on the redundancy of learned flow and linear combination of filters and non-linear activation functions .
+ @ cite and @ cite show that the sparsity of convolutional kernels in the form of the spectral graph is helpful for a wide range of geometry analysis .
+ in contrast to our work , our work differs from the previous work by @ cite who propose to use deep neural networks to learn a portion of the filters and high-level features of the convolutional kernels , and then derive a task-specific regularization on the filters in the network .
+

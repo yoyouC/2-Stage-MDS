@@ -1,0 +1,5 @@
+In @cite , the authors proposed a novel fuzziness based semi-supervised learning approach by utilizing unlabeled samples assisted with supervised learning algorithm to improve the classifier's performance for the IDSsss .
+ The authors proposed an intrusion detection model based on deep belief network (DNN) and a sample categorization (low, mid, and high fuzziness categories) based on the fuzzy quantity of the data .
+ The proposed approach uses a single hidden layer feed-forward neural network (SLFN) to output a fuzzy membership vector .
+ The classifier is retrained after incorporating each category separately into the original training set .
+

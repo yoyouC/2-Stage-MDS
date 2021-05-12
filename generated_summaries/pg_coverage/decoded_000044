@@ -1,0 +1,57 @@
+the most related work to ours is the work of @ cite , where the authors use it to generate a model for attribute manipulation in target domain .
+ @ cite proposed a Learning method that learns a mapping between the source and target domains into the source domain and the target source domain to the target domain , and the learned projection is used to generate the latent representations of the source image .
+ in contrast to our work , the authors proposed a novel method to jointly learn a projection matrix and the information of the reference face image .
+ the authors in @ cite use a similar approach to @ cite for the task of zero-shot classification .
+ however to the best of our knowledge , this is the first work that considers the interpretability of the latent space and latent space , which can be used to learn the latent representation of an autoencoder .
+ however in the context of zero-shot learning , we believe that the state of the art approaches can be modeled as a special case of the domain of the autoencoder .
+ in this paper , we use mmd as a metric for zero-shot classification @ cite @ cite .
+ generative adversarial networks ( gans ) have been widely used for image recognition @ cite @ cite , image image reconstruction @ cite and image generation @ cite .
+ recently , @ cite proposed a generative adversarial network ( gan ) to learn the generation of images from a specific domain .
+ @ cite used a conditional gan to learn a composition of label and latent attributes of the latent space and the latent vectors of the generated face images .
+ the work of @ cite investigates the interpretability of the generative model for the task of semi-supervised learning .
+ however - in the domain of image manipulation tasks , the state of the art generative models have been used to solve the problem of detecting and diverse anomaly in a variety of images .
+ however , these approaches are not capable of modeling the information of the autoencoder , rather than being able to learn disentangled representations of attributes such as faces or objects .
+ our approach belongs to the latter category tailored to our work , as we aim to directly learn the latent representations of the input image to a lower dimension of generated image images .
+ methods.
+ matrix decomposition @ cite and semi-supervised matrix factorization @ cite have also been used for image inpainting .
+ @ cite proposed a semi-supervised learning based method to predict the interpretability of the latent space .
+ however to the best of our knowledge , this is the first work in the domain of an image inpainting task .
+ in @ cite , the authors present a novel method for semantic image inpainting by conditioning a perceptual loss between the input image and the recovered representations of the corrupted image in the latent image .
+ however In @ cite @ cite can be viewed as a special case of the interpretability .
+ in contrast to our work , we propose to use deep neural networks to learn the latent representations for a given image .
+ we learn a latent representation for the latent representation of the autoencoder , which can be used to predict semantic information in a single image .
+ our approach differs from the above mentioned work in this paper , which extends the work of @ cite in the context of image manipulation tasks , as well as the key difference between our work and the previous work on inpainting .
+ several recent works have investigated the interpretability of the latent space of an auto-encoder for a given image @ cite @ cite .
+ however to the best of our knowledge , this approach has been successfully applied to the domain of image attribute classification @ cite and reconstruction @ cite , as well as the derivation of the learned representations of different attributes such as variational autoencoders @ cite or generative adversarial networks ( gans ) @ cite have been used to generate realistic samples .
+ however , these methods are not applicable to the problem of latent space , since they assume that the latent variables are disentangled during the training data .
+ in contrast to our work , we aim to learn a latent representation of an autoencoder , which acts as a regularizer and encourages the expressiveness to be unstable .
+ however because of the inherently ambiguous role , we do not require a large amount of training data , which is not available in the real world .
+ in addition , our approach is able to learn disentangled latent representations , which can be viewed as a special case of our model .
+ however in this paper , we focus on generating the latent representation in a latent space .
+ the most related work to ours is the work of @ cite @ cite , where the authors use a transfer learning for human action manipulation .
+ @ cite proposed a unified framework for classifying the class attribute space and the relationship between the class and the degree of importance of each attribute .
+ however to the best of our knowledge , this approach has only been used in the domain of the interpretability of the latent space .
+ in our work , we aim to learn a latent representation of an autoencoder , which acts as a regularizer .
+ we show that the learned representation is able to learn the latent representations of an input image and the image space .
+ our approach is inspired by the work in @ cite and @ cite .
+ in contrast to our approach , our work can be viewed as a bridge between class space and latent space , as we do in this paper .
+ our work differs from the previous work in the context of the transductive setting , which is the focus of our work .
+ however where the goal is to generate the attribute of the class , we use a similar approach to model the interpretability in the real world .
+ the problem of multi-object learning has been addressed in the context of artificial intelligence @ cite @ cite , where the goal is to predict the interpretability of the latent space .
+ @ cite proposed a new graph embedding approach to embed each vertex into a continuous vector space .
+ the authors of @ cite propose a graph embedding method to learn the latent representations of the graph , and the relationships between the graph nodes and the graph are visualized and modeled as a graph .
+ in @ cite the authors propose a novel graph embedding model to decompose a graph into a one-dimensional vector space and the localized structural and attributive information of vertices in a graph graph .
+ the graph laplacian is modeled as the adjacency matrices of the edge weights of the nodes in the latent representation.
+ space .
+ however of the directed case , the state of the art in this work is not directly applicable to our problem .
+ in contrast to our work , we aim to learn a latent representation of an auto-encoder that acts as a part of the transductive dr problem .
+ however in this paper , we focus on learning to sparsely labelled classes , rather than single-object attributes .
+ the most closely related work to ours is the work of @ cite , who proposed a method to learn a joint latent representation of the data space and the inference network to improve the interpretability of samples in the space of an auto-encoder .
+ @ cite used generative adversarial networks ( gans ) to learn the latent representations of the latent space .
+ however of generalisation in the generative adversarial network ( gan ) @ cite @ cite have been proposed to learn latent representations for image manipulation tasks .
+ however in this paper , we focus on the problem of unifying the attributes into a latent space , rather than being able to learn disentangled representations that capture information about the attributes of attributes .
+ our work differs from these works in that we aim to learn mutually coherent inference of latent space and examples of multimodal latent variables , which can be viewed as a special case of generative adversarial game .
+ however information.
+ , we show that the learned model can be used to learn interpretability for attribute manipulation tasks such as reconstructions .
+ in contrast to our work , we learn a latent representation for an autoencoder , which acts as a regularizer .
+

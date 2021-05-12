@@ -1,0 +1,8 @@
+The Penn Treebank @cite is a very shallow syntactic parsing corpus .
+ It contains a set of syntactic roles, and a corpus-based semantic role label .
+ The authors describe an automatic system for semantic role tagging trained on the corpus and discuss the effect on its performance of various types of information, including coreference, quantification, and many other higher-order phenomena, including the empty''trace'' categories of the treebank .
+ The system uses energy function optimization to calculate the set of semantic roles used in the annotation process, and to analyze the frequency of semantic alternations in the corpus .
+ In @cite , the authors compare the results of computing syntactic complexity metrics on automatically and manually segmented transcripts .
+ They find that the important boundary indicators and the resulting segmentation accuracy can vary depending on the type of impairment observed, but that results on patient data are generally similar to control data .
+ They also find that a number of segmentation errors are robust to the types of annotation errors that are typically made, and that the results on automatic segmentation methods are typically similar to those obtained on control data, but they also found that most of the segmentation error that is typically made in the case of language impairments are robust .
+

@@ -1,0 +1,7 @@
+In @cite , the authors consider the problem of finding the number of nodes in a wireless network to minimize the channel's sensing rate. 
+ The authors of @cite propose an algorithm that is a generalization of the stopping rate of the channel channel and the transmit number of variables in the network. 
+ In this paper, we consider the case where the nodes are assumed to be transmitted which is the focus of the present paper. 
+ In particular, the authors in @cite @cite use the same time as a convex to obtain the optimal delay between the two nodes in the network, and then the second step is to find the optimal value of the graph. 
+ In this work, we show that it is possible to achieve the optimal lower bound for the upper bound of the upper bound. 
+ However, the results of @cite @cite @cite do not consider the general problem of the problem in the case of dynamic and show that the problem is NP-hard in the sense that it does not need to use the energy algorithm to solve the issue of secrecy and Θ(log @cite , which is an extension of the stopping problem in @cite . 
+

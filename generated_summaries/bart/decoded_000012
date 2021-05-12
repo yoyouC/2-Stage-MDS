@@ -1,0 +1,7 @@
+In @cite , the authors propose a method to integrate real time sensor data in agent-based simulation of smart environments based on Particle Filters (PFs) .
+ The data assimilation aims to estimate the system state, i .
+e .
+, people’s location information in real time, and use the estimated states to provide initial conditions for more accurate simulation prediction of the system dynamics in the future .
+ The proposed framework and method are demonstrated and evaluated through experiments using a sparsely populated smart environment .
+ In this paper, we use the exemplar of a bus route system to explore these methods .
+

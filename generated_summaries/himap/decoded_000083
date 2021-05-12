@@ -1,0 +1,9 @@
+In @cite , the authors propose a spectral clustering algorithm for intrusion detection in intrusion detection. 
+ Their method is based on spectral which requires a small number of unlabeled samples to train a classifier and learns a new generative model for each task. 
+ In this paper, we propose a mutual information selection algorithm for the intrusion detection of intrusion data and used the combined learning algorithm for learning the optimal number of data points in the training set of training samples from the training set. 
+ In this work, we show that our approach is more effective than the augmented intrusion detection problem. 
+ The authors in @cite proposed a method for semi-supervised learning with unlabeled samples from a small set of samples to generate the optimal feature selection of the IDSs. 
+ and the NSL-KDD dataset @cite . 
+ This method is similar to our work in the sense that it does not require the assumption of the training data but also it is not applicable to the network and is therefore not suitable for our work. 
+ In addition, our method is more flexible and can be applied to the problem of intrusion detection and is not available in our work. 
+

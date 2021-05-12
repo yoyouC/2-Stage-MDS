@@ -1,0 +1,17 @@
+our work is closely related to the recent work of @ cite .
+ @ cite , @ cite and @ cite are used to train a part-based model to recognize the body parts of the body part of the skeleton .
+ in @ cite @ cite the authors propose to use semantic body parts to transfer the body shape of human pose and pose of part candidates .
+ The et al @ cite use a stochastic shape model to learn the unary potentials of body parts .
+ however to the best of our knowledge , this work is the first to propose weakly supervised body part segmentation for body part parsing .
+ in contrast to our work , our method is based on the concept of synthesizing part segmentation and pose estimation into a dynamic programming framework .
+ in this work , we propose a novel semi-supervised model that jointly learns new supervision and predictions for weakly-supervised supervised parsing .
+ our work differs from these works in that we focus on the annotation costs rather than aligning part of a body shape from a large number of regions of people , and the results in terms of effort are helpful .
+ human parsing has become a popular topic in computer vision @ cite @ cite , image parsing @ cite and self-supervised learning @ cite .
+ in this section , we briefly review the most relevant previous works in the field of body part segmentation .
+ we refer the readers to @ cite for a comprehensive overview of recent developments in the area of computer vision and gesture recognition .
+ for instance , in @ cite the authors present a self-supervised structure-sensitive learning approach to train a neural network for human parsing .
+ assigning body parts to estimated the best candidate bounding boxes of a body part of the body parts are extracted from the extracted features .
+ @ cite propose a self-supervised approach to select human joints from each pixel in a single body part .
+ however to the best of our knowledge , this work is the first to address this problem in the context of joint parsing and pose parsing , which allows us to integrate a large number of poses .
+ in contrast to our work , we focus on self usage of the problem of scale masks , rather than being able to generate new supervision .
+

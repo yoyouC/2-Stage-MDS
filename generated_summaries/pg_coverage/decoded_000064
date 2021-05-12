@@ -1,0 +1,18 @@
+multilegged SEP @ cite and [UNK] @ cite are the most successful approaches for trajectory planning in dynamic environments .
+ however due to the lack of physically based kinematic models , there are still a few works resort to @ cite @ cite .
+ in @ cite , the authors present a receding horizon control technique , where the goal is to recover the body shape of the robot .
+ the authors of @ cite present a method for solving the dynamic programming problem for planner planning .
+ however to the best of our knowledge , no previous work has been done on the robot and enable a robot to change the robot 's walking posture .
+ in our work , we focus on a local bound on the kinematic and dynamic constraints of the box and the states of the tracked body shape , and the goal of finding a collision-free trajectory for the robot in a simulated environment .
+ our approach relaxes this approach in the context of trajectory optimisation in dynamic testing , where a robot is subjected to the robot arm .
+ however in this paper , we do not require collision avoidance and planning in a goal environment .
+ multilegged RAMP @ cite and [UNK] @ cite are the most successful application of motion planning in dynamic environments .
+ however , it is not clear how to use a legged robot to change the body shape of walking spaces .
+ in contrast , our deformable bounding box approach can be viewed as a special case of trajectory planning .
+ in this paper , we assume that the robot is placed on a spaces.
+ grasp , and the goal is to move the body of objects in the vicinity of the manipulator .
+ in our approach , we use the trajectory optimisation as the distance between the robot and the position of the tracked robots .
+ our approach is similar to our work in the sense that the bounding box of the camera is not available in the environment , whereas our approach does not require a large amount of contact between the shape of the environment and the environment .
+ in the case of the robot , the robot has to be done in a safe environment .
+ however around the present work , we do not assume any collision shape and the robot 's walking posture , which is not collision-free .
+

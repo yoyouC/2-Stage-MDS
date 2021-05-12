@@ -1,0 +1,35 @@
+recently , deep neural networks have been applied to distance metric learning @ cite @ cite and person re-identification @ cite .
+ however to the best of our knowledge , none of the existing works have focused on the structure of the training data .
+ for example , @ cite proposed a deep neural network for re-id distance metric based on an end-to-end learning approach .
+ @ cite use the center loss to calculate the optimal distance between the views of the same image and the matched camera .
+ the authors of @ cite present a comprehensive review of the field of person re-id and validates the effectiveness of feature extraction in a discriminative null space .
+ in @ cite , the authors proposed a view-specific learning approach based on the features of full body parts to improve the performance of deep networks .
+ however people are unreliable in the sense that the body of training data is not available .
+ in contrast to our work , the global feature extraction of convolutional neural networks is not suitable for person re-identification .
+ in this paper , we propose a novel re-id model for each joint person structure , which can be used to capture the local context information .
+ person re-id has attracted a lot of interest in the research community @ cite @ cite .
+ in particular , ke @ cite proposed a progressive sequential fusion ( lbp ) based on long short-term memory ( lstm ) and a full connected layer.
+ To to extract discriminative features for person re-identification .
+ @ cite used a triplet loss to learn the color feature, and the global full-body feature and at the same time as the appearance of the regions of the person in the field of the tracked human body based on a new description of the image , and the correspondence between the extracted input and the graph are connected to the timesteps .
+ in @ cite , the authors proposed a novel recurrent neural network to jointly learn a similarity metric for video-based person re-identification , and @ cite developed a joint human region based on Kernel to capture the intrinsic information of the underlying person structure .
+ in the context of person re-id , @ cite extended the work by @ cite where the authors use a cnn to encode the global body-parts features for each person in a person , and then use the symmetry structure to predict the color and optical flow .
+ the authors of @ cite propose to learn a hierarchical representation descriptor for person re-ID.
+ .
+ however to the best of our knowledge , none of these approaches have been proposed for the person re-identification task .
+ recently , deep learning based methods @ cite @ cite have been proposed for person re-identification .
+ in @ cite , the authors proposed a method based on the fully convolutional neural network ( cnn ) to encode the body part of a pair of regions of probe and gallery images into a structure-aware feature space .
+ @ cite proposed a joint attention model for joint body partition, , and @ cite fused the similarities between different regions of the probe body and the background noise .
+ in the context of person reid , @ cite uses human annotators to guide the input to the current input video .
+ in contrast , our approach integrates the advantages of feature extraction and feature representation for person structure , which is also related to our work .
+ however , these methods are not suitable for person re-id because they do not consider the person and improve the performance of the person detector .
+ in our work , we focus on the problem of segmenting the underlying person structure in the person domain , and it is not clear how the person pose affects the availability of well-aligned person views and the misalignment between the structure and the human poses .
+ the person structure has been extensively studied in the context of person reid @ cite @ cite .
+ a comprehensive review of the field of person re-identification can be found in @ cite , @ cite and @ cite respectively .
+ @ cite proposed a scalable distance driven method for person re-id by using deep neural networks for person reid .
+ however , these methods are not suitable for person re-identification due to the lack of large labeled data for the performance of SEP changeable images .
+ in contrast to our work , we use a novel soft constraint for the underlying person structure , which can be regarded as a special case of the person 's person re-identification task .
+ in the following , we propose a novel discriminator , which is aligned in the domain of person re-ID.
+ .
+ in addition , the proposed method is able to learn a discriminant low dimensional subspace and local feature descriptors .
+ in particular , a mid-level local feature representation has been used for the task of feature extraction @ cite or discriminant analysis, @ cite for the purpose of the human pose of the same person as well as illumination and viewpoint .
+

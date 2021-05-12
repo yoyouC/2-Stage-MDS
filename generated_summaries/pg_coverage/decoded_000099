@@ -1,0 +1,15 @@
+Matrix et al @ cite have proposed a method for computing matrix profile for computing the distance between two cells .
+ the authors of @ cite present a new algorithm for finding the optimal time series distance maps and then resort to solving the problem of finding an optimal distance metric for a given set of cells .
+ @ cite proposed a multilinear interpolation technique for the case of the dynamic Voronoi algorithms .
+ in @ cite , the authors present a dynamic variant of the classical Euclidean algorithm ( [UNK] ) , which is based on the [UNK] algorithm @ cite @ cite .
+ however with the aim of this approach , it is not clear whether it is possible to find the partitioning of the representation learning algorithm .
+ in contrast to our approach , this approach has not been applied to a wide range of applications , such as the We @ cite and [UNK] @ cite for the purpose of finding the distance metric between cells and the derivation of the distance function of the task .
+ however such methods are not suitable for time series , since they are not directly applicable to our problem .
+ the problem of higher-level matrix completion has been studied in the context of time series data mining @ cite @ cite .
+ the authors of @ cite proposed a method for computing massive time series matrix completion .
+ @ cite used a Map-Reduce algorithm to split the data into orthogonal matching pursuit for the case of the time series , and @ cite show that the proposed algorithm achieves better performance than the current state-of-the-art matrix nuclear algorithm ( [UNK] ) .
+ in @ cite , the authors present a scalable algorithm for the real-time monitoring of the Low profile in the data mining pipeline .
+ however to the best of our knowledge , none of these works have focused on computing the distance between the subsequences.
+ and the time domain , which is not suitable for knowledge bases .
+ in contrast to our work , we focus on a novel algorithms for Euclidean matrix profile calculation , which can be broadly categorized into two main categories : ( 1 ) our ideas are based on @ math and @ math , and ( 3 ) we refer to @ cite for a more comprehensive review of matrix completion algorithms .
+

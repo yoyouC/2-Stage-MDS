@@ -1,0 +1,11 @@
+The concept of margin has been widely used in deep learning @cite  .
+ The margin is defined as the distance between two instances of the same class in the input space .
+ The margin can be defined as a function of @math -nearest neighbors @math , where @math is the number of instances of a given class @math and @math denotes the margin @math  .
+ In the context of deep learning, the margin constraint has been used to enforce the intercluster and inter-class margins in various deep learning models .
+ For example, @math-nearest neighbor (kNN) has been proposed to enforce maximum margin constraints on the output layer of a deep neural network .
+ In this work, we propose a hybrid loss function to enforce There is a large body of literature on the problem of class imbalance in machine learning @cite  .
+ In this section, we briefly review some of the most relevant works in this area .
+ In the past few years, there has been a surge of interest in the field of imbalanced data .
+ The most relevant work to this paper is the recent work on the class imbalance problem in deep neural networks .
+ In this work, we propose a hybrid loss function that jointly performs classification and clustering in a single formulation .
+ The proposed loss is based on an affinity measure' in Euclidean space that leads to the following benefits: (1) direct enforcement of maximum margin constraints on classification boundaries, (2) flexibility to learn multiple class prototypes to support diversity

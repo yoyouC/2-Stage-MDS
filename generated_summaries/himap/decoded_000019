@@ -1,0 +1,35 @@
+In this section, we briefly review the representative work that has closely related to our work. 
+ For a comprehensive review of the field, we refer the interested reader to the surveys @cite . 
+ Here, we discuss the most relevant work in this area. 
+ Here we propose a new access control model that can be used to jointly model NER and linking the mutual dependency between the two tasks with the same entity as well as the mutual information. 
+ Our approach is similar to the one proposed in @cite , in the sense that it is based on a combination of the mutual and a hybrid model that is able to capture both the dependencies between mentions and character-level features in order to improve the performance of the NER system. 
+ In this paper, we focus on the use of neural networks in the context of NER language and linking them into a neural network architecture with the goal of learning to optimize the NER model for the task of NER @cite . 
+ Our work differs from the previous work by @cite , who proposed a novel neural network that is trained on top of the two platform data and Linking, In @cite , the authors propose to use a graph model to predict the relationships between pairs of texts in the text. 
+ This approach is similar to our approach, as it is used as a sequence of words in the form of a graph with an entity that is defined on the candidate of the user. 
+ In this way, we use the same example of our method to prune the search space of the entity space in the text space and then use the embedding of the knowledge base in the entity as we do. 
+ Finally, we do not consider the problem of finding a knowledge base for a given set of texts and not only a single text for each other in the same language. 
+ Our work is also related to that of @cite , but we focus on the use of text descriptions for entity linking and our work in this paper is more relevant to this work. 
+ Reproducibility @cite , a neural network model is used for the task of entity linking which is a generalization of the EL benchmark feature entity the data. 
+ data. 
+ data. 
+ extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted extracted from from from and Certus, TransR and TransH @cite proposed a tree-based structured learning framework based on multiple additive regression to represent the relation between the entities and entities in the entity space. 
+ The model is trained using a graph model trained on a relation with head entity space to the target domain. 
+ They then use this model to learn the mapping between the entity and entities of the entity space and the entity embeddings of the KB, and the corresponding features of the model. 
+ In this work, we use a similar approach based on the KB structure of the KB, and show that it is not possible to train a model that can be used to learn a relation between entities and relations in the relation space of the candidates. 
+ In this paper, we propose a novel neural network based approach to model the semantic classes of entities in a relation space to improve the performance of entity linking in the context of entity prediction, and in contrast to @cite , our approach is similar to that of @cite @cite , but we do not focus on the semantic relatedness of the input data, which is the focus of our work. 
+ Our work is also related to other approaches to the problem of tweet linking @cite @cite @cite and entity prediction @cite @cite . 
+ In this paper, we focus on the problem of knowledge computing in hashtags @cite @cite @cite . 
+ In @cite , the authors propose a context model to segment the entities of a neural network and used a graph model to predict the structure of the entities in the head and the knowledge base @cite . 
+ This approach is similar to our work in that it is based on the idea that the knowledge graph is a combination of the training data and a type of triplets, In our work, we consider the problem as a problem in a more general setting. 
+ In this work, our approach is more general and can be applied to the task of social media analytics @cite . 
+ Our work is different from the above works by @cite , in which the structure is represented as a set of nodes that can be used for the purpose of the entity linking and the final mapping between the entities and the tweet is not considered. 
+ Our approach is different in that we do not require any additional information about the training data. 
+ Instead, we propose a method for entity linking in the presence of triplets, In @cite , the authors propose a graph-based framework for entity correspondence with the goal of learning the global interdependence of different EL mentions in the target system. 
+ The authors also proposed a graph-based approach to jointly model the global correspondences between entities and entities in the source system. 
+ @cite proposed to use a graph model to predict the entities in a target system and then select the entities using the interdependence of the same EL and the entity patterns of the EL respectively. 
+ The authors proposed that a graph-based model is able to find better performance compared to traditional knowledge transfer than the previous approaches. 
+ In this work, we show that our collective inference algorithm, can be effective in the context of knowledge transfer, which is more relevant to our task. 
+ In this paper, we focus on the use of knowledge graph linking to improve the performance of relation linking between different EL queries in a supervised setting. 
+ In addition, our work focuses on this kind of work, while we focus only on knowledge from the source system and do not consider the relation between the EL and different EL in our work. 
+ In our work, we propose to use the global EL as the graph model and compare the performance performance on the entity recognition task. 
+

@@ -1,0 +1,18 @@
+In @cite , the authors proposed a distributed power control scheme for wireless ad-hoc networks, in which each user announces a price that reflects compensation paid by other users for their interference .
+ The authors also proposed an asynchronous distributed algorithm for updating power levels and prices in a fictitious game .
+ However, the authors did not take channel overlap and power control into account .
+ Moreover, they did not consider coverage and complexity of interference .
+ In addition, the proposed algorithm does not take the network coverage into account and does not consider the complexity of interfering UAV networks .
+ In contrast, our proposed algorithm is more suitable for large-scale UAV network deployments .
+ In @cite , the authors proposed an online learning algorithm to improve the utility of each user .
+ The algorithm admits an approximate NE over time and provides no regret guarantee for each user, and is joint differentially private and incentive-compatible .
+ The authors also proposed a multi-user game with learning automaton to achieve a Nash equilibrium .
+ However, the authors did not consider the impact of interference on the network performance .
+ Moreover, they did not take into account the coverage and the complexity of interference in the network .
+ In addition, they assumed that the interference constraint of PUs is not present in the game .
+ In this paper, we employ noncooperative game theory and amended BLLA to capture and cover the characteristics of UAV network performance UAV ad-hoc networks have been extensively studied in the literature .
+ In @cite , the authors considered the emergency deployment problem from a communication perspective and proposed a deterministic algorithm to minimize the energy consumption of the UAVs .
+ In the same paper, the authors proposed a novel emergency deployment strategy based on UAV small cells (DSCs) to expand wireless communication coverage on demand .
+ However, in this paper, we do not consider interference, but instead consider coverage and the complexity of interference .
+ In addition, we consider both the interference and the network topology, which are not considered in this work .
+

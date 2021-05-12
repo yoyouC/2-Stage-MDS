@@ -1,0 +1,8 @@
+topological task planning has traditionally been used for trajectory planning @ cite @ cite .
+ in the context of motion planning , @ cite present a topological method to identify homotopy configurations between an initial initial topological trajectories and a collection of inequivalent trajectories , which are then used to predict the nonlinear dynamics of the configuration space .
+ in @ cite , the authors proposed a topological task projections based on a belief model and used a regression model to predict control inputs .
+ @ cite proposed a method for kinodynamic planning in a configuration space , where the goal is to reduce the expected cumulative structure of the initial trajectories .
+ however , these approaches are not suited for motion planning and do not consider the belief estimate of points in the space of configurations .
+ in contrast to our approach , our approach does not require any prior knowledge about the configurations , which is conceptually similar to our work in the sense that our distance metrics can be mapped to the unevaluated configurations of the configurations and velocity of the points .
+ our work differs from these works in that it relies on a pre-existing approach to solve the problem of belief estimate accuracy .
+

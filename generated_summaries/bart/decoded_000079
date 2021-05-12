@@ -1,0 +1,17 @@
+Recently, semi-supervised learning has been applied to solve the problem of correspondence estimation between semantically related images .
+ In @cite , the authors propose a supervised dictionary based on local image descriptors for classification tasks .
+ The supervised dictionary is obtained by minimizing the training error of classifying the image level features, which are extracted by max pooling over the sparse codes within a spatial pyramid .
+ The proposed dictionary improves the performance of the proposed model significantly over the unsupervised dictionary, leading to state-of-the-art performance on diverse image databases in real applications .
+ In this paper, we propose to impose cyclic consistency constraint on unlabeled image pairs .
+ Convolutional neural networks (CNNs) have been successfully applied to solve the problem of correspondence estimation between semantically related images .
+ In @cite , a CNN is trained to estimate the correspondence between two semantically similar images .
+ However, this method requires a large amount of training data, which limits its applicability to other computer vision tasks .
+ To address this issue, a semi-supervised learning framework has been proposed to learn the consistency between two images .
+ This framework is based on the idea that a CNN should be able to learn a mapping from the source image to the target image .
+ In this framework, a CNN can be trained to predict the correspondences between the source and target images .
+ Semi-supervised learning has been widely studied in the computer vision community .
+ In @cite , the authors proposed a method to learn a generative adversarial network (GAN) for semantic segmentation .
+ The GAN is trained on a large number of images with strong pixel-level annotations and is hence applicable to semi-supervision tasks .
+ In this paper, we propose an unsupervised semi-vised learning framework that imposes cyclic consistency constraint on unlabeled image pairs .
+ In addition to this, we also propose a semi-adaptive semi-learning framework that is capable of leveraging real-world videos for training .
+

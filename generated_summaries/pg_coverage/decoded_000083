@@ -1,0 +1,9 @@
+there have been a large amount of work on network intrusion detection in the field of intrusion detection , starting from the seminal work of [UNK] @ cite @ cite , and many of them are devoted to the challenges of malicious attacks .
+ for example , @ cite proposed a joint probabilistic generative model for semi-supervised learning based on spectral clustering and deep neural networks .
+ @ cite used spectral clustering to detect malicious network intrusions using random forest , and achieved state-of-the-art results in terms of accuracy .
+ @ math -means intrusion detection system was proposed by @ cite and @ cite for intrusion detection .
+ the authors of @ cite presented a Poisson-Gamma based semi-supervised learning approach for Intrusion detection of malicious users .
+ in @ cite the authors proposed a novel network based on deep learning to supervised learning based intrusion detection systems .
+ however , they do not consider the intrusion detection model , which is based on statistical analysis of the intrusion detection.
+ @ cite .
+ in contrast to our work , we aim to detecting malicious intrusions in a small set of network intrusion samples, , which can be categorized into two main categories : 1 )

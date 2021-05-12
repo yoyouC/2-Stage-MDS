@@ -1,0 +1,60 @@
+the interpretability of latent space and latent space has been widely investigated in @ cite @ cite .
+ in this section , we present a brief review on the problem of generating human face images in the target domain .
+ we refer the readers to @ cite for a comprehensive review of the most relevant research directions .
+ jointly , @ cite and @ cite provide a concise description of the field of zero-shot learning and the relationship between source domain and target attributes .
+ the difference between our work and the work of @ cite is the closest work to ours .
+ the authors discuss the use of an inductive gradient decent algorithm to estimate the information of the latent space .
+ in contrast , our method is based on the assumption that the latent vectors are separated from the source and target domains , which can be seen as a projection of the source of target domain to the target domain.
+ .
+ in our work , we use a similar approach to learn the latent representations of both face and the source domain , which is similar to the one we present in the present work .
+ we also note that attributes can be used to learn a projection matrix @ math and @ math , where @ math is the indicator of the vector @ math .
+ generative adversarial networks ( gans ) @ cite have been successfully applied to image generation: @ cite and image generation @ cite @ cite .
+ in this work , we use a generative model to learn the relationship between the latent codes and the real image and the latent space .
+ our approach is similar to the spirit of our proposed model , which exploits the fact that the latent vectors between images and objects can be decoded from the input image .
+ our work is closest to the work of zhou al @ cite , which has been shown to be useful for synthesizing face images .
+ however , our work differs from ours in that we do not impose any assumption on the interpretability of the autoencoder , which is the main motivation for our work , and we are not aware of any prior work on anomaly detection in the context of matrix completion .
+ in particular , we will show that our approach can be seen as an extension of a variational autoencoder ( vae ) and generative adversarial network ( gan ) to reconstruct images from the generated image @ math .
+ in contrast to our approach , we are interested in the learning of latent space and latent space , which allows us to synthesize samples .
+ our work is also closely related to the recent work of @ cite .
+ @ cite , the authors propose a method to predict the missing content by conditioning on the latent structure of the corrupted image and the recovered representations .
+ the perceptual loss function is used to find the closest encoding of the latent space and the data points in the latent image .
+ in this work , we propose a novel method for semantic image inpainting , which is based on the assumption that the data about the missing attribute is given by the training set .
+ in contrast to our approach , our method is able to learn a latent vector space that encourages the latent representation of an auto-encoder from a trained generative model .
+ in @ cite the authors show that the loss between the input image and latent space can be used to learn the mapping between the attributes of the source and target attributes .
+ our approach is similar to @ cite and @ cite for a more general class of image inpainting .
+ in the work , @ cite proposed a novel matrix factorization method for image inpainting in the context of semantic image synthesis .
+ the interpretability of generative models has been investigated in @ cite @ cite , @ cite and @ cite .
+ in this work , we are able to learn a generative model for the latent space of an auto-encoder to separate the information of the latent representation .
+ in contrast , our model is able to improve the quality of the learned latent representations of the dataset .
+ our approach is similar to ours , but our work is different from ours in that we do not impose any assumption on the input of the autoencoder , but instead of factorizing a latent space , we learn the latent encodings of the labelled image , which allows us to synthesize latent variables , which can be used to diagnose latent space factorisation.
+ .
+ we show that our approach can be seen as an extension of the VAE @ cite to learn latent relationships between images and visual attributes.
+ model .
+ our work differs from these previous works that are closely related to ours .
+ in particular , we use generative adversarial networks ( gans ) to estimate the attributes of the information in the learnt latent space .
+ we use a similar approach to image generation .
+ the interpretability of latent space has been investigated in the context of transfer learning @ cite @ cite .
+ in the work of @ cite , the authors proposed a unified framework for classifying human actions and argue the relationship between the class attribute space and the image space .
+ in @ cite the authors show that the latent space of an autoencoder is composed of a discriminative latent space and try to reconstruct the samples from the given attributes, .
+ @ cite proposed a method to learn the attributes of a human action using a conditional random field ( crf ) , which is learned from the training data .
+ in this work , we use cca @ cite to generate realistic versions of the image and generate a latent space using the generated samples .
+ our approach is closest to our approach , but this work is based on the assumption that our latent space is absent in the generated data .
+ our work is different from theirs in that we do not consider the perceived value of the input image , and we believe that our approach can be seen as an extension to the present work .
+ there has been a growing body of work on graph clustering @ cite @ cite .
+ in this work , we focus on the structure of the latent space of a graph , which can be organized into two categories : unsupervised and unsupervised learning @ cite , and we refer the interested reader to the recent survey @ cite for a couple of related work in the context of graph embedding .
+ in @ cite the authors present a method for learning the latent attributes for understanding group or content information .
+ @ cite proposed a new model for attributed graph clustering.
+ The clustering , which is based on the concept of the localized structural and attributive graph structure .
+ in contrast , our approach is similar to ours in the sense that the latent vector of nodes can be interpreted as a continuous vector space .
+ in our work , instead of predicting the similarity between the two labelled classes , we use a random walk algorithm to learn the latent representation of the space and the information of the embeddings of the autoencoder .
+ our work is also closely related to the work of zhou al @ cite and the authors of this paper .
+ our work is closest to the work of @ cite , who proposed an approach to learn a latent space for joint samples from the data space to the space of stochastic latent variables .
+ in this work , we learn the interpretability of the latent space from stochastic latent space to improve the quality of the learned representations .
+ we show that our approach can be seen as an extension of the autoencoder model @ cite to learn mutually coherent inference and generation networks in data space .
+ in contrast to our work , our approach is based on the assumption that the latent representation of an autoencoder can be learned from the learnt latent space , which can be used to learn the latent representations of the data in an unsupervised manner .
+ our work differs from these works in that we do not consider the problem of manipulation tasks , but the game is not considered in the context of latent space .
+ An et al @ cite proposed a generative model to distinguish between joint and coherent inference of information in the latent variables.
+ adversarial game .
+ however others.
+ attributes do not address the issue of attribute manipulation tasks .
+

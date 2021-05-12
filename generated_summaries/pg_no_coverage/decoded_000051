@@ -1,0 +1,27 @@
+the importance of learning visual discriminative metric and discriminative metric learning has been extensively studied in recent years @ cite @ cite .
+ for example , @ cite and @ cite used metric learning to learn a set of common high-level semantic components across the two domains .
+ The al @ cite proposed a continuous sparse non-negative matrix factorization ( To ) approach to learn zero-shot discrimination and data association .
+ @ cite , the attributes of the images are extracted from the aligned representation of the embedding space and the relation between the unlabeled instances .
+ in @ cite the authors propose a novel zero-shot learning method for zero-shot image retrieval .
+ the temporal attention model was introduced by lu and tian @ cite who proposed an algorithm to learn an embedding for zero-shot learning .
+ in this work , we focus on the problem of optimizing the entity and semantic information contained in the learned representation .
+ in contrast , our approach is based on the random walk and selective learning behavior , which is different from our work .
+ our work differs from these previous works in that we focus only on the vital aspects of the metric learning idea .
+ to the best of our knowledge , there has been no prior work on zero-shot image retrieval @ cite @ cite .
+ in @ cite , the authors present a new zero-shot learning approach for person embedding learning .
+ @ cite proposed a method to learn an image embedding using a semantic word embedding .
+ the joint representation of the image and semantic interdependencies between spatial and channel dimensions of previously unseen cases has also been investigated in the context of image classification @ cite and person re-identification @ cite to learn the joint representations of images and videos .
+ in this work , we focus on the importance of learning visual discriminative metric for metric learning and preventing partial selective learning behavior of the embedding space .
+ in contrast to our work , our method is based on the random walk and the channel-attention module , which allows us to integrate the discriminative structure of the class label into a continuous semantic space .
+ our work is also closely related to the work of [UNK] al @ cite who propose to use element-wise multiplication to transform a semantic embedding into a semantic space , where the features are learned from a weighted sum of the features .
+ the importance of learning visual discriminative metric learning has been extensively studied in recent years @ cite @ cite .
+ for example , @ cite proposed a general framework for few-shot image retrieval .
+ the authors of @ cite use a similar approach to learn a linear compatibility between the points in the support vector .
+ @ cite , the authors show that our approach can be seen as an extension of the large margin constraint.
+ method for few-shot classification .
+ in this work , we focus on the partial selective learning of the metric learning problem , which can be viewed as a generalization of the estimation of compactness and channel-attention metric learning .
+ in @ cite the authors propose to use the fine-tuning procedure to improve the performance of one-shot classification learning .
+ however , this approach does not address the problem of zero-shot image retrieval ( wsd ) .
+ in contrast , our approach is based on the random walk , which is the best of our knowledge of the learning algorithm .
+ we use the same idea in the present work , and we refer the reader to the recent survey @ cite for more details .
+

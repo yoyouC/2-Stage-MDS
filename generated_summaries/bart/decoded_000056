@@ -1,0 +1,22 @@
+@cite proposed a fast and efficient convolutional neural network, ESPNet, which is efficient in terms of computation, memory, and power .
+ The network can process high resolution images at a rate of 112 and 9 frames per second on a standard GPU and edge device, respectively .
+ However, the performance of ESPNet is only 8 times smaller than the state-of-the-art semantic segmentation network PSPNet, while its category-wise accuracy is still 8 less .
+ Moreover, the efficiency of the network is limited by the number of layers and the memory requirement of the GPU .
+ Semantic segmentation can be divided into two main categories .
+ The first category is based on CNNs @cite  .
+ The second category consists of deconvolution and unpooling layers, which are trained end-to-end for semantic segmentation .
+ In the first category, the deconvolutions are used to extract features from the input image, and the unpooled layers are used for classification .
+ The second class consists of the fully convolutional layers and the fully-connected layers .
+ The deconvvolution layers can be used for image super-resolution (SR), which is a challenging task due to the high computational complexity .
+ Semantic segmentation has been a long-standing research problem in computer vision .
+ Early works in semantic segmentation are mainly based on hand-crafted features @cite  .
+ Recently, deep neural networks have achieved great success in many computer vision tasks, such as image segmentation, object detection and segmentation .
+ In recent years, deep convolutional neural networks (CNNs) have been widely used for image semantic segmentations .
+ In the field of computer vision, deep CNNs have achieved impressive results in many vision tasks such as object detection, segmentation and image captioning .
+ In this paper, we focus on the segmentation of thermal infrared images .
+ Semantic segmentation has been extensively studied in the past few years .
+ In @cite , the authors proposed a two-layer hierarchical Conditional Random Field (HCRF) to jointly predict depth and semantic segmentation .
+ The authors also proposed a unified framework for joint depth prediction and semantic label prediction .
+ In this paper, we propose EC-CNN to adaptively incorporate edge prior knowledge and adaptively integrate edge prior prior knowledge in the segmentation process .
+ In addition, we introduce a new benchmark dataset named "Segment Objects in Day And night"(SODA) for comprehensive evaluations in thermal infrared segmentation, which contains 20 semantic region labels .
+

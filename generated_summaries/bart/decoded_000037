@@ -1,0 +1,15 @@
+In recent years, there has been a lot of research on using machine translation models for simultaneous interpreting .
+ @cite proposed a reinforcement learning-based approach to simultaneous translation .
+ They firstly proposed a parser-based semantic boundary detection method to detect all semantic boundaries based on our definition .
+ They then integrated the historical representation into NMT in two strategies: 1) a warm-start of encoder and decoder states, and 2) an auxiliary context source for updating decoder state .
+ In this paper, we propose a novel context-aware translation model that can simultaneously determine the boundaries of information units and translation quality easily .
+ In recent years, there have been a lot of efforts to improve the performance of neural machine translation (NMT) @cite  .
+ In particular, @math -gram language model has been used in NMT to improve translation quality, and @math-gram language models have been used to enhance translation quality .
+ In addition to NMT, some researchers have also tried to incorporate statistical machine translation features into NMT .
+ @math , a translation model with a translation and a language decoder has been proposed to improve NMT performance .
+ In this paper, we focus on NMT in the sense of surprisingly good discourse coherence, specially in terms of the number of IUs .
+ Neural Machine Translation (NMT) @cite is a neural machine translation system which has been successfully applied to a wide range of tasks, such as machine translation, natural language processing, and machine translation .
+ NMT has been widely used in the past few years to improve the performance of NMT .
+ For example, in the context-aware NMT, the encoder-decoder model @cites is used to predict the source word embeddings and the target word embedding are used to generate the target sentence .
+ In the context of translation, the cross-sentence coherence between source and target words has been shown to be beneficial for NMT in the sense of better alignment and translation of rare words .
+ However, the

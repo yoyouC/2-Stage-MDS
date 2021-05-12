@@ -1,0 +1,11 @@
+segment-based action localization has a long history in computer vision and has resulted in numerous recent developments in weakly-supervised action recognition @ cite @ cite .
+ in this section , we focus on action recognition and temporal action localization .
+ action localization is closely related to weakly-supervised learning and action recognition .
+ for example , in @ cite , a selective search method has been proposed to learn action models from untrimmed videos .
+ @ cite proposed a discriminative clustering approach to localize actions in a long video sequence .
+ the authors of @ cite use a attention model to learn the learned features from untrimmed video that are extracted from video-level class labels .
+ in contrast to our work , we use enhanced localization to enhance the separability of learned action features, to improve the learned discriminative action feature detectors .
+ we also use the separability mechanism to relieve the dependence of action category labels and the counting network to estimate the action samples, .
+ we use a similar approach to the form of action classification and detection of action detection .
+ our approach is similar to our approach , but the crf-based method @ cite uses a adapted localization approach .
+

@@ -1,0 +1,5 @@
+StaTIX and DPMFP, @cite proposed a hierarchical clustering algorithm based on the DPM technique, the approach of StaTIX and DPMFP, Their approach was implemented by leveraging in the context of the schema, and their results are quite different. 
+ They also propose a hierarchical approach to reduce the number of clusters in the input data. 
+ In contrast, our approach is more general and can be applied to any general case of 3D point clouds because it is not only applicable to the case where the latent cluster structure of the input is not the same as we do. 
+ Our work is also related to that of @cite @cite @cite in that it does not consider the case of the similarity matrix rather than the schema, but we do not assume that the model is not partitioned but it is unclear how the use of noisy is not limited to the noise in the case that we are interested in @cite , and our approach to the schema, is similar to the one presented in this paper. 
+ However, the method in @cite is not applicable to 3D data set and is not suitable for the problem of document schema schema

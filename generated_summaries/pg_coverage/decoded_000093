@@ -1,0 +1,11 @@
+there has been a large body of work on energy storage for economic dispatch .
+ for example , @ cite proposes a mixed integer programming for a wide range of future energy systems , and @ cite present a computationally efficient generation scheduling model for primary dispatch mandatory products .
+ @ cite proposed a two-step approach to schedule the energy consumption in a series of response products from renewable generation services .
+ the authors of @ cite studied the problem of load balancing and wind induced directional exchange rates in monetary values of different frequency response .
+ in @ cite @ cite , the authors propose to use the utility function in the electricity system.
+ model , while @ cite uses unit commitment model to schedule inertial response, to procure the exchange of the solution .
+ however , none of these works are not concerned with the electricity response regulation , which is not available in the context of energy storage .
+ in our work , we assume that frequency response (EFR).
+ can be modeled by the commitment model , which does not consider the balancing reserve the system loads .
+ our work is also related to the present work in this area .
+

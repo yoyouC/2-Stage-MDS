@@ -1,0 +1,12 @@
+the semantic information has been widely used in the context of extractive summarization @ cite @ cite .
+ most of the work has focused on the problem of generating a summary of retrieved documents .
+ for example , @ cite proposed an extractive system based on information.
+ extractive summary generation .
+ @ cite present a system for extracting sentences from the selected sentences using the integrated graph .
+ the authors of @ cite propose a summarization method based on a scoring tree based on the French of a selected set of documents .
+ however to the best of our knowledge , no previous work has been done on inferring the similarity between the extractive and the contextual information of the documents in the summary of the entire summary .
+ in @ cite , the authors present a QueSTS, approach for text summarization in a collection of documents , where the goal is to find a query specific extractive summary for a given set of documents.
+ queries .
+ in this paper , we propose a novel integrated graph approach to represent the contextual relationships between extractive summarization and document embedding .
+ in our work , we focus on the text summarization problem .
+

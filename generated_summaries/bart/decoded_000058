@@ -1,0 +1,19 @@
+In @cite , the authors discuss the trade-off between the cost and the performance of a sensor suite .
+ They propose a method based on factor graphs to quantity the error given by a combination of sensors for the simultaneous localization and mapping task, as a function of the individual sensor capabilities .
+ The authors also discuss the impact of the number of sensors on the system's performance .
+ In this work, the authors consider the problem of optimizing the detection performance of sensor networks under communication constraints on the common access channel .
+ In addition, they consider the tradeoffs between sensor network performance and sensor network resiliency .
+ A number of approaches have been proposed to incorporate sensor information into the planning process .
+ For example, the hierarchical Voronoi Graph (HGVG) @cite incorporates sensor information reflecting the state of a robot's environment into its planning process, and then uses the HGVG for future excursions in the environment .
+ In addition, the Hierarchical Gabor Gabor (HGG), which is a concise representation of an environment, is used to incrementally construct a sensor map for future explorations in an unknown environment .
+ The HGV Gabor is also used in the context of motion planning, where a robot can incrementally build a sensor mapping map based on its observations .
+ In @cite , a graph-based visual simultaneous localization and mapping (SLAM) system using straight lines as features is proposed .
+ The authors use a stereo rig as the sole sensor to infer spatial semantics from the map .
+ However, the authors do not consider the environmental attributes such as landmark density, location, and the available types of complimentary sensors .
+ In contrast, our approach considers the environmental characteristics of the environment and considers the trade-off between the performance, cost, and resiliency of distinct sensor selections based on the vehicle's operating environment .
+ In addition, we do not take into account the environment's environmental attributes .
+ In @cite , the authors proposed an adaptive Kalman filter (EKF) for simultaneous localization and mapping of mobile robots or vehicles .
+ The EKF is based on the assumption that the sensors are aware of the specific covariance matrices employed by each sensor .
+ The authors proposed a method that uses a probabilistic encryption scheme, which randomly maps the sensor's data to another quantizer output level using a stochastic cipher matrix (key) .
+ The optimal solution for the cipher matrices is obtained in order to maximize J-divergence for the EFC, whereas ensuring that it is zero for the AFC .
+

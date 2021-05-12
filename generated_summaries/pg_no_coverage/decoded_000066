@@ -1,0 +1,40 @@
+person re-identification has become a hot topic in computer vision and computer vision .
+ it has been recently shown that there is a large body of work in the literature @ cite @ cite .
+ in this section , we briefly review the most relevant work related to our work .
+ we refer the reader to @ cite for a comprehensive review of recent developments in the field of person structure and person identification .
+ for instance , in @ cite , the authors of @ cite use a similar approach to learn the optimal distance between views and body parts of the same person .
+ @ cite propose a view-specific framework to localize deformable pedestrian parts from the feature extraction stage.
+ .
+ the relative local distance metric is learned by minimizing the margin between the body joints and the local feature vectors .
+ the difference is that the relative distance between the views of the training set is maximized to match the features of the person and the same images .
+ the authors propose a deep neural network-based framework for each camera view with a cross-view center , which embeds the thousands of body parts into a structure-aware feature representation.
+ .
+ person re-id has become a hot topic in computer vision and computer vision .
+ most recently person structure @ cite @ cite has been proposed to learn a similarity metric for person re-identification .
+ in @ cite , the color space is used to learn the color feature, image and local body-parts features .
+ @ cite proposed a novel end-to-end deep correspondence framework to encode global full-body and local feature representation in a sequence of tracked human regions .
+ the symmetry structure of the semantics-aware image representation has also been investigated in the context of person re-identification.
+ @ cite and person re-identification @ cite .
+ in this work , we focus on the problem of person re-id and metric learning and discriminative feature representation learning .
+ our work differs from these previous works in that we focus only on the performance of the person and person structure , and we believe that our approach is different from our work .
+ in contrast , our work focuses on the finer-grained variations of person structure in person re-identification , which is not relevant to our way.
+ approach .
+ (RFA-Net) et al @ cite use a similar approach to learn both the global feature matching and metric framework .
+ recently , there has been a growing body of work on person re-id @ cite @ cite and person re-identification @ cite .
+ in this work , we focus on the person structure of person and gallery images , which can be regarded as a structure-aware feature representation.
+ descriptor .
+ we refer the reader to @ cite for a comprehensive review on person re-identification .
+ in @ cite , the authors present a human part-aligned representation for re-id matching to align pedestrians from different regions of a pair of probe and the probe and gallery views .
+ the soft local distance constraint is used to guide the capacity of feature representation in the gallery (parts) architecture .
+ @ cite proposed a similar approach to learn attention selection and descriptor learning .
+ the authors of @ cite use feature maps to select regions of body parts of the human body , and @ cite propose to learn the similarities between the corresponding regions and gallery captured through pose estimation and retrieval .
+ in contrast , our method is based on convolutional neural networks , which facilitates the use of feature maps and local feature representation to improve the performance of deep learning .
+ recently , there has been a growing body of work on person re-id @ cite @ cite .
+ in @ cite , the authors propose a scalable distance driven approach to learn a discriminant low dimensional subspace and metric learning in an unsupervised manner .
+ @ cite proposed a pose-transferrable method based on the deep neural network ( cnn ) to learn discriminative features from the whole image .
+ in this work , we use a similar approach to fine-tuning the feature representation of the person and maximizes the occurrence of local feature vectors .
+ in contrast , our work is different from ours in that it is not clear how to learn the global feature extraction from person structure , which can be applied to improve the performance of deep learning .
+ our approach is similar to that of @ cite and @ cite who propose to use the relative distance between the views of images and different parts of the underlying person structure .
+ in the following , we propose a novel distance metric to guide the person structure, feature representation , which allows us to integrate underlying and local feature maps to make the generated person detectors.
+ .
+

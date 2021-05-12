@@ -1,0 +1,20 @@
+a number of studies have been proposed to fulfill the problem of recognizing human group activities in surveillance systems @ cite @ cite .
+ in the context of human group activity , @ cite proposed a hierarchical deep reinforcement learning approach for learning a dialogue agent from a probabilistic dialogue policy .
+ @ cite propose a novel model based on the dominant characteristics of the top-level of a multi-target video , and @ cite used a codebook model to predict the discriminative dialogue of actions .
+ however by @ cite , the subtask in our approach is different from theirs in the sense that the relations between persons.
+ and the granularities are not available in the graph , rather than the learned relations .
+ our approach differs from the previous work in the area of group activities.
+ @ cite where the goal is to learn the dynamics of dialogue manager for each video .
+ in contrast to our work , we aim to learn a relation between group actions and high-level relations between group activities.
+ and spatio-temporal activities .
+ our work is inspired by the work of @ cite who used a similar approach to the task of video parsing .
+ the problem of group activity recognition in videos has picked considerable interest in the area of activity recognition @ cite @ cite .
+ in @ cite , a hierarchical dynamical system was proposed to identify temporal patterns among human objects .
+ @ cite proposed a structural model for real-time action recognition , where a group of subregions.
+ action is modeled as a sequence of actions .
+ a similar approach was proposed by @ cite and @ cite for action recognition .
+ in the context of action space , @ cite proposes a fuzzy subspace based on identified group activities as well as the influence of the shape information of human objects , while @ cite uses a greedy search level to identify the activities in the testing process .
+ in contrast to our work , our work is based on the high-level relations of the low-level features , rather than using deep learning for group activity recognition.
+ , which is related to our problem , in the sense that the activities of the group are not present in the graph , while our approach does not consider the action space of the underlying action space .
+ in this paper , we focus on the relation between group activities and the relations between actions .
+
